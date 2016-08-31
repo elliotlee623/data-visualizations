@@ -1,0 +1,31 @@
+{% extends "templates/base.html" %}
+{% block content %}
+
+<div class="row">
+  <div class="col-sm-4">
+    <h3>Demos</h3>
+    <ul>
+      {% for item in navigation.demos|sort(attribute="index") %}
+      <li><a href="/{{item.dir}}/">{{item.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="col-sm-4">
+    <h3>Experiences</h3>
+    <ul>
+      {% for item in navigation.experiences|sort(attribute="index") %}
+      <li><a href="/{{item.dir}}/">{{item.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="col-sm-4">
+    <h3>Projects</h3>
+    <ul>
+      {% for item in navigation.projects|sort(attribute="index") %}
+      <li><a href="/{{item.dir}}/">{{item.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{% endblock %}
