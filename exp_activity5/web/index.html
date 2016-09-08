@@ -1,0 +1,23 @@
+{% extends "templates/projectBase.html" %}
+{% block projectContent %}
+
+<h2>Win Streaks in Illini Football</h2>
+<p>
+  We explored every football game from 1892 through 2015, calculating the
+  win streak for the Illini verses every team they've played.
+</p>
+<p>
+  Every circle represents an Illini football game.  A
+  <b style="color: hsla(255, 100%, 30%, 1);">blue</b>
+  circle represents a
+  win; a
+  <b style="color: hsla(0, 100%, 30%, 1);">red</b>
+  circle a loss.  The <b>larger</b> the circle, the greater the Illini win
+  streak coming into the game.
+</p>
+
+
+<div id="chart" style="margin: 0px auto; text-align: center;"></div>
+<script src="web/vis.js"></script>
+
+{% endblock %}
