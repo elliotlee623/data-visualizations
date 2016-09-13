@@ -133,6 +133,16 @@ var visualize = function(data) {
      .data(data)
      .enter()
      .append("circle")
+     .attr("cx", function (d, i){
+       return yearsScale( d["Season"]);
+     })
+     .attr("cy", function (d, i) {
+       return teamScale( d["Opponent"]);
+     })
+     .attr("r", function (d, i){
+       return 0;
+     })
+     .attr("fill", "blue")
 
 
      ;
