@@ -1,0 +1,19 @@
+{% extends "templates/projectBase.html" %}
+{% block projectContent %}
+
+<h2>Illini Football Scores, 1892-2015</h2>
+
+<p>
+  Ashley created the following draft:
+</p>
+<p style="text-align: center;">
+  <img src="web/vis.png" style="margin: 0px auto; border: solid 1px black;" />
+</p>
+
+<p>
+  Here is our d3.js visualization:
+</p>
+<div id="chart" style="margin: 0px auto; text-align: center;"></div>
+<script src="web/vis.js"></script>
+
+{% endblock %}
