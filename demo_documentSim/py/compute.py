@@ -58,7 +58,7 @@ def getWordFreq(words):
 outData = []
 
 # Open the text, read the entire file
-textFile = 'res/hg.txt'
+textFile = 'res/hg-short.txt'
 text = open(textFile).read()
 
 # Clean the text of Hunger Games-specific page stuffs
