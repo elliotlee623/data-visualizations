@@ -22,9 +22,9 @@ var visualize = function(data) {
   /*
    * # Boilerplate Code for d3.js
    */
-  var margin = { top: 20, right: 20, bottom: 20, left: 20 },
+  var margin = { top: 20, right: 20, bottom: 20, left: 100 },
      width = 800 - margin.left - margin.right,
-     height = 970 - margin.top - margin.bottom;
+     height = 20000 - margin.top - margin.bottom;
 
   var svg = d3.select("#chart")
               .append("svg")
@@ -47,5 +47,47 @@ var visualize = function(data) {
   /*
    * # Visual Encodings
    */
+   //Element 1
+   var courseNames = _.map(data, "name");
+   courseNames = ._unique(courseNames);
+   console.log(" == Course Names == ");
 
-};
+   var courseScale = d3.scaleBand()
+                       .domain(courseNames)
+                       .range([0, height]);
+
+   //Element 2 - average GPA
+   var avgGpaScale = d3.scaleLinear()
+                       .domain( [0, 4])
+                       .range([0, width]);
+
+   var avgGpaAxis = d3.axisBottom()
+                      .scale(avgGpaScale);
+
+   svg.append("g")
+      .call(avgGpaAxis);
+
+  //Element 3 - %As scale
+  var pctAScale = d3.scaleLinear()
+                    .domain([0,1])
+                    .range([0,width]);
+
+  var pctAAxis = d3.axisTop()
+                   .scale(pctAScale);
+
+  svg.append("g")
+     .call(pctAAxis);
+
+  //Element 4 - Avg GPA Circles
+  svg.selectAll("circles")
+     .data(data)
+     .enter()
+     .append("circle")
+     .attr("r", 10)
+     .attr("cx", function (d, i)){
+       return avgGpaScale(d["avg_gpa"]);
+     })
+     .attr("cy", function(d,i){
+       return courseScale(d["name"]);
+     })
+  };

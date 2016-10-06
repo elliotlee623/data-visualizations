@@ -140,9 +140,16 @@ var visualize = function(data) {
        return teamScale( d["Opponent"]);
      })
      .attr("r", function (d, i){
-       return 0;
+       return d["Streak"] + 1;
      })
-     .attr("fill", "blue")
+     .attr("fill", function (d, i){
+       if ( d["Result"] == "W"){
+         return "blue";
+       }
+       else {
+         return "red";
+       }
+     })
 
 
      ;

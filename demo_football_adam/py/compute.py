@@ -14,20 +14,24 @@ for row in data:
 
     # Group by year
     if year not in years:
-        years[year] = 0
+        years[year] = {
+            "illini": 0,
+            "opponent": 0
+        }
 
     # Add diff to the year
-    years[year] += int(illiniScore) - int(otherScore)
+    years[year]["illini"] += int(illiniScore)
+    years[year]["opponent"] += int(otherScore)
 
 
 scoreDiffList = []
 for year, diff in years.items():
     scoreDiffList.append({
         "year": year,
-        "diff": diff
+        "points": diff
     })
 
-scoreDiffList = sorted(scoreDiffList, key=lambda k: k['year']) 
+scoreDiffList = sorted(scoreDiffList, key=lambda k: k['year'])
 
 with open("res/scoreDiff.json", "w") as f:
     outdata = json.dumps(scoreDiffList, indent=2)
