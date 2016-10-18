@@ -1,0 +1,658 @@
+[
+  {
+    "AvgGPA": 2.977499999999999,
+    "Subject": "MATH",
+    "Number": "125",
+    "Number Courses": 3,
+    "Instructor": "Folwaczny, Lena C",
+    "PercentageA": 0.2383177570093458
+  },
+  {
+    "AvgGPA": 2.695482233502538,
+    "Subject": "MATH",
+    "Number": "125",
+    "Number Courses": 2,
+    "Instructor": "Muncaster, Robert G",
+    "PercentageA": 0.15228426395939088
+  },
+  {
+    "AvgGPA": 2.605141242937853,
+    "Subject": "MATH",
+    "Number": "225",
+    "Number Courses": 2,
+    "Instructor": "Bradlow, Steven B",
+    "PercentageA": 0.2598870056497175
+  },
+  {
+    "AvgGPA": 2.96,
+    "Subject": "MATH",
+    "Number": "225",
+    "Number Courses": 2,
+    "Instructor": "Kirr, Eduard-Wilhelm",
+    "PercentageA": 0.3918918918918919
+  },
+  {
+    "AvgGPA": 3.2925,
+    "Subject": "MATH",
+    "Number": "225",
+    "Number Courses": 2,
+    "Instructor": "Palmore, Julian I",
+    "PercentageA": 0.4583333333333333
+  },
+  {
+    "AvgGPA": 3.1254166666666667,
+    "Subject": "MATH",
+    "Number": "347",
+    "Number Courses": 2,
+    "Instructor": "Fuchs, Elena D",
+    "PercentageA": 0.4583333333333333
+  },
+  {
+    "AvgGPA": 2.602692307692308,
+    "Subject": "MATH",
+    "Number": "347",
+    "Number Courses": 2,
+    "Instructor": "Duursma, Iwan M",
+    "PercentageA": 0.2692307692307692
+  },
+  {
+    "AvgGPA": 2.8980769230769234,
+    "Subject": "MATH",
+    "Number": "347",
+    "Number Courses": 2,
+    "Instructor": "Samart, Detchat",
+    "PercentageA": 0.34615384615384615
+  },
+  {
+    "AvgGPA": 2.5304545454545457,
+    "Subject": "MATH",
+    "Number": "347",
+    "Number Courses": 2,
+    "Instructor": "Miller, Alexander R",
+    "PercentageA": 0.3181818181818182
+  },
+  {
+    "AvgGPA": 3.5714285714285716,
+    "Subject": "MATH",
+    "Number": "12",
+    "Number Courses": 2,
+    "Instructor": "Folwaczny, Lena C",
+    "PercentageA": 0.6190476190476191
+  },
+  {
+    "AvgGPA": 2.1908181818181816,
+    "Subject": "MATH",
+    "Number": "12",
+    "Number Courses": 2,
+    "Instructor": "Reddy, Alison",
+    "PercentageA": 0.12727272727272726
+  },
+  {
+    "AvgGPA": 3.608695652173913,
+    "Subject": "MATH",
+    "Number": "568",
+    "Number Courses": 2,
+    "Instructor": "Gorvett, Richard",
+    "PercentageA": 0.6086956521739131
+  },
+  {
+    "AvgGPA": 2.626060606060606,
+    "Subject": "MATH",
+    "Number": "442",
+    "Number Courses": 2,
+    "Instructor": "Rapti, Zoi",
+    "PercentageA": 0.2727272727272727
+  },
+  {
+    "AvgGPA": 2.880000000000001,
+    "Subject": "MATH",
+    "Number": "220",
+    "Number Courses": 2,
+    "Instructor": "Andersen, Nickolas R",
+    "PercentageA": 0.36
+  },
+  {
+    "AvgGPA": 2.41185046728972,
+    "Subject": "MATH",
+    "Number": "220",
+    "Number Courses": 4,
+    "Instructor": "Murphy, Robert F",
+    "PercentageA": 0.25981308411214954
+  },
+  {
+    "AvgGPA": 3.054,
+    "Subject": "MATH",
+    "Number": "479",
+    "Number Courses": 2,
+    "Instructor": "Gorvett, Richard",
+    "PercentageA": 0.32
+  },
+  {
+    "AvgGPA": 3.3329999999999997,
+    "Subject": "MATH",
+    "Number": "124",
+    "Number Courses": 3,
+    "Instructor": "Hasler, Jordan J",
+    "PercentageA": 0.48
+  },
+  {
+    "AvgGPA": 3.2122727272727274,
+    "Subject": "MATH",
+    "Number": "124",
+    "Number Courses": 2,
+    "Instructor": "Hickok, Lisa M",
+    "PercentageA": 0.45454545454545453
+  },
+  {
+    "AvgGPA": 2.8726923076923074,
+    "Subject": "MATH",
+    "Number": "124",
+    "Number Courses": 2,
+    "Instructor": "Reddy, Alison",
+    "PercentageA": 0.3076923076923077
+  },
+  {
+    "AvgGPA": 3.16625,
+    "Subject": "MATH",
+    "Number": "124",
+    "Number Courses": 2,
+    "Instructor": "Wang, Han",
+    "PercentageA": 0.3333333333333333
+  },
+  {
+    "AvgGPA": 3.361666666666667,
+    "Subject": "MATH",
+    "Number": "412",
+    "Number Courses": 2,
+    "Instructor": "Kostochka, Alexandr V",
+    "PercentageA": 0.5416666666666666
+  },
+  {
+    "AvgGPA": 3.169830508474576,
+    "Subject": "MATH",
+    "Number": "402",
+    "Number Courses": 3,
+    "Instructor": "Sapir, Jenya M",
+    "PercentageA": 0.4067796610169492
+  },
+  {
+    "AvgGPA": 2.8946031746031746,
+    "Subject": "MATH",
+    "Number": "413",
+    "Number Courses": 3,
+    "Instructor": "Yong, Alexander N",
+    "PercentageA": 0.4444444444444444
+  },
+  {
+    "AvgGPA": 3.2026086956521738,
+    "Subject": "MATH",
+    "Number": "447",
+    "Number Courses": 2,
+    "Instructor": "Solecki, Slawomir",
+    "PercentageA": 0.34782608695652173
+  },
+  {
+    "AvgGPA": 2.856521739130435,
+    "Subject": "MATH",
+    "Number": "447",
+    "Number Courses": 2,
+    "Instructor": "Lerman, Eugene M",
+    "PercentageA": 0.43478260869565216
+  },
+  {
+    "AvgGPA": 2.513076923076923,
+    "Subject": "MATH",
+    "Number": "441",
+    "Number Courses": 2,
+    "Instructor": "Hur, Mi Kyoung",
+    "PercentageA": 0.3076923076923077
+  },
+  {
+    "AvgGPA": 2.4266666666666663,
+    "Subject": "MATH",
+    "Number": "441",
+    "Number Courses": 3,
+    "Instructor": "Xu, Samantha",
+    "PercentageA": 0.2777777777777778
+  },
+  {
+    "AvgGPA": 3.4599999999999995,
+    "Subject": "MATH",
+    "Number": "441",
+    "Number Courses": 2,
+    "Instructor": "DeVille, Robert E",
+    "PercentageA": 0.7931034482758621
+  },
+  {
+    "AvgGPA": 3.727727272727272,
+    "Subject": "MATH",
+    "Number": "564",
+    "Number Courses": 2,
+    "Instructor": "Kirkpatrick, Kay L",
+    "PercentageA": 0.7727272727272727
+  },
+  {
+    "AvgGPA": 3.30925925925926,
+    "Subject": "MATH",
+    "Number": "423",
+    "Number Courses": 2,
+    "Instructor": "Kapovitch, Ilia",
+    "PercentageA": 0.6296296296296297
+  },
+  {
+    "AvgGPA": 3.0156818181818177,
+    "Subject": "MATH",
+    "Number": "476",
+    "Number Courses": 3,
+    "Instructor": "Feng, Runhuan",
+    "PercentageA": 0.3977272727272727
+  },
+  {
+    "AvgGPA": 3.1459134615384623,
+    "Subject": "MATH",
+    "Number": "285",
+    "Number Courses": 4,
+    "Instructor": "Manfroi, Aldo J",
+    "PercentageA": 0.47115384615384615
+  },
+  {
+    "AvgGPA": 3.100985915492958,
+    "Subject": "MATH",
+    "Number": "285",
+    "Number Courses": 3,
+    "Instructor": "Agbanusi, Ikemefuna C",
+    "PercentageA": 0.3732394366197183
+  },
+  {
+    "AvgGPA": 2.852727272727273,
+    "Subject": "MATH",
+    "Number": "285",
+    "Number Courses": 3,
+    "Instructor": "Haboush, William J",
+    "PercentageA": 0.32954545454545453
+  },
+  {
+    "AvgGPA": 2.971304347826087,
+    "Subject": "MATH",
+    "Number": "285",
+    "Number Courses": 3,
+    "Instructor": "Pascaleff, James",
+    "PercentageA": 0.43478260869565216
+  },
+  {
+    "AvgGPA": 3.1754237288135587,
+    "Subject": "MATH",
+    "Number": "285",
+    "Number Courses": 2,
+    "Instructor": "Baryshnikov, Juliy",
+    "PercentageA": 0.4915254237288136
+  },
+  {
+    "AvgGPA": 2.654074074074074,
+    "Subject": "MATH",
+    "Number": "181",
+    "Number Courses": 2,
+    "Instructor": "Work, Grace M",
+    "PercentageA": 0.2962962962962963
+  },
+  {
+    "AvgGPA": 3.3340298507462682,
+    "Subject": "MATH",
+    "Number": "286",
+    "Number Courses": 2,
+    "Instructor": "Udrea, Bogdan T",
+    "PercentageA": 0.5970149253731343
+  },
+  {
+    "AvgGPA": 3.4007246376811593,
+    "Subject": "MATH",
+    "Number": "286",
+    "Number Courses": 2,
+    "Instructor": "Kavruk, Ali S",
+    "PercentageA": 0.5362318840579711
+  },
+  {
+    "AvgGPA": 3.0872992700729927,
+    "Subject": "MATH",
+    "Number": "286",
+    "Number Courses": 3,
+    "Instructor": "Tao, Lizheng",
+    "PercentageA": 0.4744525547445255
+  },
+  {
+    "AvgGPA": 3.8434375000000003,
+    "Subject": "MATH",
+    "Number": "453",
+    "Number Courses": 2,
+    "Instructor": "Zaharescu, Alexandru",
+    "PercentageA": 0.8125
+  },
+  {
+    "AvgGPA": 3.0521875000000005,
+    "Subject": "MATH",
+    "Number": "453",
+    "Number Courses": 2,
+    "Instructor": "Luu, Martin T",
+    "PercentageA": 0.40625
+  },
+  {
+    "AvgGPA": 3.291081081081081,
+    "Subject": "MATH",
+    "Number": "103",
+    "Number Courses": 3,
+    "Instructor": "Hoffmeister, April M",
+    "PercentageA": 0.46846846846846846
+  },
+  {
+    "AvgGPA": 2.6103282828282834,
+    "Subject": "MATH",
+    "Number": "231",
+    "Number Courses": 3,
+    "Instructor": "Whittlesey, Kim",
+    "PercentageA": 0.27525252525252525
+  },
+  {
+    "AvgGPA": 2.948219696969697,
+    "Subject": "MATH",
+    "Number": "231",
+    "Number Courses": 2,
+    "Instructor": "Bronski, Jared C",
+    "PercentageA": 0.29924242424242425
+  },
+  {
+    "AvgGPA": 2.8577586206896552,
+    "Subject": "MATH",
+    "Number": "231",
+    "Number Courses": 2,
+    "Instructor": "Albin, Pierre",
+    "PercentageA": 0.3137931034482759
+  },
+  {
+    "AvgGPA": 2.803216374269006,
+    "Subject": "MATH",
+    "Number": "231",
+    "Number Courses": 2,
+    "Instructor": "Ahlgren, Scott D",
+    "PercentageA": 0.3333333333333333
+  },
+  {
+    "AvgGPA": 2.545,
+    "Subject": "MATH",
+    "Number": "461",
+    "Number Courses": 2,
+    "Instructor": "Vondracek, Zoran",
+    "PercentageA": 0.26666666666666666
+  },
+  {
+    "AvgGPA": 2.5340000000000003,
+    "Subject": "MATH",
+    "Number": "461",
+    "Number Courses": 2,
+    "Instructor": "Di Francesco, Philippe",
+    "PercentageA": 0.26666666666666666
+  },
+  {
+    "AvgGPA": 2.9358064516129034,
+    "Subject": "MATH",
+    "Number": "461",
+    "Number Courses": 2,
+    "Instructor": "Lierl, Janna U",
+    "PercentageA": 0.3225806451612903
+  },
+  {
+    "AvgGPA": 2.7820689655172415,
+    "Subject": "MATH",
+    "Number": "461",
+    "Number Courses": 3,
+    "Instructor": "Dey, Partha S",
+    "PercentageA": 0.3793103448275862
+  },
+  {
+    "AvgGPA": 2.459213836477987,
+    "Subject": "MATH",
+    "Number": "115",
+    "Number Courses": 3,
+    "Instructor": "McNeilly, Jennifer R",
+    "PercentageA": 0.20125786163522014
+  },
+  {
+    "AvgGPA": 2.5561904761904763,
+    "Subject": "MATH",
+    "Number": "417",
+    "Number Courses": 2,
+    "Instructor": "Ivanov, Sergei V",
+    "PercentageA": 0.19047619047619047
+  },
+  {
+    "AvgGPA": 2.392323232323233,
+    "Subject": "MATH",
+    "Number": "221",
+    "Number Courses": 2,
+    "Instructor": "McCarthy, Randy",
+    "PercentageA": 0.25757575757575757
+  },
+  {
+    "AvgGPA": 3.0023999999999997,
+    "Subject": "MATH",
+    "Number": "221",
+    "Number Courses": 3,
+    "Instructor": "Validashti, Javid",
+    "PercentageA": 0.35333333333333333
+  },
+  {
+    "AvgGPA": 2.052768361581921,
+    "Subject": "MATH",
+    "Number": "221",
+    "Number Courses": 2,
+    "Instructor": "Gilbert, Rebekah A",
+    "PercentageA": 0.11299435028248588
+  },
+  {
+    "AvgGPA": 2.6251680672268907,
+    "Subject": "MATH",
+    "Number": "221",
+    "Number Courses": 2,
+    "Instructor": "Watts, Jordan A",
+    "PercentageA": 0.2857142857142857
+  },
+  {
+    "AvgGPA": 2.888888888888889,
+    "Subject": "MATH",
+    "Number": "444",
+    "Number Courses": 2,
+    "Instructor": "Tserunyan, Anush",
+    "PercentageA": 0.3333333333333333
+  },
+  {
+    "AvgGPA": 3.301612903225806,
+    "Subject": "MATH",
+    "Number": "444",
+    "Number Courses": 2,
+    "Instructor": "Nikolaev, Igor G",
+    "PercentageA": 0.6451612903225806
+  },
+  {
+    "AvgGPA": 3.7973913043478262,
+    "Subject": "MATH",
+    "Number": "595",
+    "Number Courses": 2,
+    "Instructor": "Baryshnikov, Juliy",
+    "PercentageA": 0.9565217391304348
+  },
+  {
+    "AvgGPA": 3.3774193548387093,
+    "Subject": "MATH",
+    "Number": "484",
+    "Number Courses": 2,
+    "Instructor": "Molla, Theodore",
+    "PercentageA": 0.6129032258064516
+  },
+  {
+    "AvgGPA": 2.948219696969697,
+    "Subject": "MATH",
+    "Number": "299",
+    "Number Courses": 2,
+    "Instructor": "Bronski, Jared C",
+    "PercentageA": 0.29924242424242425
+  },
+  {
+    "AvgGPA": 2.8572664359861593,
+    "Subject": "MATH",
+    "Number": "299",
+    "Number Courses": 2,
+    "Instructor": "Albin, Pierre",
+    "PercentageA": 0.314878892733564
+  },
+  {
+    "AvgGPA": 2.777112676056338,
+    "Subject": "MATH",
+    "Number": "471",
+    "Number Courses": 3,
+    "Instructor": "Johnson, Paul H",
+    "PercentageA": 0.33098591549295775
+  },
+  {
+    "AvgGPA": 3.594347826086956,
+    "Subject": "MATH",
+    "Number": "500",
+    "Number Courses": 2,
+    "Instructor": "Loja Fernandes, Rui A",
+    "PercentageA": 0.6521739130434783
+  },
+  {
+    "AvgGPA": 2.7798795180722893,
+    "Subject": "MATH",
+    "Number": "210",
+    "Number Courses": 2,
+    "Instructor": "Gorvett, Richard",
+    "PercentageA": 0.2891566265060241
+  },
+  {
+    "AvgGPA": 3.6347619047619046,
+    "Subject": "MATH",
+    "Number": "199",
+    "Number Courses": 2,
+    "Instructor": "Yeager, Elyse C",
+    "PercentageA": 0.7619047619047619
+  },
+  {
+    "AvgGPA": 2.2877272727272726,
+    "Subject": "MATH",
+    "Number": "416",
+    "Number Courses": 2,
+    "Instructor": "Dutta, Sankar P",
+    "PercentageA": 0.22727272727272727
+  },
+  {
+    "AvgGPA": 3.18125,
+    "Subject": "MATH",
+    "Number": "348",
+    "Number Courses": 2,
+    "Instructor": "Malkiewich, Cary L",
+    "PercentageA": 0.5
+  },
+  {
+    "AvgGPA": 3.3143717277486915,
+    "Subject": "MATH",
+    "Number": "415",
+    "Number Courses": 3,
+    "Instructor": "Straub, Armin",
+    "PercentageA": 0.5261780104712042
+  },
+  {
+    "AvgGPA": 3.067660668380463,
+    "Subject": "MATH",
+    "Number": "415",
+    "Number Courses": 3,
+    "Instructor": "Hieronymi, Philipp C",
+    "PercentageA": 0.3496143958868895
+  },
+  {
+    "AvgGPA": 2.386842105263158,
+    "Subject": "MATH",
+    "Number": "213",
+    "Number Courses": 3,
+    "Instructor": "Kim, Sun",
+    "PercentageA": 0.2631578947368421
+  },
+  {
+    "AvgGPA": 2.9193548387096775,
+    "Subject": "MATH",
+    "Number": "446",
+    "Number Courses": 3,
+    "Instructor": "Gultepe, Funda",
+    "PercentageA": 0.3870967741935484
+  },
+  {
+    "AvgGPA": 3.6396153846153845,
+    "Subject": "MATH",
+    "Number": "540",
+    "Number Courses": 2,
+    "Instructor": "Li, Xiaochun",
+    "PercentageA": 0.5
+  },
+  {
+    "AvgGPA": 2.2018421052631583,
+    "Subject": "MATH",
+    "Number": "241",
+    "Number Courses": 2,
+    "Instructor": "Carpenter, Bruce",
+    "PercentageA": 0.2631578947368421
+  },
+  {
+    "AvgGPA": 2.77686,
+    "Subject": "MATH",
+    "Number": "241",
+    "Number Courses": 3,
+    "Instructor": "Tolman, Susan",
+    "PercentageA": 0.272
+  },
+  {
+    "AvgGPA": 2.9560000000000004,
+    "Subject": "MATH",
+    "Number": "241",
+    "Number Courses": 2,
+    "Instructor": "Kydonakis, Georgios",
+    "PercentageA": 0.4666666666666667
+  },
+  {
+    "AvgGPA": 3.141666666666666,
+    "Subject": "MATH",
+    "Number": "241",
+    "Number Courses": 3,
+    "Instructor": "Mueller, Stefan",
+    "PercentageA": 0.4696969696969697
+  },
+  {
+    "AvgGPA": 2.6617341040462428,
+    "Subject": "MATH",
+    "Number": "241",
+    "Number Courses": 3,
+    "Instructor": "Leininger, Christopher J",
+    "PercentageA": 0.23121387283236994
+  },
+  {
+    "AvgGPA": 3.4135185185185186,
+    "Subject": "MATH",
+    "Number": "241",
+    "Number Courses": 3,
+    "Instructor": "Oikhberg, Timur",
+    "PercentageA": 0.5185185185185185
+  },
+  {
+    "AvgGPA": 2.694400785854617,
+    "Subject": "MATH",
+    "Number": "241",
+    "Number Courses": 3,
+    "Instructor": "Cellarosi, Francesco",
+    "PercentageA": 0.26522593320235754
+  },
+  {
+    "AvgGPA": 2.8240816326530616,
+    "Subject": "MATH",
+    "Number": "410",
+    "Number Courses": 2,
+    "Instructor": "Vondracek, Zoran",
+    "PercentageA": 0.3673469387755102
+  }
+]
