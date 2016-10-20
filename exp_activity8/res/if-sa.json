@@ -1,0 +1,159 @@
+{
+  "links": [
+    {
+      "source": 0,
+      "target": 11,
+      "text": "Jimmy decides to turn right. "
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "text": "Jimmy decides to take the left path."
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "text": "Jimmy decided not to answer the man's riddle. "
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "text": "Jimmy decides to answer the riddle. "
+    },
+    {
+      "source": 6,
+      "target": 0,
+      "text": "Jimmy decides to turn down the man's offer for a trade. "
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "text": "Jimmy decides to take the strange man up on his offer and gives up his shoes for the beans. "
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "text": "Jimmy decides to walk towards the light. "
+    },
+    {
+      "source": 11,
+      "target": 14,
+      "text": "Restart"
+    },
+    {
+      "source": 12,
+      "target": 10,
+      "text": "Jimmy musters up his courage and decides to fight the man! "
+    },
+    {
+      "source": 12,
+      "target": 9,
+      "text": "Jimmy decides to take the right path. "
+    },
+    {
+      "source": 12,
+      "target": 15,
+      "text": "Jimmy takes the left path! "
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "text": "Suddenly, Jimmy begins to feel sleepy. "
+    },
+    {
+      "source": 14,
+      "target": 6,
+      "text": "Jimmy decided to take the right path. "
+    },
+    {
+      "source": 14,
+      "target": 12,
+      "text": "Jimmy decides to take the left path. "
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "text": "Jimmy decides to go down the center path. "
+    },
+    {
+      "source": 15,
+      "target": 5,
+      "text": "Jimmy turns around: with a sword in hand, there's no way he can lose! "
+    },
+    {
+      "source": 15,
+      "target": 8,
+      "text": "Jimmy decides to keep running: after all, he doesn't even know how to use a sword! "
+    }
+  ],
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "narrative": "He finds a clearing up ahead with two paths. Should he go left or right?",
+      "id": "noBeans"
+    },
+    {
+      "narrative": "Jimmy found the exit! He still has no idea where he is or how to get back home, but at least he's out of the maze now. That counts for something, right?",
+      "id": "exit"
+    },
+    {
+      "narrative": "Jimmy decides to turn right. For a long while, he kept walking straight ahead without running into anything. After a while, though, Jimmy finds a familiar clearing with an Oak tree and three paths in front of him...",
+      "id": "turnRight"
+    },
+    {
+      "narrative": "Jimmy stares at the man and the man stares back. Jimmy didn't feel like answering the man's riddle, so he decided to try and stare him down. Unfortunately, the man is nothing but a hallucination created by the beans Jimmy ate, and Jimmy proceeds to die of starvation trying to stare down his own imagination. Quite unfortunate.",
+      "id": "wrong"
+    },
+    {
+      "narrative": "He pops them into his mouth and immediately begins to feel woozy. Suddenly, another strange man appears in front of him! \nThe man asks \"What has roots as nobody sees, Is taller than trees Up, up, up it gies, And yet never grows?\". What should Jimmy say? Should he even say anything?",
+      "id": "riddle"
+    },
+    {
+      "narrative": "Unfortunately, the large man easily sidesteps Jimmy's pathetic attempt at a swing and quickly kills him. What were you thinking? Jimmy doesn't know how to use a sword!",
+      "id": "tryFight"
+    },
+    {
+      "narrative": "After a while, he came to a startling sight: another person! This stranger, however, seemed quite out of sorts: he had shifty, bloodshot eyes and was trembling. As Jimmy approached him, the stranger offered to trade Jimmy some \"magical beans\" for Jimmy's shoes. Should he take the trade?",
+      "id": "right1"
+    },
+    {
+      "narrative": "'A mountain!', Jimmy answers. The man gives an approving nod, and disappears into thin air. Jimmy shook his head in confusion. Must have been a hallucination from those beans. In any case, Jimmy sees a light up ahead...Jimmy found the exit! He still has no idea where he is or how to get back home, but at least he's out of the maze now. That counts for something, right?",
+      "id": "exit2"
+    },
+    {
+      "narrative": "But being the clumsy man that he is, he trips on his shoelaces and the sword goes flying. Luckily for him, the sword went flying right into the large man, killing him. Jimmy breathes a sigh of relief and notices a bright light ahead of him...",
+      "id": "tryRun"
+    },
+    {
+      "narrative": "Unfortunately, he runs into a dead end, and the large man summarily kills him. An unfortunate end.",
+      "id": "runRight"
+    },
+    {
+      "narrative": "Before he could even lift a fist, the large man slices him up. What were you thinking? He has a weapon!",
+      "id": "fight"
+    },
+    {
+      "narrative": "For a long while, he kept walking straight ahead without running into anything. After a while, though, Jimmy finds a familiar clearing with an Oak tree and three paths in front of him...",
+      "id": "backToBegin"
+    },
+    {
+      "narrative": "In the distance he sees a large man with a chainsaw. Suddenly, the man starts running after him! Should Jimmy stand his ground and fight or run away?",
+      "id": "left1"
+    },
+    {
+      "narrative": "For a while, he sees nothing. After what seems like an eternity, however, Jimmy comes across a familiar clearing with an Oak tree and three paths in front of him...",
+      "id": "center1"
+    },
+    {
+      "narrative": "Jimmy woke up feeling quite groggy. As he regained his senses, he looked around. He seemed to be trapped in a maze, yet he had no recollection of how he ended up in this predicament. In any case, there were 3 paths in front of him. Also, there was an Oak tree planted nearby, for some strange reason. He got up and decided that the only thing he could do was try and find his way out of this maze. Should he take the left path, the center path, or the right path?",
+      "start": true,
+      "id": "begin"
+    },
+    {
+      "narrative": "Along the path, he finds a sword lying on the ground and picks it up. Should he fight now, or keep running?",
+      "id": "runLeft"
+    }
+  ],
+  "graph": {}
+}
