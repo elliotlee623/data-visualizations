@@ -1,0 +1,64 @@
+{% extends "templates/projectBase.html" %}
+{% block projectContent %}
+
+<script src="web/vis.js"></script>
+
+<style>
+.name {
+	text-decoration: underline;
+	text-align: center;
+}
+
+.d3-tip {
+	max-width: 600px !important;
+}
+
+#story {
+	font-size: 16px;
+	width: 80%;
+}
+
+#story > div {
+	padding-left: 10px;
+	border-left: solid 3px #888;
+	margin-bottom: 10px;
+}
+
+#story .prev {
+	color: #aaa;
+}
+
+#story .theend {
+	text-align: center;
+	font-size: 12px;
+	color: #aaa;
+	border-left: none;
+}
+
+#story button {
+	background-color: white;
+	border: solid 1px #888;
+	display: block;
+	margin: 5px auto;
+}
+
+#story button:hover {
+	background-color: #ccc;
+	border: solid 1px #888;
+}
+</style>
+
+<div class="row" id="story">
+	<div class="col-xs-5 col-xs-push-1">
+		<h3>My Positive Story</h3>
+		<div id="happy"></div>
+	</div>
+	<div class="col-xs-5 col-xs-push-3">
+		<h3>My Negative Story</h3>
+		<div id="sad"></div>
+	</div>
+</div>
+
+
+
+{% endblock %}
