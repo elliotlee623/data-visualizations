@@ -51,7 +51,9 @@ def addNextBoards(G, board, board_id, turn):
             newBoard[i] = turn
             newBoard_id = getBoardID()
 
-            G.add_node( newBoard_id, board=newBoard, nextTurn=nextTurn )
+            score = getBoardState(newBoard)
+
+            G.add_node( newBoard_id, score=score, board=newBoard, nextTurn=nextTurn )
             G.add_edge( board_id, newBoard_id, move=turn )
 
             addNextBoards(G, newBoard, newBoard_id, nextTurn)
@@ -63,6 +65,36 @@ root = ["X", "X", "O", "-", "X", "-", "O", "-", "-"]
 root_id = getBoardID()
 G.add_node( root_id, board=root, nextTurn="O" )
 addNextBoards(G, root, root_id, "O")
+
+for node in G.nodes(data=True):
+    node_id = node[0]
+    node_data = node[1]
+    edges = G[node_id]
+
+    is_all_X = True
+    is_all_O = True
+
+
+    next_score = 0
+    for next_node_id in edges:
+        next_node = G.node[next_node_id]
+        if next_node["score"] != 1:
+            is_all_X = False
+        if next_node["score"] != -1:
+            is_all_O = False
+        if next_node["score"] != 0:
+            next_score = next_node["score"]
+
+    if node_data["nextTurn"] == "X" and is_all_O:
+        node_data["score"] = -1
+    elif node_data["nextTurn"] == "O" and is_all_X:
+        node_data["score"] = 1
+    elif node_data["nextTurn"] == "X" and next_score == 1:
+        node_data["score"] = 1
+    elif node_data["nextTurn"] == "O" and next_score == -1:
+        node_data["score"] = -1
+
+    node_data["score"] = next_score
 
 
 

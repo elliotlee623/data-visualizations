@@ -1,0 +1,1122 @@
+{
+  "nextTurn": "O",
+  "score": 0,
+  "id": 1,
+  "children": [
+    {
+      "nextTurn": "X",
+      "score": 1,
+      "id": 50,
+      "children": [
+        {
+          "nextTurn": "O",
+          "score": -1,
+          "id": 56,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 57,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 58,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "X",
+                "O",
+                "-",
+                "O"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 59,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 60,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "-",
+                "X",
+                "X",
+                "O",
+                "O",
+                "O"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "-",
+            "X",
+            "X",
+            "O",
+            "-",
+            "O"
+          ]
+        },
+        {
+          "nextTurn": "O",
+          "score": -1,
+          "id": 51,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 52,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 53,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "X",
+                "X",
+                "O",
+                "O",
+                "-",
+                "O"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 54,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 55,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "X",
+                "X",
+                "-",
+                "O",
+                "O",
+                "O"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "X",
+            "X",
+            "-",
+            "O",
+            "-",
+            "O"
+          ]
+        },
+        {
+          "nextTurn": "O",
+          "score": 1,
+          "id": 61,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 64,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 65,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "-",
+                "X",
+                "O",
+                "O",
+                "X",
+                "O"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 62,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 63,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "-",
+                "O",
+                "X",
+                "O"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "-",
+            "X",
+            "-",
+            "O",
+            "X",
+            "O"
+          ]
+        }
+      ],
+      "board": [
+        "X",
+        "X",
+        "O",
+        "-",
+        "X",
+        "-",
+        "O",
+        "-",
+        "O"
+      ]
+    },
+    {
+      "nextTurn": "X",
+      "score": 1,
+      "id": 2,
+      "children": [
+        {
+          "nextTurn": "O",
+          "score": 1,
+          "id": 8,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 9,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 10,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "O",
+                "O",
+                "X",
+                "-"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 11,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 12,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "-",
+                "O",
+                "X",
+                "O"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "O",
+            "X",
+            "-",
+            "O",
+            "X",
+            "-"
+          ]
+        },
+        {
+          "nextTurn": "O",
+          "score": 0,
+          "id": 3,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 4,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 5,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "X",
+                "O",
+                "O",
+                "-"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 6,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 7,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "X",
+                "O",
+                "-",
+                "O"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "O",
+            "X",
+            "X",
+            "O",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "nextTurn": "O",
+          "score": 1,
+          "id": 13,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 16,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 17,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "-",
+                "O",
+                "O",
+                "X"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 14,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 15,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "O",
+                "O",
+                "-",
+                "X"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "O",
+            "X",
+            "-",
+            "O",
+            "-",
+            "X"
+          ]
+        }
+      ],
+      "board": [
+        "X",
+        "X",
+        "O",
+        "O",
+        "X",
+        "-",
+        "O",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "nextTurn": "X",
+      "score": 1,
+      "id": 34,
+      "children": [
+        {
+          "nextTurn": "O",
+          "score": -1,
+          "id": 40,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 41,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 42,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "X",
+                "O",
+                "O",
+                "-"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 43,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 44,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "-",
+                "X",
+                "X",
+                "O",
+                "O",
+                "O"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "-",
+            "X",
+            "X",
+            "O",
+            "O",
+            "-"
+          ]
+        },
+        {
+          "nextTurn": "O",
+          "score": -1,
+          "id": 35,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 36,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 37,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "O",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "X",
+                "X",
+                "O",
+                "O",
+                "O",
+                "-"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 38,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 39,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "X",
+                "X",
+                "-",
+                "O",
+                "O",
+                "O"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "X",
+            "X",
+            "-",
+            "O",
+            "O",
+            "-"
+          ]
+        },
+        {
+          "nextTurn": "O",
+          "score": 1,
+          "id": 45,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 48,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 49,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "O",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "-",
+                "X",
+                "O",
+                "O",
+                "O",
+                "X"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 46,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 47,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "-",
+                "O",
+                "O",
+                "X"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "-",
+            "X",
+            "-",
+            "O",
+            "O",
+            "X"
+          ]
+        }
+      ],
+      "board": [
+        "X",
+        "X",
+        "O",
+        "-",
+        "X",
+        "-",
+        "O",
+        "O",
+        "-"
+      ]
+    },
+    {
+      "nextTurn": "X",
+      "score": 1,
+      "id": 18,
+      "children": [
+        {
+          "nextTurn": "O",
+          "score": 1,
+          "id": 24,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 25,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 26,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "O",
+                "O",
+                "X",
+                "-"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 27,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 28,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "-",
+                "X",
+                "O",
+                "O",
+                "X",
+                "O"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "-",
+            "X",
+            "O",
+            "O",
+            "X",
+            "-"
+          ]
+        },
+        {
+          "nextTurn": "O",
+          "score": -1,
+          "id": 19,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 20,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 21,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "O",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "X",
+                "X",
+                "O",
+                "O",
+                "O",
+                "-"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 22,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 23,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "O"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "X",
+                "X",
+                "O",
+                "O",
+                "-",
+                "O"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "X",
+            "X",
+            "O",
+            "O",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "nextTurn": "O",
+          "score": 1,
+          "id": 29,
+          "children": [
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 32,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 33,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "O",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "-",
+                "X",
+                "O",
+                "O",
+                "O",
+                "X"
+              ]
+            },
+            {
+              "nextTurn": "X",
+              "score": 1,
+              "id": 30,
+              "children": [
+                {
+                  "nextTurn": "O",
+                  "score": 0,
+                  "id": 31,
+                  "board": [
+                    "X",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "O",
+                    "O",
+                    "X",
+                    "X"
+                  ]
+                }
+              ],
+              "board": [
+                "X",
+                "X",
+                "O",
+                "O",
+                "X",
+                "O",
+                "O",
+                "-",
+                "X"
+              ]
+            }
+          ],
+          "board": [
+            "X",
+            "X",
+            "O",
+            "-",
+            "X",
+            "O",
+            "O",
+            "-",
+            "X"
+          ]
+        }
+      ],
+      "board": [
+        "X",
+        "X",
+        "O",
+        "-",
+        "X",
+        "O",
+        "O",
+        "-",
+        "-"
+      ]
+    }
+  ],
+  "board": [
+    "X",
+    "X",
+    "O",
+    "-",
+    "X",
+    "-",
+    "O",
+    "-",
+    "-"
+  ]
+}

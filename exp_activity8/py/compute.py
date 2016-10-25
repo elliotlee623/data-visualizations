@@ -14,6 +14,7 @@ G = json_graph.node_link_graph(data)
 
 
 # Activity 8:
+sent_sentiment = []
 
 def getSentenceSentiment(sents):
     print("Doing sentiment analysis...")
@@ -21,7 +22,6 @@ def getSentenceSentiment(sents):
     sentiment = [sid.polarity_scores(s)["compound"] for s in sents]
     return sentiment
 
-sent_sentiment = []
 for node in G.nodes(data=True):
     sentiments = getSentenceSentiment(node[1]["narrative"])
     sent_sentiment.append({
@@ -36,6 +36,11 @@ for edge in G.edges(data=True):
         "Destination Node": edge[1],
         "Sentiment": sentiments
     })
+
+sent_sentiment = sorted(sent_sentiment, key=lambda k: k['Sentiment'])
+with open("res/if-sa.json",'w') as f:
+    s = json.dumps(sent_sentiment, indent = 4)
+    f.write(s)
 
 #
 # Save the graph into the res/if-sa.json
