@@ -19,7 +19,7 @@ sent_sentiment = []
 def getSentenceSentiment(sents):
     print("Doing sentiment analysis...")
     sid = SentimentIntensityAnalyzer()
-    sentiment = [sid.polarity_scores(s)["compound"] for s in sents]
+    sentiment = [sid.polarity_scores(json_graph)["compound"]]
     return sentiment
 
 for node in G.nodes(data=True):

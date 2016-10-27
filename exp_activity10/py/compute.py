@@ -16,15 +16,19 @@ G = nx.DiGraph()
 #
 def updateEdgesBasedOnPath(G, path):
 
-
-
-
-
-
-
-
-
-
+    for i in range(len(path)-1):
+        #player 1 wins
+        if(path[len(path)-1] == "p2-0"):
+            if i%2 == 0:
+                G[path[i]][path[i+1]]["weight"] += 1
+            else:
+                G[path[i]][path[i+1]]["weight"] -= 1
+        #player 2 wins
+        else:
+            if i%2 == 1:
+                G[path[i]][path[i+1]]["weight"] += 1
+            else:
+                G[path[i]][path[i+1]]["weight"] -= 1
 
 # Picks an edge, favoring positive-weight edges
 def pickEdge(cur_state, next_states):
