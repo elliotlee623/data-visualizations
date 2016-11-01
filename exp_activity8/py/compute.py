@@ -16,25 +16,26 @@ G = json_graph.node_link_graph(data)
 # Activity 8:
 sent_sentiment = []
 
-def getSentenceSentiment(sents):
+def getSentenceSentiment(json_graph):
     print("Doing sentiment analysis...")
     sid = SentimentIntensityAnalyzer()
-    sentiment = [sid.polarity_scores(json_graph)["compound"]]
+    sentiment = sid.polarity_scores(json_graph)["compound"]
     return sentiment
 
 for node in G.nodes(data=True):
-    sentiments = getSentenceSentiment(node[1]["narrative"])
-    sent_sentiment.append({
-        "Node ID": node[0],
-        "Sentiment": sentiments
-    })
+    node[1]["sentiment"] = getSentenceSentiment(node[1]["narrative"])
+    for i in range(len(node[1]["narrative"])):
+        sent_sentiment.append({
+            "Node ID": node[0],
+            "Sentiment": node[1]["sentiment"]
+            })
 
 for edge in G.edges(data=True):
-    sentiments = getSentenceSentiment(edge[2]["text"])
+    edge[2]["sentiment"] = getSentenceSentiment(edge[2]["text"])
     sent_sentiment.append({
         "Source Node":  edge[0],
         "Destination Node": edge[1],
-        "Sentiment": sentiments
+        "Sentiment": edge[2]["sentiment"]
     })
 
 sent_sentiment = sorted(sent_sentiment, key=lambda k: k['Sentiment'])

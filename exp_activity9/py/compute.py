@@ -14,23 +14,31 @@ G = json_graph.node_link_graph(data)
 # Return the start node id from G
 def find_start_node_id(G):
     for node in G.nodes(data=True):
-        if node[1]["start"] == True:
-            return node[0]
+        if "start" in node[1]:
+            if node[1]["start"] == True:
+                return node[0]
 
 # Return a list of end node ids from G
 def find_end_node_ids(G):
     list_edges = []
-    for edge in G.edges(data=False):
-        list_edges.append(edge[0])
+    for node in G.nodes(data=True):
+        if G[node[0]] == {}:
+            list_edges.append(node[0])
     return list_edges
 
 
 # Return the total sentiment of the path of node ids through G
 def find_path_total_sentiment(G, path):
     sentiments = 0
+    edgeTotal = 0
+    nodeTotal = 0
     for node in G.nodes(data=True):
-        for edge in G.edges(data=True):
-            sentiments += getSentenceSentiment(node[1]["narrative"]) + getSentenceSentiment(edge[2]["text"])
+        if node in path:
+            nodeTotal += node[1]["sentiment"]
+    for edge in G.edges(data=True):
+        if edge in path:
+            edgeTotal += edge[2]["sentiment"]
+    sentiments = edgeTotal + nodeTotal
     return sentiments
 
 
