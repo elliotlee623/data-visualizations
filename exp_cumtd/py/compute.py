@@ -8,9 +8,26 @@ myKey = open("../static/keys/cumtd.txt", "r").read().strip()
 
 # Construct a Python dictionary for HTTP GET
 
+parameters = {
+    "key": myKey,
+    "stop_id": "IU"
+}
 
+url = " https://developer.cumtd.com/api/v2.2/json/" + "GetDeparturesByStop?" + urllib.parse.urlencode( parameters )
 
+with urllib.request.urlopen(url) as response:
+    data_str = response.read().decode("utf-8")
+    data = json.loads(data_str)
 
+print(data)
+
+result = []
+
+for i in data["departures"]:
+    result.append({
+        "route": i["headsign"],
+        "expected": i["expected_mins"]
+    })
 
 
 

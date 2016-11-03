@@ -1,0 +1,30 @@
+[
+  {
+    "route": "2C Red",
+    "expected": 22
+  },
+  {
+    "route": "2U Red",
+    "expected": 23
+  },
+  {
+    "route": "12W Teal",
+    "expected": 23
+  },
+  {
+    "route": "5W Green",
+    "expected": 23
+  },
+  {
+    "route": "5E Green",
+    "expected": 23
+  },
+  {
+    "route": "22N Illini",
+    "expected": 23
+  },
+  {
+    "route": "10W Gold",
+    "expected": 24
+  }
+]
