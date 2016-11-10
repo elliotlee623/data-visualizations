@@ -66,23 +66,6 @@ var visualize = function(data) {
      .attr("cy", 0)
      .attr("fill", "red")
      .attr("stroke", "black")
-     .on("mouseover", function (d, i) {
-         svg.selectAll(".grade")
-           .filter(function(e) {
-              if (d == e) { return false; }  /* remove self */
-              else        { return true;  }
-           })
-          .transition()
-          .duration(1000)
-          .style("opacity", 0.1)
-          .transition()
-          .duration(1000)
-          .style("opacity", 1)
-          .transition()
-          .duration(1000)
-          .style("fill", "blue")
-
-     })
      ;
 
 
