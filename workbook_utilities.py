@@ -48,6 +48,22 @@ def read_project_json(dir, project_data = {}):
 
     return project_data
 
+
+def read_metadata_json(dir, metadata = {}):
+    import json
+
+    metadata["dir"] = dir
+
+    fileName = os.path.join(basecwd, dir, "metadata.json")
+    logger.debug("%s:Reading metadata.json", dir)
+    with open(fileName) as metadata_file:
+        metadata = json.load(metadata_file)
+
+    metadata["dir"] = dir
+    return metadata
+
+
+
 def construct_navigation():
     logger.debug("*:Constructing navigation...")
 

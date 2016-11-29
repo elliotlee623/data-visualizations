@@ -4,7 +4,7 @@ import logging
 logger = logging.getLogger("workbook")
 
 # helper functions
-from workbook_utilities import run_compute_py, read_project_json, construct_navigation
+from workbook_utilities import run_compute_py, read_project_json, construct_navigation, read_metadata_json
 
 # flask
 from flask import Flask, render_template, jsonify, send_file, send_from_directory, request
@@ -81,6 +81,7 @@ def fetchExercise(projectDir):
 
     # Get the project info
     projectInfo = read_project_json(projectDir)
+    metadata = read_metadata_json(projectDir)
 
     # Figure out what to do based on the value of `show`
     show = request.args.get('show')
@@ -104,11 +105,11 @@ def fetchExercise(projectDir):
     navigation = construct_navigation()
     if showViz:
         projectInfo["showingViz"] = True
-        return render_template(projectDir + '/web/index.html', project=projectInfo, navigation=navigation)
+        return render_template(projectDir + '/web/index.html', project=projectInfo, navigation=navigation, metadata=metadata)
     else:
         # Project landing page
         projectInfo["showingViz"] = False
-        return render_template('templates/projectLanding.html', project=projectInfo, navigation=navigation)
+        return render_template('templates/projectLanding.html', project=projectInfo, navigation=navigation, metadata=metadata)
 
 #
 # Start the server with the `run` method
