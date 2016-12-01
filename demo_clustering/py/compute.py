@@ -3,6 +3,7 @@ import random
 import math
 import json
 import collections
+import colorsys
 from PIL import Image
 
 def getRGBstring( pixel ):
@@ -28,18 +29,40 @@ def getFreqData(img):
 def getKey(x, y):
     return str(x) + "," + str(y)
 
-def k_means_dist(point, centroid):
-    d_x = math.pow(point["x"] - centroid["x"], 2)
-    d_y = math.pow(point["y"] - centroid["y"], 2)
+def k_means_dist(point, centroid, w, h):
+    # Features of the pixel
+    x0 = point["x"] / w
+    y0 = point["y"] / h
+    r0 = point["r"] / 255
+    g0 = point["g"] / 255
+    b0 = point["b"] / 255
+    (h0, l0, s0) = colorsys.rgb_to_hls(r0, g0, b0)
 
-    d_r = math.pow(point["r"] - centroid["r"], 2)
-    d_g = math.pow(point["g"] - centroid["g"], 2)
-    d_b = math.pow(point["b"] - centroid["b"], 2)
+    # Features of the centroid
+    x1 = centroid["x"] / w
+    y1 = centroid["y"] / h
+    r1 = centroid["r"] / 255
+    g1 = centroid["g"] / 255
+    b1 = centroid["b"] / 255
+    (h1, l1, s1) = colorsys.rgb_to_hls(r1, g1, b1)
 
-    return math.sqrt( d_x + d_y + 10 * (d_r + d_g + d_b) )
+    # Square diffs
+    d_x = math.pow(x0 - x1, 2)
+    d_y = math.pow(y0 - y1, 2)
+
+    d_r = math.pow(r0 - r1, 2)
+    d_g = math.pow(g0 - g1, 2)
+    d_b = math.pow(b0 - b1, 2)
+
+    d_h = math.pow(h0 - h1, 2)
+    d_s = math.pow(s0 - s1, 2)
+    d_l = math.pow(l0 - l1, 2)
+
+    # Distance metric
+    return math.sqrt( d_x + d_y )
 
 
-def k_means_label_points_with_nearest_centroid(points, centroids):
+def k_means_label_points_with_nearest_centroid(points, centroids, w, h):
     # Label each point to nearest centroid
     for pointKey in points:
         point = points[pointKey]
@@ -48,7 +71,7 @@ def k_means_label_points_with_nearest_centroid(points, centroids):
         nearest_centroid_dist = 0
 
         for centroid in centroids:
-            dist = k_means_dist(point, centroid)
+            dist = k_means_dist(point, centroid, w, h)
 
             if nearest_centroid == None or dist < nearest_centroid_dist:
                 nearest_centroid = centroid
@@ -78,17 +101,18 @@ def k_means_find_new_centroids(points, centroids):
                 sum_b += point["b"]
                 ct += 1
 
-        new_centroids.append({
-            "x": sum_x / ct,
-            "y": sum_y / ct,
-            "r": sum_r / ct,
-            "g": sum_g / ct,
-            "b": sum_b / ct,
-        })
+        if ct > 0:
+            new_centroids.append({
+                "x": sum_x / ct,
+                "y": sum_y / ct,
+                "r": sum_r / ct,
+                "g": sum_g / ct,
+                "b": sum_b / ct,
+            })
 
     return new_centroids
 
-def k_means_join_centroids(centroids):
+def k_means_join_centroids(centroids, w, h):
     new_centroids = []
     removed_centroids = []
     for centroid in centroids:
@@ -99,8 +123,8 @@ def k_means_join_centroids(centroids):
             if centroid2 in removed_centroids:
                 continue
 
-            if k_means_dist(centroid, centroid2) < 100:
-                removed_centroids.append(centroid2)
+            #if k_means_dist(centroid, centroid2, w, h) < 100:
+            #    removed_centroids.append(centroid2)
 
         new_centroids.append(centroid)
 
@@ -184,7 +208,7 @@ def k_means_cluster(img, k):
         print("Starting pass " + str(i) + "...")
 
         # Label
-        k_means_label_points_with_nearest_centroid(points, centroids)
+        k_means_label_points_with_nearest_centroid(points, centroids, w, h)
         print("  ...points labeled!")
 
         # save image
@@ -197,7 +221,7 @@ def k_means_cluster(img, k):
         print("  ...new centroids found!")
 
         # Remove nearby centroids
-        centroids = k_means_join_centroids(centroids)
+        centroids = k_means_join_centroids(centroids, w, h)
 
 
 
