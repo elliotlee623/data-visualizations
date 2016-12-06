@@ -105,7 +105,7 @@ var visualize2 = function(data) {
           return 332;
         })
         .attr("width",function(d,i) {
-          return dataScale(d["3P%"]);
+          return dataScale(d["3P%"])*100;
         })
         .attr("height",18)
         .attr("rx",2)
