@@ -22,7 +22,7 @@ var visualize2 = function(data) {
   /*
    * # Boilerplate Code for d3.js
    */
-  var margin = { top: 40, right: 120, bottom: 50, left: 120 },
+  var margin = { top: 40, right: 120, bottom: 50, left: 40 },
       width = 2500 - margin.left - margin.right,
       height = 1000 - margin.top - margin.bottom;
 
@@ -35,61 +35,84 @@ var visualize2 = function(data) {
               .append("g")
               .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-              var team = _.map(data,"Team");
-              team = _.uniq(team);
+  var team = _.map(data,"Team");
+  team = _.uniq(team);
 
-              var teamScale = d3.scalePoint()
-                                   .domain(team)
-                                   .range([900,width-1000]);
+  var teamScale = d3.scalePoint()
+                       .domain(team)
+                       .range([0,width-1000]);
 
-              var teamAxis = d3.axisTop()
-                                  .scale(teamScale);
-              svg.append("g")
-                 .call(teamAxis);
+  var teamAxis = d3.axisTop()
+                      .scale(teamScale);
+  svg.append("g")
+     .call(teamAxis);
 
-              var statsScale = d3.scaleBand()
-                            .domain(["3PM", "3PA", "3P%", "% of FGs as 3s", "Avg. Shot Distance"])
-                            .range([0,height]);
+  var statsScale = d3.scaleBand()
+                .domain(["3PA", "3P%", "% of FGs as 3s", "Avg. Shot Distance"])
+                .range([0,height]);
 
-              var statsAxis = d3.axisLeft()
-                                .scale(statsScale);
-              svg.append("g")
-                 .attr("transform", "translate(" + 643 +",0)")
-                 .call(statsAxis);
+  var statsAxis = d3.axisLeft()
+                    .scale(statsScale);
+  svg.append("g")
+     .attr("transform", "translate(" + 670 +",0)")
+     .call(statsAxis);
 
-              var dataScale = d3.scaleLinear()
-                          .domain([0,100])
-                          .range([0,width-1000]);
+  var dataScale = d3.scaleLinear()
+              .domain([0,100])
+              .range([0,width-1000]);
 
-              var dataAxis = d3.axisBottom()
-                              .scale(dataScale);
-              svg.append("g")
-                 .call(dataAxis);
+  var dataAxis = d3.axisBottom()
+                   .scale(dataScale);
+  svg.append("g")
+     .call(dataAxis);
 
-/*
-              var threeAttempsBars = svg.selectAll("3PAs")
-                  .data(data)
-                  .enter()
-                  .append("g")
-                  .attr("transform", function (d) {
-                    return "translate("  + ",0)";
-                  })
-                  ;
-              //Draw Bars
-              per_ABars.append("rect")
-                 .attr("x",643)
-                 .attr("y",function(d,i) {
-                   return statsScale(d["3PA"]);
-                 })
-                 .attr("width",function(d,i) {
-                   return dataScale(d["3PA"]);
-                 })
-                 .attr("height",18)
-                 .attr("rx",2)
-                 .attr("ry",2)
-                 .attr("fill","hsla(127, 100%, 24%, 0.35)")
-                 .attr("stroke","hsla(127, 100%, 24%, 0.70)")
-*/
+
+  var threeAttemptsBars = svg.selectAll("ThreePAs")
+      .data(data)
+      .enter()
+      .append("g")
+      .attr("transform", function (d) {
+        return "translate(" + ",0)";
+      })
+      ;
+  //Draw Bars
+  threeAttemptsBars.append("rect")
+     .attr("x",670)
+     .attr("y",function(d,i) {
+       return 106;
+     })
+     .attr("width",function(d,i) {
+       return dataScale(d["3PA"]);
+     })
+     .attr("height",18)
+     .attr("rx",2)
+     .attr("ry",2)
+     .attr("fill","hsla(127, 100%, 24%, 0.35)")
+     .attr("stroke","hsla(127, 100%, 24%, 0.70)")
+
+     var threePercent = svg.selectAll("threePercent")
+         .data(data)
+         .enter()
+         .append("g")
+         .attr("transform", function (d) {
+           return "translate(" + ",0)";
+         })
+         ;
+     //Draw Bars
+     threePercent.append("rect")
+        .attr("x",670)
+        .attr("y",function(d,i) {
+          return 332;
+        })
+        .attr("width",function(d,i) {
+          return dataScale(d["3P%"]);
+        })
+        .attr("height",18)
+        .attr("rx",2)
+        .attr("ry",2)
+        .attr("fill","hsla(127, 100%, 24%, 0.35)")
+        .attr("stroke","hsla(127, 100%, 24%, 0.70)")
+
 
 };
 
