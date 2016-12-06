@@ -66,6 +66,39 @@ var visualize = function(data) {
      .attr("cy", 0)
      .attr("fill", "red")
      .attr("stroke", "black")
+
+     .on("mouseover",function (d, i){
+       svg.selectAll(".grade")
+          .filter(function(e){
+              if(d==e){
+                return false;
+              }
+              else {
+                return true;
+              }
+          })
+          .transition()
+          .duration(1000)  // milliseconds (ms), 1000ms == 1sec
+          .style("opacity", 0.1)
+          .transition()
+          .duration(1000)
+          .style("opacity", 1.0)
+          .transition()
+          .duration(1000)
+          .style("fill", "blue");
+     })
+     .on("mouseout",function (d, i){
+       svg.selectAll(".grade")
+          .filter(function(e){
+              if(d==e){
+                return false;
+              }
+              else {
+                return true;
+              }
+          })
+          .style("opacity", 1);
+     })
      ;
 
 

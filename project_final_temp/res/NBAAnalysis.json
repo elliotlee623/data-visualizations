@@ -1,0 +1,9830 @@
+[
+  {
+    "3P%": 0.173,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 0.9,
+    "3 Point usage": 0.0,
+    "FGA": 85.7
+  },
+  {
+    "3P%": 0.122,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 1.0,
+    "3 Point usage": 0.0,
+    "FGA": 83.7
+  },
+  {
+    "3P%": 0.219,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 1.6,
+    "3 Point usage": 0.0,
+    "FGA": 82.6
+  },
+  {
+    "3P%": 0.239,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.217,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 1.3,
+    "3 Point usage": 0.0,
+    "FGA": 83.0
+  },
+  {
+    "3P%": 0.311,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 86.8
+  },
+  {
+    "3P%": 0.199,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 2.0,
+    "3 Point usage": 0.0,
+    "FGA": 85.7
+  },
+  {
+    "3P%": 0.318,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 5.2,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.301,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 3.4,
+    "3 Point usage": 0.0,
+    "FGA": 86.6
+  },
+  {
+    "3P%": 0.277,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 4.8,
+    "3 Point usage": 0.0,
+    "FGA": 88.2
+  },
+  {
+    "3P%": 0.302,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 5.0,
+    "3 Point usage": 0.0,
+    "FGA": 85.6
+  },
+  {
+    "3P%": 0.324,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 10.2,
+    "3 Point usage": 0.0,
+    "FGA": 88.1
+  },
+  {
+    "3P%": 0.313,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 8.2,
+    "3 Point usage": 0.0,
+    "FGA": 91.2
+  },
+  {
+    "3P%": 0.355,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 13.1,
+    "3 Point usage": 0.0,
+    "FGA": 88.7
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 10.1,
+    "3 Point usage": 0.0,
+    "FGA": 85.8
+  },
+  {
+    "3P%": 0.341,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 19.3,
+    "3 Point usage": 0.0,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.355,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "ATL",
+    "3PA": 19.5,
+    "3 Point usage": 0.0,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.359,
+    "Season": "1996-97",
+    "distance": 11.57,
+    "Team": "ATL",
+    "3PA": 22.4,
+    "3 Point usage": 17.19,
+    "FGA": 76.9
+  },
+  {
+    "3P%": 0.332,
+    "Season": "1997-98",
+    "distance": 10.51,
+    "Team": "ATL",
+    "3PA": 12.4,
+    "3 Point usage": 15.72,
+    "FGA": 77.5
+  },
+  {
+    "3P%": 0.306,
+    "Season": "1998-99",
+    "distance": 11.4,
+    "Team": "ATL",
+    "3PA": 12.9,
+    "3 Point usage": 16.73,
+    "FGA": 75.2
+  },
+  {
+    "3P%": 0.317,
+    "Season": "1999-00",
+    "distance": 11.1,
+    "Team": "ATL",
+    "3PA": 9.9,
+    "3 Point usage": 11.66,
+    "FGA": 83.0
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2000-01",
+    "distance": 11.02,
+    "Team": "ATL",
+    "3PA": 11.4,
+    "3 Point usage": 13.84,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.354,
+    "Season": "2001-02",
+    "distance": 10.8,
+    "Team": "ATL",
+    "3PA": 14.6,
+    "3 Point usage": 17.88,
+    "FGA": 80.6
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2002-03",
+    "distance": 11.57,
+    "Team": "ATL",
+    "3PA": 13.9,
+    "3 Point usage": 17.45,
+    "FGA": 78.5
+  },
+  {
+    "3P%": 0.335,
+    "Season": "2003-04",
+    "distance": 11.32,
+    "Team": "ATL",
+    "3PA": 15.2,
+    "3 Point usage": 19.21,
+    "FGA": 79.6
+  },
+  {
+    "3P%": 0.312,
+    "Season": "2004-05",
+    "distance": 10.05,
+    "Team": "ATL",
+    "3PA": 11.9,
+    "3 Point usage": 14.24,
+    "FGA": 81.4
+  },
+  {
+    "3P%": 0.367,
+    "Season": "2005-06",
+    "distance": 11.0,
+    "Team": "ATL",
+    "3PA": 14.1,
+    "3 Point usage": 17.53,
+    "FGA": 79.2
+  },
+  {
+    "3P%": 0.329,
+    "Season": "2006-07",
+    "distance": 11.36,
+    "Team": "ATL",
+    "3PA": 12.7,
+    "3 Point usage": 16.07,
+    "FGA": 77.7
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2007-08",
+    "distance": 11.17,
+    "Team": "ATL",
+    "3PA": 13.1,
+    "3 Point usage": 16.04,
+    "FGA": 79.9
+  },
+  {
+    "3P%": 0.366,
+    "Season": "2008-09",
+    "distance": 12.84,
+    "Team": "ATL",
+    "3PA": 19.9,
+    "3 Point usage": 24.96,
+    "FGA": 78.7
+  },
+  {
+    "3P%": 0.36,
+    "Season": "2009-10",
+    "distance": 11.85,
+    "Team": "ATL",
+    "3PA": 17.7,
+    "3 Point usage": 21.09,
+    "FGA": 82.9
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2010-11",
+    "distance": 13.03,
+    "Team": "ATL",
+    "3PA": 17.4,
+    "3 Point usage": 21.98,
+    "FGA": 78.4
+  },
+  {
+    "3P%": 0.37,
+    "Season": "2011-12",
+    "distance": 12.76,
+    "Team": "ATL",
+    "3PA": 20.2,
+    "3 Point usage": 24.68,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.371,
+    "Season": "2012-13",
+    "distance": 12.95,
+    "Team": "ATL",
+    "3PA": 23.2,
+    "3 Point usage": 28.42,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2013-14",
+    "distance": 12.91,
+    "Team": "ATL",
+    "3PA": 25.8,
+    "3 Point usage": 31.43,
+    "FGA": 81.6
+  },
+  {
+    "3P%": 0.38,
+    "Season": "2014-15",
+    "distance": 12.75,
+    "Team": "ATL",
+    "3PA": 26.2,
+    "3 Point usage": 32.08,
+    "FGA": 81.7
+  },
+  {
+    "3P%": 0.35,
+    "Season": "2015-16",
+    "distance": 12.76,
+    "Team": "ATL",
+    "3PA": 28.4,
+    "3 Point usage": 33.45,
+    "FGA": 84.4
+  },
+  {
+    "3P%": 0.333,
+    "Season": "2016-17",
+    "distance": 12.64,
+    "Team": "ATL",
+    "3PA": 26.1,
+    "3 Point usage": 30.73,
+    "FGA": 84.3
+  },
+  {
+    "3P%": 0.384,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 5.1,
+    "3 Point usage": 0.0,
+    "FGA": 90.1
+  },
+  {
+    "3P%": 0.27,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 86.6
+  },
+  {
+    "3P%": 0.266,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 2.2,
+    "3 Point usage": 0.0,
+    "FGA": 89.4
+  },
+  {
+    "3P%": 0.21,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 92.0
+  },
+  {
+    "3P%": 0.24,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 2.8,
+    "3 Point usage": 0.0,
+    "FGA": 88.2
+  },
+  {
+    "3P%": 0.356,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 3.8,
+    "3 Point usage": 0.0,
+    "FGA": 89.3
+  },
+  {
+    "3P%": 0.351,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 4.8,
+    "3 Point usage": 0.0,
+    "FGA": 89.2
+  },
+  {
+    "3P%": 0.366,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 6.9,
+    "3 Point usage": 0.0,
+    "FGA": 86.0
+  },
+  {
+    "3P%": 0.384,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 8.6,
+    "3 Point usage": 0.0,
+    "FGA": 84.2
+  },
+  {
+    "3P%": 0.252,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 3.8,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.262,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 4.9,
+    "3 Point usage": 0.0,
+    "FGA": 87.2
+  },
+  {
+    "3P%": 0.315,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 4.2,
+    "3 Point usage": 0.0,
+    "FGA": 88.0
+  },
+  {
+    "3P%": 0.306,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 4.4,
+    "3 Point usage": 0.0,
+    "FGA": 87.8
+  },
+  {
+    "3P%": 0.287,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 4.7,
+    "3 Point usage": 0.0,
+    "FGA": 86.5
+  },
+  {
+    "3P%": 0.289,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 5.8,
+    "3 Point usage": 0.0,
+    "FGA": 86.1
+  },
+  {
+    "3P%": 0.368,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 12.0,
+    "3 Point usage": 0.0,
+    "FGA": 83.5
+  },
+  {
+    "3P%": 0.371,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "BOS",
+    "3PA": 17.7,
+    "3 Point usage": 0.0,
+    "FGA": 84.7
+  },
+  {
+    "3P%": 0.351,
+    "Season": "1996-97",
+    "distance": 8.26,
+    "Team": "BOS",
+    "3PA": 16.2,
+    "3 Point usage": 11.81,
+    "FGA": 85.0
+  },
+  {
+    "3P%": 0.332,
+    "Season": "1997-98",
+    "distance": 11.13,
+    "Team": "BOS",
+    "3PA": 15.2,
+    "3 Point usage": 17.84,
+    "FGA": 84.6
+  },
+  {
+    "3P%": 0.36,
+    "Season": "1998-99",
+    "distance": 10.95,
+    "Team": "BOS",
+    "3PA": 15.2,
+    "3 Point usage": 17.96,
+    "FGA": 83.3
+  },
+  {
+    "3P%": 0.331,
+    "Season": "1999-00",
+    "distance": 10.94,
+    "Team": "BOS",
+    "3PA": 15.4,
+    "3 Point usage": 18.14,
+    "FGA": 83.9
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2000-01",
+    "distance": 12.11,
+    "Team": "BOS",
+    "3PA": 19.9,
+    "3 Point usage": 24.92,
+    "FGA": 79.1
+  },
+  {
+    "3P%": 0.359,
+    "Season": "2001-02",
+    "distance": 12.82,
+    "Team": "BOS",
+    "3PA": 23.7,
+    "3 Point usage": 28.54,
+    "FGA": 82.1
+  },
+  {
+    "3P%": 0.334,
+    "Season": "2002-03",
+    "distance": 13.34,
+    "Team": "BOS",
+    "3PA": 26.3,
+    "3 Point usage": 32.81,
+    "FGA": 79.4
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2003-04",
+    "distance": 12.62,
+    "Team": "BOS",
+    "3PA": 19.5,
+    "3 Point usage": 24.68,
+    "FGA": 78.2
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2004-05",
+    "distance": 10.96,
+    "Team": "BOS",
+    "3PA": 15.3,
+    "3 Point usage": 18.95,
+    "FGA": 79.4
+  },
+  {
+    "3P%": 0.362,
+    "Season": "2005-06",
+    "distance": 11.55,
+    "Team": "BOS",
+    "3PA": 15.7,
+    "3 Point usage": 20.11,
+    "FGA": 77.1
+  },
+  {
+    "3P%": 0.367,
+    "Season": "2006-07",
+    "distance": 11.61,
+    "Team": "BOS",
+    "3PA": 15.6,
+    "3 Point usage": 19.57,
+    "FGA": 78.7
+  },
+  {
+    "3P%": 0.381,
+    "Season": "2007-08",
+    "distance": 12.24,
+    "Team": "BOS",
+    "3PA": 19.1,
+    "3 Point usage": 24.61,
+    "FGA": 76.7
+  },
+  {
+    "3P%": 0.397,
+    "Season": "2008-09",
+    "distance": 11.66,
+    "Team": "BOS",
+    "3PA": 16.5,
+    "3 Point usage": 21.27,
+    "FGA": 77.2
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2009-10",
+    "distance": 11.47,
+    "Team": "BOS",
+    "3PA": 17.5,
+    "3 Point usage": 22.57,
+    "FGA": 76.8
+  },
+  {
+    "3P%": 0.365,
+    "Season": "2010-11",
+    "distance": 11.58,
+    "Team": "BOS",
+    "3PA": 13.6,
+    "3 Point usage": 17.86,
+    "FGA": 75.8
+  },
+  {
+    "3P%": 0.367,
+    "Season": "2011-12",
+    "distance": 12.41,
+    "Team": "BOS",
+    "3PA": 15.0,
+    "3 Point usage": 19.31,
+    "FGA": 77.1
+  },
+  {
+    "3P%": 0.358,
+    "Season": "2012-13",
+    "distance": 12.39,
+    "Team": "BOS",
+    "3PA": 17.2,
+    "3 Point usage": 21.15,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.333,
+    "Season": "2013-14",
+    "distance": 12.77,
+    "Team": "BOS",
+    "3PA": 21.1,
+    "3 Point usage": 24.89,
+    "FGA": 83.9
+  },
+  {
+    "3P%": 0.327,
+    "Season": "2014-15",
+    "distance": 12.84,
+    "Team": "BOS",
+    "3PA": 24.6,
+    "3 Point usage": 27.79,
+    "FGA": 87.9
+  },
+  {
+    "3P%": 0.335,
+    "Season": "2015-16",
+    "distance": 12.43,
+    "Team": "BOS",
+    "3PA": 26.1,
+    "3 Point usage": 29.0,
+    "FGA": 89.2
+  },
+  {
+    "3P%": 0.361,
+    "Season": "2016-17",
+    "distance": 13.42,
+    "Team": "BOS",
+    "3PA": 31.2,
+    "3 Point usage": 35.82,
+    "FGA": 86.3
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2012-13",
+    "distance": 12.16,
+    "Team": "BRK",
+    "3PA": 21.5,
+    "3 Point usage": 26.66,
+    "FGA": 79.8
+  },
+  {
+    "3P%": 0.369,
+    "Season": "2013-14",
+    "distance": 13.09,
+    "Team": "BRK",
+    "3PA": 23.4,
+    "3 Point usage": 29.69,
+    "FGA": 77.9
+  },
+  {
+    "3P%": 0.331,
+    "Season": "2014-15",
+    "distance": 11.92,
+    "Team": "BRK",
+    "3PA": 19.9,
+    "3 Point usage": 23.63,
+    "FGA": 83.0
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2015-16",
+    "distance": 11.66,
+    "Team": "BRK",
+    "3PA": 18.4,
+    "3 Point usage": 21.68,
+    "FGA": 84.4
+  },
+  {
+    "3P%": 0.332,
+    "Season": "2016-17",
+    "distance": 13.22,
+    "Team": "BRK",
+    "3PA": 34.6,
+    "3 Point usage": 39.78,
+    "FGA": 86.8
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2004-05",
+    "distance": 11.38,
+    "Team": "CHA",
+    "3PA": 10.7,
+    "3 Point usage": 12.67,
+    "FGA": 83.6
+  },
+  {
+    "3P%": 0.339,
+    "Season": "2005-06",
+    "distance": 11.56,
+    "Team": "CHA",
+    "3PA": 15.4,
+    "3 Point usage": 18.05,
+    "FGA": 83.5
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2006-07",
+    "distance": 11.41,
+    "Team": "CHA",
+    "3PA": 15.6,
+    "3 Point usage": 19.0,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.367,
+    "Season": "2007-08",
+    "distance": 11.69,
+    "Team": "CHA",
+    "3PA": 17.6,
+    "3 Point usage": 21.85,
+    "FGA": 79.9
+  },
+  {
+    "3P%": 0.366,
+    "Season": "2008-09",
+    "distance": 11.23,
+    "Team": "CHA",
+    "3PA": 16.3,
+    "3 Point usage": 20.84,
+    "FGA": 76.8
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2009-10",
+    "distance": 10.73,
+    "Team": "CHA",
+    "3PA": 16.2,
+    "3 Point usage": 20.76,
+    "FGA": 76.9
+  },
+  {
+    "3P%": 0.327,
+    "Season": "2010-11",
+    "distance": 11.46,
+    "Team": "CHA",
+    "3PA": 14.7,
+    "3 Point usage": 18.56,
+    "FGA": 77.6
+  },
+  {
+    "3P%": 0.295,
+    "Season": "2011-12",
+    "distance": 12.3,
+    "Team": "CHA",
+    "3PA": 13.5,
+    "3 Point usage": 16.59,
+    "FGA": 80.2
+  },
+  {
+    "3P%": 0.335,
+    "Season": "2012-13",
+    "distance": 11.71,
+    "Team": "CHA",
+    "3PA": 17.1,
+    "3 Point usage": 20.77,
+    "FGA": 81.1
+  },
+  {
+    "3P%": 0.351,
+    "Season": "2013-14",
+    "distance": 12.15,
+    "Team": "CHA",
+    "3PA": 17.9,
+    "3 Point usage": 21.55,
+    "FGA": 82.1
+  },
+  {
+    "3P%": 0.312,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "CHH",
+    "3PA": 5.2,
+    "3 Point usage": 0.0,
+    "FGA": 90.6
+  },
+  {
+    "3P%": 0.336,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "CHH",
+    "3PA": 7.5,
+    "3 Point usage": 0.0,
+    "FGA": 87.6
+  },
+  {
+    "3P%": 0.314,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "CHH",
+    "3PA": 5.1,
+    "3 Point usage": 0.0,
+    "FGA": 85.8
+  },
+  {
+    "3P%": 0.317,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "CHH",
+    "3PA": 4.5,
+    "3 Point usage": 0.0,
+    "FGA": 92.3
+  },
+  {
+    "3P%": 0.326,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "CHH",
+    "3PA": 6.5,
+    "3 Point usage": 0.0,
+    "FGA": 87.9
+  },
+  {
+    "3P%": 0.367,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "CHH",
+    "3PA": 11.2,
+    "3 Point usage": 0.0,
+    "FGA": 86.6
+  },
+  {
+    "3P%": 0.397,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "CHH",
+    "3PA": 17.2,
+    "3 Point usage": 0.0,
+    "FGA": 78.5
+  },
+  {
+    "3P%": 0.384,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "CHH",
+    "3PA": 18.5,
+    "3 Point usage": 0.0,
+    "FGA": 80.7
+  },
+  {
+    "3P%": 0.428,
+    "Season": "1996-97",
+    "distance": 9.07,
+    "Team": "CHH",
+    "3PA": 16.9,
+    "3 Point usage": 9.12,
+    "FGA": 77.3
+  },
+  {
+    "3P%": 0.383,
+    "Season": "1997-98",
+    "distance": 10.38,
+    "Team": "CHH",
+    "3PA": 11.0,
+    "3 Point usage": 14.06,
+    "FGA": 77.4
+  },
+  {
+    "3P%": 0.365,
+    "Season": "1998-99",
+    "distance": 11.96,
+    "Team": "CHH",
+    "3PA": 14.7,
+    "3 Point usage": 19.69,
+    "FGA": 74.4
+  },
+  {
+    "3P%": 0.339,
+    "Season": "1999-00",
+    "distance": 11.02,
+    "Team": "CHH",
+    "3PA": 12.2,
+    "3 Point usage": 15.02,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2000-01",
+    "distance": 11.86,
+    "Team": "CHH",
+    "3PA": 12.0,
+    "3 Point usage": 14.94,
+    "FGA": 79.3
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2001-02",
+    "distance": 11.21,
+    "Team": "CHH",
+    "3PA": 12.1,
+    "3 Point usage": 14.94,
+    "FGA": 80.2
+  },
+  {
+    "3P%": 0.255,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 3.4,
+    "3 Point usage": 0.0,
+    "FGA": 84.7
+  },
+  {
+    "3P%": 0.212,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 2.2,
+    "3 Point usage": 0.0,
+    "FGA": 84.2
+  },
+  {
+    "3P%": 0.254,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 2.6,
+    "3 Point usage": 0.0,
+    "FGA": 82.0
+  },
+  {
+    "3P%": 0.215,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 2.5,
+    "3 Point usage": 0.0,
+    "FGA": 89.9
+  },
+  {
+    "3P%": 0.171,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 1.4,
+    "3 Point usage": 0.0,
+    "FGA": 85.0
+  },
+  {
+    "3P%": 0.18,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 2.0,
+    "3 Point usage": 0.0,
+    "FGA": 84.3
+  },
+  {
+    "3P%": 0.278,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 3.9,
+    "3 Point usage": 0.0,
+    "FGA": 88.1
+  },
+  {
+    "3P%": 0.261,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 3.6,
+    "3 Point usage": 0.0,
+    "FGA": 87.3
+  },
+  {
+    "3P%": 0.23,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 3.0,
+    "3 Point usage": 0.0,
+    "FGA": 85.5
+  },
+  {
+    "3P%": 0.328,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 6.5,
+    "3 Point usage": 0.0,
+    "FGA": 85.0
+  },
+  {
+    "3P%": 0.374,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 8.2,
+    "3 Point usage": 0.0,
+    "FGA": 86.5
+  },
+  {
+    "3P%": 0.366,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 5.2,
+    "3 Point usage": 0.0,
+    "FGA": 86.9
+  },
+  {
+    "3P%": 0.304,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 5.5,
+    "3 Point usage": 0.0,
+    "FGA": 87.4
+  },
+  {
+    "3P%": 0.365,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 8.2,
+    "3 Point usage": 0.0,
+    "FGA": 87.9
+  },
+  {
+    "3P%": 0.354,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 8.0,
+    "3 Point usage": 0.0,
+    "FGA": 83.1
+  },
+  {
+    "3P%": 0.373,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 14.5,
+    "3 Point usage": 0.0,
+    "FGA": 81.8
+  },
+  {
+    "3P%": 0.403,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "CHI",
+    "3PA": 16.5,
+    "3 Point usage": 0.0,
+    "FGA": 84.0
+  },
+  {
+    "3P%": 0.373,
+    "Season": "1996-97",
+    "distance": 11.33,
+    "Team": "CHI",
+    "3PA": 17.1,
+    "3 Point usage": 9.72,
+    "FGA": 84.4
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1997-98",
+    "distance": 11.25,
+    "Team": "CHI",
+    "3PA": 11.7,
+    "3 Point usage": 13.93,
+    "FGA": 82.9
+  },
+  {
+    "3P%": 0.289,
+    "Season": "1998-99",
+    "distance": 11.27,
+    "Team": "CHI",
+    "3PA": 12.2,
+    "3 Point usage": 15.77,
+    "FGA": 76.7
+  },
+  {
+    "3P%": 0.329,
+    "Season": "1999-00",
+    "distance": 11.1,
+    "Team": "CHI",
+    "3PA": 12.6,
+    "3 Point usage": 16.54,
+    "FGA": 75.4
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2000-01",
+    "distance": 11.59,
+    "Team": "CHI",
+    "3PA": 11.6,
+    "3 Point usage": 14.58,
+    "FGA": 78.2
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2001-02",
+    "distance": 11.66,
+    "Team": "CHI",
+    "3PA": 10.6,
+    "3 Point usage": 13.18,
+    "FGA": 79.2
+  },
+  {
+    "3P%": 0.35,
+    "Season": "2002-03",
+    "distance": 10.59,
+    "Team": "CHI",
+    "3PA": 12.2,
+    "3 Point usage": 14.61,
+    "FGA": 81.9
+  },
+  {
+    "3P%": 0.342,
+    "Season": "2003-04",
+    "distance": 12.11,
+    "Team": "CHI",
+    "3PA": 15.3,
+    "3 Point usage": 18.42,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2004-05",
+    "distance": 11.94,
+    "Team": "CHI",
+    "3PA": 17.5,
+    "3 Point usage": 21.51,
+    "FGA": 80.4
+  },
+  {
+    "3P%": 0.379,
+    "Season": "2005-06",
+    "distance": 12.65,
+    "Team": "CHI",
+    "3PA": 18.0,
+    "3 Point usage": 21.64,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.388,
+    "Season": "2006-07",
+    "distance": 12.32,
+    "Team": "CHI",
+    "3PA": 15.1,
+    "3 Point usage": 18.27,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2007-08",
+    "distance": 12.21,
+    "Team": "CHI",
+    "3PA": 15.9,
+    "3 Point usage": 18.74,
+    "FGA": 83.7
+  },
+  {
+    "3P%": 0.381,
+    "Season": "2008-09",
+    "distance": 12.06,
+    "Team": "CHI",
+    "3PA": 15.8,
+    "3 Point usage": 18.51,
+    "FGA": 83.5
+  },
+  {
+    "3P%": 0.33,
+    "Season": "2009-10",
+    "distance": 11.5,
+    "Team": "CHI",
+    "3PA": 13.0,
+    "3 Point usage": 15.43,
+    "FGA": 83.2
+  },
+  {
+    "3P%": 0.361,
+    "Season": "2010-11",
+    "distance": 12.07,
+    "Team": "CHI",
+    "3PA": 17.3,
+    "3 Point usage": 21.22,
+    "FGA": 80.3
+  },
+  {
+    "3P%": 0.375,
+    "Season": "2011-12",
+    "distance": 12.1,
+    "Team": "CHI",
+    "3PA": 16.9,
+    "3 Point usage": 20.12,
+    "FGA": 82.8
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2012-13",
+    "distance": 11.73,
+    "Team": "CHI",
+    "3PA": 15.4,
+    "3 Point usage": 18.63,
+    "FGA": 81.7
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2013-14",
+    "distance": 12.18,
+    "Team": "CHI",
+    "3PA": 17.8,
+    "3 Point usage": 21.83,
+    "FGA": 80.2
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2014-15",
+    "distance": 12.18,
+    "Team": "CHI",
+    "3PA": 22.3,
+    "3 Point usage": 26.51,
+    "FGA": 82.9
+  },
+  {
+    "3P%": 0.371,
+    "Season": "2015-16",
+    "distance": 12.32,
+    "Team": "CHI",
+    "3PA": 21.4,
+    "3 Point usage": 24.11,
+    "FGA": 87.4
+  },
+  {
+    "3P%": 0.333,
+    "Season": "2016-17",
+    "distance": 12.13,
+    "Team": "CHI",
+    "3PA": 21.2,
+    "3 Point usage": 23.67,
+    "FGA": 88.5
+  },
+  {
+    "3P%": 0.318,
+    "Season": "2014-15",
+    "distance": 12.75,
+    "Team": "CHO",
+    "3PA": 19.1,
+    "3 Point usage": 22.33,
+    "FGA": 84.5
+  },
+  {
+    "3P%": 0.362,
+    "Season": "2015-16",
+    "distance": 13.73,
+    "Team": "CHO",
+    "3PA": 29.4,
+    "3 Point usage": 34.64,
+    "FGA": 84.4
+  },
+  {
+    "3P%": 0.354,
+    "Season": "2016-17",
+    "distance": 13.18,
+    "Team": "CHO",
+    "3PA": 28.9,
+    "3 Point usage": 33.55,
+    "FGA": 85.6
+  },
+  {
+    "3P%": 0.193,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 98.1
+  },
+  {
+    "3P%": 0.289,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 3.0,
+    "3 Point usage": 0.0,
+    "FGA": 92.8
+  },
+  {
+    "3P%": 0.182,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 1.7,
+    "3 Point usage": 0.0,
+    "FGA": 89.4
+  },
+  {
+    "3P%": 0.25,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 1.5,
+    "3 Point usage": 0.0,
+    "FGA": 85.3
+  },
+  {
+    "3P%": 0.262,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 2.0,
+    "3 Point usage": 0.0,
+    "FGA": 88.2
+  },
+  {
+    "3P%": 0.287,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 4.1,
+    "3 Point usage": 0.0,
+    "FGA": 89.8
+  },
+  {
+    "3P%": 0.338,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 4.8,
+    "3 Point usage": 0.0,
+    "FGA": 88.3
+  },
+  {
+    "3P%": 0.24,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 4.1,
+    "3 Point usage": 0.0,
+    "FGA": 86.9
+  },
+  {
+    "3P%": 0.378,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 4.1,
+    "3 Point usage": 0.0,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.359,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 5.8,
+    "3 Point usage": 0.0,
+    "FGA": 84.2
+  },
+  {
+    "3P%": 0.407,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 10.4,
+    "3 Point usage": 0.0,
+    "FGA": 85.1
+  },
+  {
+    "3P%": 0.334,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 5.8,
+    "3 Point usage": 0.0,
+    "FGA": 83.6
+  },
+  {
+    "3P%": 0.357,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 8.6,
+    "3 Point usage": 0.0,
+    "FGA": 85.7
+  },
+  {
+    "3P%": 0.381,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 9.0,
+    "3 Point usage": 0.0,
+    "FGA": 84.0
+  },
+  {
+    "3P%": 0.362,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 9.9,
+    "3 Point usage": 0.0,
+    "FGA": 82.1
+  },
+  {
+    "3P%": 0.385,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 12.6,
+    "3 Point usage": 0.0,
+    "FGA": 76.3
+  },
+  {
+    "3P%": 0.377,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "CLE",
+    "3PA": 19.3,
+    "3 Point usage": 0.0,
+    "FGA": 73.1
+  },
+  {
+    "3P%": 0.376,
+    "Season": "1996-97",
+    "distance": 11.29,
+    "Team": "CLE",
+    "3PA": 15.7,
+    "3 Point usage": 8.64,
+    "FGA": 72.8
+  },
+  {
+    "3P%": 0.372,
+    "Season": "1997-98",
+    "distance": 10.01,
+    "Team": "CLE",
+    "3PA": 9.8,
+    "3 Point usage": 12.65,
+    "FGA": 75.7
+  },
+  {
+    "3P%": 0.341,
+    "Season": "1998-99",
+    "distance": 10.56,
+    "Team": "CLE",
+    "3PA": 10.7,
+    "3 Point usage": 14.71,
+    "FGA": 71.2
+  },
+  {
+    "3P%": 0.373,
+    "Season": "1999-00",
+    "distance": 10.71,
+    "Team": "CLE",
+    "3PA": 11.2,
+    "3 Point usage": 13.56,
+    "FGA": 82.1
+  },
+  {
+    "3P%": 0.334,
+    "Season": "2000-01",
+    "distance": 10.44,
+    "Team": "CLE",
+    "3PA": 8.0,
+    "3 Point usage": 9.68,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.377,
+    "Season": "2001-02",
+    "distance": 11.97,
+    "Team": "CLE",
+    "3PA": 12.5,
+    "3 Point usage": 15.18,
+    "FGA": 80.3
+  },
+  {
+    "3P%": 0.327,
+    "Season": "2002-03",
+    "distance": 10.74,
+    "Team": "CLE",
+    "3PA": 10.9,
+    "3 Point usage": 12.81,
+    "FGA": 82.3
+  },
+  {
+    "3P%": 0.314,
+    "Season": "2003-04",
+    "distance": 10.16,
+    "Team": "CLE",
+    "3PA": 9.6,
+    "3 Point usage": 11.42,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.332,
+    "Season": "2004-05",
+    "distance": 10.74,
+    "Team": "CLE",
+    "3PA": 11.0,
+    "3 Point usage": 13.43,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.339,
+    "Season": "2005-06",
+    "distance": 11.49,
+    "Team": "CLE",
+    "3PA": 17.9,
+    "3 Point usage": 22.57,
+    "FGA": 78.2
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2006-07",
+    "distance": 11.65,
+    "Team": "CLE",
+    "3PA": 17.1,
+    "3 Point usage": 20.78,
+    "FGA": 81.2
+  },
+  {
+    "3P%": 0.358,
+    "Season": "2007-08",
+    "distance": 12.28,
+    "Team": "CLE",
+    "3PA": 18.8,
+    "3 Point usage": 22.84,
+    "FGA": 81.7
+  },
+  {
+    "3P%": 0.393,
+    "Season": "2008-09",
+    "distance": 13.32,
+    "Team": "CLE",
+    "3PA": 20.4,
+    "3 Point usage": 25.66,
+    "FGA": 78.7
+  },
+  {
+    "3P%": 0.381,
+    "Season": "2009-10",
+    "distance": 12.06,
+    "Team": "CLE",
+    "3PA": 19.3,
+    "3 Point usage": 24.51,
+    "FGA": 77.9
+  },
+  {
+    "3P%": 0.342,
+    "Season": "2010-11",
+    "distance": 11.85,
+    "Team": "CLE",
+    "3PA": 18.2,
+    "3 Point usage": 22.27,
+    "FGA": 81.1
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2011-12",
+    "distance": 11.21,
+    "Team": "CLE",
+    "3PA": 19.3,
+    "3 Point usage": 23.53,
+    "FGA": 81.2
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2012-13",
+    "distance": 11.89,
+    "Team": "CLE",
+    "3PA": 19.3,
+    "3 Point usage": 22.74,
+    "FGA": 84.2
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2013-14",
+    "distance": 12.3,
+    "Team": "CLE",
+    "3PA": 20.0,
+    "3 Point usage": 23.22,
+    "FGA": 84.8
+  },
+  {
+    "3P%": 0.367,
+    "Season": "2014-15",
+    "distance": 12.77,
+    "Team": "CLE",
+    "3PA": 27.5,
+    "3 Point usage": 33.3,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.362,
+    "Season": "2015-16",
+    "distance": 13.33,
+    "Team": "CLE",
+    "3PA": 29.6,
+    "3 Point usage": 35.09,
+    "FGA": 84.0
+  },
+  {
+    "3P%": 0.39,
+    "Season": "2016-17",
+    "distance": 14.34,
+    "Team": "CLE",
+    "3PA": 35.4,
+    "3 Point usage": 40.46,
+    "FGA": 86.9
+  },
+  {
+    "3P%": 0.279,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 2.0,
+    "3 Point usage": 0.0,
+    "FGA": 84.5
+  },
+  {
+    "3P%": 0.289,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 88.1
+  },
+  {
+    "3P%": 0.232,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 92.1
+  },
+  {
+    "3P%": 0.228,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 2.2,
+    "3 Point usage": 0.0,
+    "FGA": 88.2
+  },
+  {
+    "3P%": 0.343,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 5.4,
+    "3 Point usage": 0.0,
+    "FGA": 88.8
+  },
+  {
+    "3P%": 0.316,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 5.4,
+    "3 Point usage": 0.0,
+    "FGA": 88.5
+  },
+  {
+    "3P%": 0.354,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 8.0,
+    "3 Point usage": 0.0,
+    "FGA": 89.9
+  },
+  {
+    "3P%": 0.293,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 6.4,
+    "3 Point usage": 0.0,
+    "FGA": 87.7
+  },
+  {
+    "3P%": 0.31,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 8.3,
+    "3 Point usage": 0.0,
+    "FGA": 84.4
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 5.9,
+    "3 Point usage": 0.0,
+    "FGA": 83.3
+  },
+  {
+    "3P%": 0.322,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 7.3,
+    "3 Point usage": 0.0,
+    "FGA": 84.0
+  },
+  {
+    "3P%": 0.336,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 9.7,
+    "3 Point usage": 0.0,
+    "FGA": 86.6
+  },
+  {
+    "3P%": 0.338,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 10.2,
+    "3 Point usage": 0.0,
+    "FGA": 88.7
+  },
+  {
+    "3P%": 0.312,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 9.4,
+    "3 Point usage": 0.0,
+    "FGA": 86.2
+  },
+  {
+    "3P%": 0.322,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 14.6,
+    "3 Point usage": 0.0,
+    "FGA": 89.5
+  },
+  {
+    "3P%": 0.36,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "DAL",
+    "3PA": 24.9,
+    "3 Point usage": 0.0,
+    "FGA": 90.6
+  },
+  {
+    "3P%": 0.327,
+    "Season": "1996-97",
+    "distance": 10.65,
+    "Team": "DAL",
+    "3PA": 16.0,
+    "3 Point usage": 9.46,
+    "FGA": 78.7
+  },
+  {
+    "3P%": 0.357,
+    "Season": "1997-98",
+    "distance": 12.32,
+    "Team": "DAL",
+    "3PA": 14.4,
+    "3 Point usage": 17.26,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.339,
+    "Season": "1998-99",
+    "distance": 11.64,
+    "Team": "DAL",
+    "3PA": 11.9,
+    "3 Point usage": 14.53,
+    "FGA": 80.7
+  },
+  {
+    "3P%": 0.391,
+    "Season": "1999-00",
+    "distance": 12.07,
+    "Team": "DAL",
+    "3PA": 16.2,
+    "3 Point usage": 18.6,
+    "FGA": 85.9
+  },
+  {
+    "3P%": 0.381,
+    "Season": "2000-01",
+    "distance": 11.95,
+    "Team": "DAL",
+    "3PA": 16.5,
+    "3 Point usage": 19.95,
+    "FGA": 81.9
+  },
+  {
+    "3P%": 0.378,
+    "Season": "2001-02",
+    "distance": 12.43,
+    "Team": "DAL",
+    "3PA": 20.1,
+    "3 Point usage": 23.46,
+    "FGA": 84.5
+  },
+  {
+    "3P%": 0.381,
+    "Season": "2002-03",
+    "distance": 12.82,
+    "Team": "DAL",
+    "3PA": 20.3,
+    "3 Point usage": 23.62,
+    "FGA": 85.1
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2003-04",
+    "distance": 11.73,
+    "Team": "DAL",
+    "3PA": 17.8,
+    "3 Point usage": 19.71,
+    "FGA": 88.2
+  },
+  {
+    "3P%": 0.364,
+    "Season": "2004-05",
+    "distance": 11.92,
+    "Team": "DAL",
+    "3PA": 15.5,
+    "3 Point usage": 18.8,
+    "FGA": 81.6
+  },
+  {
+    "3P%": 0.374,
+    "Season": "2005-06",
+    "distance": 11.49,
+    "Team": "DAL",
+    "3PA": 13.6,
+    "3 Point usage": 17.1,
+    "FGA": 77.7
+  },
+  {
+    "3P%": 0.381,
+    "Season": "2006-07",
+    "distance": 12.62,
+    "Team": "DAL",
+    "3PA": 17.1,
+    "3 Point usage": 21.44,
+    "FGA": 78.6
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2007-08",
+    "distance": 12.72,
+    "Team": "DAL",
+    "3PA": 17.1,
+    "3 Point usage": 21.22,
+    "FGA": 79.5
+  },
+  {
+    "3P%": 0.35,
+    "Season": "2008-09",
+    "distance": 13.0,
+    "Team": "DAL",
+    "3PA": 19.9,
+    "3 Point usage": 23.83,
+    "FGA": 82.6
+  },
+  {
+    "3P%": 0.372,
+    "Season": "2009-10",
+    "distance": 12.33,
+    "Team": "DAL",
+    "3PA": 18.3,
+    "3 Point usage": 21.85,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.365,
+    "Season": "2010-11",
+    "distance": 13.12,
+    "Team": "DAL",
+    "3PA": 21.6,
+    "3 Point usage": 27.05,
+    "FGA": 78.8
+  },
+  {
+    "3P%": 0.339,
+    "Season": "2011-12",
+    "distance": 12.9,
+    "Team": "DAL",
+    "3PA": 22.2,
+    "3 Point usage": 26.85,
+    "FGA": 82.0
+  },
+  {
+    "3P%": 0.372,
+    "Season": "2012-13",
+    "distance": 12.55,
+    "Team": "DAL",
+    "3PA": 19.9,
+    "3 Point usage": 23.33,
+    "FGA": 84.0
+  },
+  {
+    "3P%": 0.384,
+    "Season": "2013-14",
+    "distance": 12.77,
+    "Team": "DAL",
+    "3PA": 22.9,
+    "3 Point usage": 27.13,
+    "FGA": 83.6
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2014-15",
+    "distance": 12.81,
+    "Team": "DAL",
+    "3PA": 25.4,
+    "3 Point usage": 29.46,
+    "FGA": 85.8
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2015-16",
+    "distance": 13.71,
+    "Team": "DAL",
+    "3PA": 28.6,
+    "3 Point usage": 33.6,
+    "FGA": 84.1
+  },
+  {
+    "3P%": 0.316,
+    "Season": "2016-17",
+    "distance": 14.6,
+    "Team": "DAL",
+    "3PA": 29.2,
+    "3 Point usage": 35.21,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1976-77",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 91.1
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1977-78",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 90.7
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1978-79",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 89.2
+  },
+  {
+    "3P%": 0.325,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 3.1,
+    "3 Point usage": 0.0,
+    "FGA": 91.1
+  },
+  {
+    "3P%": 0.207,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 1.8,
+    "3 Point usage": 0.0,
+    "FGA": 97.1
+  },
+  {
+    "3P%": 0.268,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 1.8,
+    "3 Point usage": 0.0,
+    "FGA": 93.4
+  },
+  {
+    "3P%": 0.19,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 1.5,
+    "3 Point usage": 0.0,
+    "FGA": 97.5
+  },
+  {
+    "3P%": 0.302,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 3.1,
+    "3 Point usage": 0.0,
+    "FGA": 97.4
+  },
+  {
+    "3P%": 0.311,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 97.3
+  },
+  {
+    "3P%": 0.233,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 3.7,
+    "3 Point usage": 0.0,
+    "FGA": 96.0
+  },
+  {
+    "3P%": 0.271,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 4.8,
+    "3 Point usage": 0.0,
+    "FGA": 97.0
+  },
+  {
+    "3P%": 0.342,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 6.9,
+    "3 Point usage": 0.0,
+    "FGA": 97.1
+  },
+  {
+    "3P%": 0.337,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 8.2,
+    "3 Point usage": 0.0,
+    "FGA": 99.3
+  },
+  {
+    "3P%": 0.337,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 8.3,
+    "3 Point usage": 0.0,
+    "FGA": 97.7
+  },
+  {
+    "3P%": 0.283,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 12.9,
+    "3 Point usage": 0.0,
+    "FGA": 108.1
+  },
+  {
+    "3P%": 0.301,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 5.1,
+    "3 Point usage": 0.0,
+    "FGA": 90.0
+  },
+  {
+    "3P%": 0.304,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 5.5,
+    "3 Point usage": 0.0,
+    "FGA": 88.8
+  },
+  {
+    "3P%": 0.285,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 7.3,
+    "3 Point usage": 0.0,
+    "FGA": 82.7
+  },
+  {
+    "3P%": 0.356,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 14.1,
+    "3 Point usage": 0.0,
+    "FGA": 78.8
+  },
+  {
+    "3P%": 0.346,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "DEN",
+    "3PA": 14.0,
+    "3 Point usage": 0.0,
+    "FGA": 81.2
+  },
+  {
+    "3P%": 0.372,
+    "Season": "1996-97",
+    "distance": 11.86,
+    "Team": "DEN",
+    "3PA": 20.9,
+    "3 Point usage": 13.38,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1997-98",
+    "distance": 11.59,
+    "Team": "DEN",
+    "3PA": 10.9,
+    "3 Point usage": 13.78,
+    "FGA": 78.2
+  },
+  {
+    "3P%": 0.328,
+    "Season": "1998-99",
+    "distance": 12.08,
+    "Team": "DEN",
+    "3PA": 18.4,
+    "3 Point usage": 23.09,
+    "FGA": 79.8
+  },
+  {
+    "3P%": 0.336,
+    "Season": "1999-00",
+    "distance": 11.4,
+    "Team": "DEN",
+    "3PA": 17.0,
+    "3 Point usage": 20.0,
+    "FGA": 84.3
+  },
+  {
+    "3P%": 0.355,
+    "Season": "2000-01",
+    "distance": 11.89,
+    "Team": "DEN",
+    "3PA": 17.6,
+    "3 Point usage": 20.92,
+    "FGA": 83.9
+  },
+  {
+    "3P%": 0.329,
+    "Season": "2001-02",
+    "distance": 11.62,
+    "Team": "DEN",
+    "3PA": 15.7,
+    "3 Point usage": 18.4,
+    "FGA": 83.8
+  },
+  {
+    "3P%": 0.278,
+    "Season": "2002-03",
+    "distance": 10.89,
+    "Team": "DEN",
+    "3PA": 10.0,
+    "3 Point usage": 12.5,
+    "FGA": 79.8
+  },
+  {
+    "3P%": 0.336,
+    "Season": "2003-04",
+    "distance": 10.99,
+    "Team": "DEN",
+    "3PA": 12.0,
+    "3 Point usage": 14.25,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.34,
+    "Season": "2004-05",
+    "distance": 10.77,
+    "Team": "DEN",
+    "3PA": 11.5,
+    "3 Point usage": 13.85,
+    "FGA": 80.7
+  },
+  {
+    "3P%": 0.325,
+    "Season": "2005-06",
+    "distance": 11.06,
+    "Team": "DEN",
+    "3PA": 13.1,
+    "3 Point usage": 15.77,
+    "FGA": 81.4
+  },
+  {
+    "3P%": 0.336,
+    "Season": "2006-07",
+    "distance": 11.12,
+    "Team": "DEN",
+    "3PA": 17.6,
+    "3 Point usage": 20.81,
+    "FGA": 83.0
+  },
+  {
+    "3P%": 0.355,
+    "Season": "2007-08",
+    "distance": 11.55,
+    "Team": "DEN",
+    "3PA": 19.6,
+    "3 Point usage": 22.26,
+    "FGA": 85.8
+  },
+  {
+    "3P%": 0.371,
+    "Season": "2008-09",
+    "distance": 11.44,
+    "Team": "DEN",
+    "3PA": 18.0,
+    "3 Point usage": 22.32,
+    "FGA": 79.4
+  },
+  {
+    "3P%": 0.359,
+    "Season": "2009-10",
+    "distance": 11.7,
+    "Team": "DEN",
+    "3PA": 18.5,
+    "3 Point usage": 22.46,
+    "FGA": 81.4
+  },
+  {
+    "3P%": 0.388,
+    "Season": "2010-11",
+    "distance": 11.83,
+    "Team": "DEN",
+    "3PA": 20.8,
+    "3 Point usage": 25.45,
+    "FGA": 80.6
+  },
+  {
+    "3P%": 0.332,
+    "Season": "2011-12",
+    "distance": 10.53,
+    "Team": "DEN",
+    "3PA": 19.9,
+    "3 Point usage": 23.84,
+    "FGA": 81.9
+  },
+  {
+    "3P%": 0.343,
+    "Season": "2012-13",
+    "distance": 9.86,
+    "Team": "DEN",
+    "3PA": 18.5,
+    "3 Point usage": 21.37,
+    "FGA": 85.2
+  },
+  {
+    "3P%": 0.358,
+    "Season": "2013-14",
+    "distance": 12.02,
+    "Team": "DEN",
+    "3PA": 23.9,
+    "3 Point usage": 27.51,
+    "FGA": 85.9
+  },
+  {
+    "3P%": 0.325,
+    "Season": "2014-15",
+    "distance": 12.26,
+    "Team": "DEN",
+    "3PA": 24.8,
+    "3 Point usage": 28.09,
+    "FGA": 87.3
+  },
+  {
+    "3P%": 0.338,
+    "Season": "2015-16",
+    "distance": 11.81,
+    "Team": "DEN",
+    "3PA": 23.7,
+    "3 Point usage": 27.6,
+    "FGA": 85.4
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2016-17",
+    "distance": 11.59,
+    "Team": "DEN",
+    "3PA": 25.1,
+    "3 Point usage": 28.1,
+    "FGA": 88.5
+  },
+  {
+    "3P%": 0.26,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 2.7,
+    "3 Point usage": 0.0,
+    "FGA": 92.6
+  },
+  {
+    "3P%": 0.155,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 1.0,
+    "3 Point usage": 0.0,
+    "FGA": 85.2
+  },
+  {
+    "3P%": 0.244,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 2.6,
+    "3 Point usage": 0.0,
+    "FGA": 90.1
+  },
+  {
+    "3P%": 0.265,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 3.3,
+    "3 Point usage": 0.0,
+    "FGA": 92.7
+  },
+  {
+    "3P%": 0.227,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 1.7,
+    "3 Point usage": 0.0,
+    "FGA": 96.5
+  },
+  {
+    "3P%": 0.226,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 2.4,
+    "3 Point usage": 0.0,
+    "FGA": 97.5
+  },
+  {
+    "3P%": 0.302,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 2.2,
+    "3 Point usage": 0.0,
+    "FGA": 94.5
+  },
+  {
+    "3P%": 0.231,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 2.1,
+    "3 Point usage": 0.0,
+    "FGA": 88.3
+  },
+  {
+    "3P%": 0.287,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 2.5,
+    "3 Point usage": 0.0,
+    "FGA": 85.6
+  },
+  {
+    "3P%": 0.3,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 4.9,
+    "3 Point usage": 0.0,
+    "FGA": 83.9
+  },
+  {
+    "3P%": 0.327,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 6.6,
+    "3 Point usage": 0.0,
+    "FGA": 85.1
+  },
+  {
+    "3P%": 0.298,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 5.4,
+    "3 Point usage": 0.0,
+    "FGA": 83.8
+  },
+  {
+    "3P%": 0.314,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 6.4,
+    "3 Point usage": 0.0,
+    "FGA": 83.7
+  },
+  {
+    "3P%": 0.322,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 11.1,
+    "3 Point usage": 0.0,
+    "FGA": 87.9
+  },
+  {
+    "3P%": 0.344,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 12.7,
+    "3 Point usage": 0.0,
+    "FGA": 85.6
+  },
+  {
+    "3P%": 0.354,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 17.0,
+    "3 Point usage": 0.0,
+    "FGA": 80.9
+  },
+  {
+    "3P%": 0.404,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "DET",
+    "3PA": 16.5,
+    "3 Point usage": 0.0,
+    "FGA": 74.7
+  },
+  {
+    "3P%": 0.388,
+    "Season": "1996-97",
+    "distance": 11.44,
+    "Team": "DET",
+    "3PA": 18.3,
+    "3 Point usage": 16.9,
+    "FGA": 74.3
+  },
+  {
+    "3P%": 0.312,
+    "Season": "1997-98",
+    "distance": 10.57,
+    "Team": "DET",
+    "3PA": 11.4,
+    "3 Point usage": 14.61,
+    "FGA": 77.7
+  },
+  {
+    "3P%": 0.365,
+    "Season": "1998-99",
+    "distance": 11.27,
+    "Team": "DET",
+    "3PA": 13.6,
+    "3 Point usage": 18.14,
+    "FGA": 74.3
+  },
+  {
+    "3P%": 0.359,
+    "Season": "1999-00",
+    "distance": 11.37,
+    "Team": "DET",
+    "3PA": 14.9,
+    "3 Point usage": 18.3,
+    "FGA": 80.9
+  },
+  {
+    "3P%": 0.35,
+    "Season": "2000-01",
+    "distance": 11.8,
+    "Team": "DET",
+    "3PA": 13.6,
+    "3 Point usage": 16.06,
+    "FGA": 83.9
+  },
+  {
+    "3P%": 0.376,
+    "Season": "2001-02",
+    "distance": 12.37,
+    "Team": "DET",
+    "3PA": 18.4,
+    "3 Point usage": 23.78,
+    "FGA": 76.8
+  },
+  {
+    "3P%": 0.358,
+    "Season": "2002-03",
+    "distance": 12.68,
+    "Team": "DET",
+    "3PA": 18.1,
+    "3 Point usage": 23.45,
+    "FGA": 76.5
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2003-04",
+    "distance": 10.33,
+    "Team": "DET",
+    "3PA": 11.8,
+    "3 Point usage": 15.2,
+    "FGA": 77.0
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2004-05",
+    "distance": 11.08,
+    "Team": "DET",
+    "3PA": 12.8,
+    "3 Point usage": 16.1,
+    "FGA": 78.3
+  },
+  {
+    "3P%": 0.384,
+    "Season": "2005-06",
+    "distance": 12.82,
+    "Team": "DET",
+    "3PA": 17.7,
+    "3 Point usage": 22.06,
+    "FGA": 80.0
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2006-07",
+    "distance": 11.99,
+    "Team": "DET",
+    "3PA": 15.9,
+    "3 Point usage": 19.9,
+    "FGA": 79.1
+  },
+  {
+    "3P%": 0.366,
+    "Season": "2007-08",
+    "distance": 13.12,
+    "Team": "DET",
+    "3PA": 16.2,
+    "3 Point usage": 20.04,
+    "FGA": 79.9
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2008-09",
+    "distance": 12.34,
+    "Team": "DET",
+    "3PA": 13.2,
+    "3 Point usage": 16.35,
+    "FGA": 80.0
+  },
+  {
+    "3P%": 0.314,
+    "Season": "2009-10",
+    "distance": 11.46,
+    "Team": "DET",
+    "3PA": 14.5,
+    "3 Point usage": 17.77,
+    "FGA": 80.5
+  },
+  {
+    "3P%": 0.376,
+    "Season": "2010-11",
+    "distance": 11.48,
+    "Team": "DET",
+    "3PA": 15.3,
+    "3 Point usage": 18.6,
+    "FGA": 81.1
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2011-12",
+    "distance": 10.92,
+    "Team": "DET",
+    "3PA": 13.9,
+    "3 Point usage": 17.2,
+    "FGA": 79.3
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2012-13",
+    "distance": 10.61,
+    "Team": "DET",
+    "3PA": 17.6,
+    "3 Point usage": 21.41,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.321,
+    "Season": "2013-14",
+    "distance": 10.66,
+    "Team": "DET",
+    "3PA": 19.3,
+    "3 Point usage": 21.83,
+    "FGA": 86.9
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2014-15",
+    "distance": 11.77,
+    "Team": "DET",
+    "3PA": 24.9,
+    "3 Point usage": 28.7,
+    "FGA": 85.8
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2015-16",
+    "distance": 12.33,
+    "Team": "DET",
+    "3PA": 26.2,
+    "3 Point usage": 29.76,
+    "FGA": 86.4
+  },
+  {
+    "3P%": 0.333,
+    "Season": "2016-17",
+    "distance": 11.99,
+    "Team": "DET",
+    "3PA": 19.8,
+    "3 Point usage": 22.25,
+    "FGA": 87.0
+  },
+  {
+    "3P%": 0.242,
+    "Season": "1967-68",
+    "distance": 0.0,
+    "Team": "DLC",
+    "3PA": 1.5,
+    "3 Point usage": 0.0,
+    "FGA": 91.9
+  },
+  {
+    "3P%": 0.316,
+    "Season": "1968-69",
+    "distance": 0.0,
+    "Team": "DLC",
+    "3PA": 3.9,
+    "3 Point usage": 0.0,
+    "FGA": 91.7
+  },
+  {
+    "3P%": 0.32,
+    "Season": "1969-70",
+    "distance": 0.0,
+    "Team": "DLC",
+    "3PA": 7.0,
+    "3 Point usage": 0.0,
+    "FGA": 98.4
+  },
+  {
+    "3P%": 0.336,
+    "Season": "1971-72",
+    "distance": 0.0,
+    "Team": "DLC",
+    "3PA": 3.7,
+    "3 Point usage": 0.0,
+    "FGA": 89.3
+  },
+  {
+    "3P%": 0.33,
+    "Season": "1972-73",
+    "distance": 0.0,
+    "Team": "DLC",
+    "3PA": 5.2,
+    "3 Point usage": 0.0,
+    "FGA": 91.0
+  },
+  {
+    "3P%": 0.216,
+    "Season": "1974-75",
+    "distance": 0.0,
+    "Team": "DNA",
+    "3PA": 1.2,
+    "3 Point usage": 0.0,
+    "FGA": 92.4
+  },
+  {
+    "3P%": 0.23,
+    "Season": "1975-76",
+    "distance": 0.0,
+    "Team": "DNA",
+    "3PA": 2.1,
+    "3 Point usage": 0.0,
+    "FGA": 95.7
+  },
+  {
+    "3P%": 0.168,
+    "Season": "1967-68",
+    "distance": 0.0,
+    "Team": "DNR",
+    "3PA": 1.9,
+    "3 Point usage": 0.0,
+    "FGA": 93.2
+  },
+  {
+    "3P%": 0.252,
+    "Season": "1968-69",
+    "distance": 0.0,
+    "Team": "DNR",
+    "3PA": 4.0,
+    "3 Point usage": 0.0,
+    "FGA": 96.8
+  },
+  {
+    "3P%": 0.275,
+    "Season": "1969-70",
+    "distance": 0.0,
+    "Team": "DNR",
+    "3PA": 8.1,
+    "3 Point usage": 0.0,
+    "FGA": 99.8
+  },
+  {
+    "3P%": 0.258,
+    "Season": "1970-71",
+    "distance": 0.0,
+    "Team": "DNR",
+    "3PA": 4.8,
+    "3 Point usage": 0.0,
+    "FGA": 104.5
+  },
+  {
+    "3P%": 0.23,
+    "Season": "1971-72",
+    "distance": 0.0,
+    "Team": "DNR",
+    "3PA": 2.1,
+    "3 Point usage": 0.0,
+    "FGA": 98.2
+  },
+  {
+    "3P%": 0.246,
+    "Season": "1972-73",
+    "distance": 0.0,
+    "Team": "DNR",
+    "3PA": 3.6,
+    "3 Point usage": 0.0,
+    "FGA": 89.3
+  },
+  {
+    "3P%": 0.329,
+    "Season": "1973-74",
+    "distance": 0.0,
+    "Team": "DNR",
+    "3PA": 3.9,
+    "3 Point usage": 0.0,
+    "FGA": 95.7
+  },
+  {
+    "3P%": 0.223,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 1.5,
+    "3 Point usage": 0.0,
+    "FGA": 89.2
+  },
+  {
+    "3P%": 0.286,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 2.6,
+    "3 Point usage": 0.0,
+    "FGA": 88.8
+  },
+  {
+    "3P%": 0.28,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 4.0,
+    "3 Point usage": 0.0,
+    "FGA": 89.6
+  },
+  {
+    "3P%": 0.227,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 1.8,
+    "3 Point usage": 0.0,
+    "FGA": 91.6
+  },
+  {
+    "3P%": 0.243,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 2.8,
+    "3 Point usage": 0.0,
+    "FGA": 91.9
+  },
+  {
+    "3P%": 0.282,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 4.8,
+    "3 Point usage": 0.0,
+    "FGA": 92.1
+  },
+  {
+    "3P%": 0.313,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 3.4,
+    "3 Point usage": 0.0,
+    "FGA": 92.3
+  },
+  {
+    "3P%": 0.319,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 4.4,
+    "3 Point usage": 0.0,
+    "FGA": 90.4
+  },
+  {
+    "3P%": 0.292,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 3.8,
+    "3 Point usage": 0.0,
+    "FGA": 90.3
+  },
+  {
+    "3P%": 0.308,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 7.7,
+    "3 Point usage": 0.0,
+    "FGA": 97.3
+  },
+  {
+    "3P%": 0.324,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 9.1,
+    "3 Point usage": 0.0,
+    "FGA": 87.9
+  },
+  {
+    "3P%": 0.337,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 9.8,
+    "3 Point usage": 0.0,
+    "FGA": 89.6
+  },
+  {
+    "3P%": 0.333,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 9.3,
+    "3 Point usage": 0.0,
+    "FGA": 90.6
+  },
+  {
+    "3P%": 0.35,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 10.4,
+    "3 Point usage": 0.0,
+    "FGA": 88.0
+  },
+  {
+    "3P%": 0.339,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 10.5,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.341,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 19.5,
+    "3 Point usage": 0.0,
+    "FGA": 83.8
+  },
+  {
+    "3P%": 0.373,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "GSW",
+    "3PA": 14.6,
+    "3 Point usage": 0.0,
+    "FGA": 81.7
+  },
+  {
+    "3P%": 0.353,
+    "Season": "1996-97",
+    "distance": 10.93,
+    "Team": "GSW",
+    "3PA": 16.6,
+    "3 Point usage": 9.27,
+    "FGA": 80.1
+  },
+  {
+    "3P%": 0.272,
+    "Season": "1997-98",
+    "distance": 10.81,
+    "Team": "GSW",
+    "3PA": 8.5,
+    "3 Point usage": 9.83,
+    "FGA": 83.9
+  },
+  {
+    "3P%": 0.287,
+    "Season": "1998-99",
+    "distance": 11.2,
+    "Team": "GSW",
+    "3PA": 11.3,
+    "3 Point usage": 13.01,
+    "FGA": 83.5
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1999-00",
+    "distance": 10.9,
+    "Team": "GSW",
+    "3PA": 13.0,
+    "3 Point usage": 14.81,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.293,
+    "Season": "2000-01",
+    "distance": 11.1,
+    "Team": "GSW",
+    "3PA": 11.8,
+    "3 Point usage": 13.21,
+    "FGA": 87.5
+  },
+  {
+    "3P%": 0.322,
+    "Season": "2001-02",
+    "distance": 10.25,
+    "Team": "GSW",
+    "3PA": 12.1,
+    "3 Point usage": 14.06,
+    "FGA": 85.2
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2002-03",
+    "distance": 11.24,
+    "Team": "GSW",
+    "3PA": 15.1,
+    "3 Point usage": 17.7,
+    "FGA": 84.6
+  },
+  {
+    "3P%": 0.334,
+    "Season": "2003-04",
+    "distance": 11.5,
+    "Team": "GSW",
+    "3PA": 15.6,
+    "3 Point usage": 19.35,
+    "FGA": 79.4
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2004-05",
+    "distance": 12.92,
+    "Team": "GSW",
+    "3PA": 21.6,
+    "3 Point usage": 25.06,
+    "FGA": 85.8
+  },
+  {
+    "3P%": 0.341,
+    "Season": "2005-06",
+    "distance": 12.67,
+    "Team": "GSW",
+    "3PA": 22.3,
+    "3 Point usage": 26.72,
+    "FGA": 82.7
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2006-07",
+    "distance": 11.93,
+    "Team": "GSW",
+    "3PA": 24.0,
+    "3 Point usage": 27.62,
+    "FGA": 86.0
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2007-08",
+    "distance": 12.31,
+    "Team": "GSW",
+    "3PA": 26.6,
+    "3 Point usage": 28.97,
+    "FGA": 90.3
+  },
+  {
+    "3P%": 0.373,
+    "Season": "2008-09",
+    "distance": 12.14,
+    "Team": "GSW",
+    "3PA": 18.0,
+    "3 Point usage": 20.58,
+    "FGA": 86.0
+  },
+  {
+    "3P%": 0.375,
+    "Season": "2009-10",
+    "distance": 12.86,
+    "Team": "GSW",
+    "3PA": 20.6,
+    "3 Point usage": 23.5,
+    "FGA": 86.5
+  },
+  {
+    "3P%": 0.392,
+    "Season": "2010-11",
+    "distance": 12.56,
+    "Team": "GSW",
+    "3PA": 21.3,
+    "3 Point usage": 24.58,
+    "FGA": 85.9
+  },
+  {
+    "3P%": 0.388,
+    "Season": "2011-12",
+    "distance": 12.89,
+    "Team": "GSW",
+    "3PA": 20.5,
+    "3 Point usage": 24.6,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.403,
+    "Season": "2012-13",
+    "distance": 13.0,
+    "Team": "GSW",
+    "3PA": 19.9,
+    "3 Point usage": 23.55,
+    "FGA": 83.4
+  },
+  {
+    "3P%": 0.38,
+    "Season": "2013-14",
+    "distance": 12.93,
+    "Team": "GSW",
+    "3PA": 24.8,
+    "3 Point usage": 28.78,
+    "FGA": 85.4
+  },
+  {
+    "3P%": 0.398,
+    "Season": "2014-15",
+    "distance": 13.08,
+    "Team": "GSW",
+    "3PA": 27.0,
+    "3 Point usage": 30.69,
+    "FGA": 87.0
+  },
+  {
+    "3P%": 0.416,
+    "Season": "2015-16",
+    "distance": 13.48,
+    "Team": "GSW",
+    "3PA": 31.6,
+    "3 Point usage": 35.9,
+    "FGA": 87.3
+  },
+  {
+    "3P%": 0.384,
+    "Season": "2016-17",
+    "distance": 13.93,
+    "Team": "GSW",
+    "3PA": 31.6,
+    "3 Point usage": 35.99,
+    "FGA": 86.4
+  },
+  {
+    "3P%": 0.274,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 4.6,
+    "3 Point usage": 0.0,
+    "FGA": 91.4
+  },
+  {
+    "3P%": 0.178,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 1.4,
+    "3 Point usage": 0.0,
+    "FGA": 89.5
+  },
+  {
+    "3P%": 0.284,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 2.1,
+    "3 Point usage": 0.0,
+    "FGA": 89.8
+  },
+  {
+    "3P%": 0.247,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 3.3,
+    "3 Point usage": 0.0,
+    "FGA": 90.8
+  },
+  {
+    "3P%": 0.195,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 1.9,
+    "3 Point usage": 0.0,
+    "FGA": 91.9
+  },
+  {
+    "3P%": 0.22,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 90.7
+  },
+  {
+    "3P%": 0.274,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 3.8,
+    "3 Point usage": 0.0,
+    "FGA": 93.5
+  },
+  {
+    "3P%": 0.275,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 4.0,
+    "3 Point usage": 0.0,
+    "FGA": 88.6
+  },
+  {
+    "3P%": 0.237,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 3.5,
+    "3 Point usage": 0.0,
+    "FGA": 89.7
+  },
+  {
+    "3P%": 0.314,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 6.4,
+    "3 Point usage": 0.0,
+    "FGA": 87.8
+  },
+  {
+    "3P%": 0.312,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 6.0,
+    "3 Point usage": 0.0,
+    "FGA": 88.4
+  },
+  {
+    "3P%": 0.32,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 12.1,
+    "3 Point usage": 0.0,
+    "FGA": 88.9
+  },
+  {
+    "3P%": 0.343,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 11.7,
+    "3 Point usage": 0.0,
+    "FGA": 84.1
+  },
+  {
+    "3P%": 0.361,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 13.1,
+    "3 Point usage": 0.0,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.334,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 15.7,
+    "3 Point usage": 0.0,
+    "FGA": 82.1
+  },
+  {
+    "3P%": 0.368,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 21.4,
+    "3 Point usage": 0.0,
+    "FGA": 80.2
+  },
+  {
+    "3P%": 0.362,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "HOU",
+    "3PA": 21.5,
+    "3 Point usage": 0.0,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.365,
+    "Season": "1996-97",
+    "distance": 10.95,
+    "Team": "HOU",
+    "3PA": 22.4,
+    "3 Point usage": 12.46,
+    "FGA": 79.1
+  },
+  {
+    "3P%": 0.343,
+    "Season": "1997-98",
+    "distance": 11.7,
+    "Team": "HOU",
+    "3PA": 20.4,
+    "3 Point usage": 24.72,
+    "FGA": 79.4
+  },
+  {
+    "3P%": 0.368,
+    "Season": "1998-99",
+    "distance": 11.44,
+    "Team": "HOU",
+    "3PA": 18.3,
+    "3 Point usage": 24.02,
+    "FGA": 76.0
+  },
+  {
+    "3P%": 0.358,
+    "Season": "1999-00",
+    "distance": 11.29,
+    "Team": "HOU",
+    "3PA": 19.8,
+    "3 Point usage": 24.04,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2000-01",
+    "distance": 11.83,
+    "Team": "HOU",
+    "3PA": 17.2,
+    "3 Point usage": 21.52,
+    "FGA": 79.2
+  },
+  {
+    "3P%": 0.335,
+    "Season": "2001-02",
+    "distance": 12.61,
+    "Team": "HOU",
+    "3PA": 18.0,
+    "3 Point usage": 21.97,
+    "FGA": 80.8
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2002-03",
+    "distance": 11.72,
+    "Team": "HOU",
+    "3PA": 15.5,
+    "3 Point usage": 19.16,
+    "FGA": 78.8
+  },
+  {
+    "3P%": 0.366,
+    "Season": "2003-04",
+    "distance": 12.34,
+    "Team": "HOU",
+    "3PA": 17.1,
+    "3 Point usage": 22.31,
+    "FGA": 75.5
+  },
+  {
+    "3P%": 0.364,
+    "Season": "2004-05",
+    "distance": 13.04,
+    "Team": "HOU",
+    "3PA": 18.5,
+    "3 Point usage": 23.4,
+    "FGA": 78.3
+  },
+  {
+    "3P%": 0.332,
+    "Season": "2005-06",
+    "distance": 12.23,
+    "Team": "HOU",
+    "3PA": 17.2,
+    "3 Point usage": 22.36,
+    "FGA": 76.2
+  },
+  {
+    "3P%": 0.372,
+    "Season": "2006-07",
+    "distance": 12.85,
+    "Team": "HOU",
+    "3PA": 23.1,
+    "3 Point usage": 28.81,
+    "FGA": 79.6
+  },
+  {
+    "3P%": 0.342,
+    "Season": "2007-08",
+    "distance": 12.32,
+    "Team": "HOU",
+    "3PA": 20.8,
+    "3 Point usage": 25.19,
+    "FGA": 81.7
+  },
+  {
+    "3P%": 0.375,
+    "Season": "2008-09",
+    "distance": 11.96,
+    "Team": "HOU",
+    "3PA": 20.2,
+    "3 Point usage": 24.93,
+    "FGA": 79.6
+  },
+  {
+    "3P%": 0.351,
+    "Season": "2009-10",
+    "distance": 11.65,
+    "Team": "HOU",
+    "3PA": 22.4,
+    "3 Point usage": 26.28,
+    "FGA": 84.4
+  },
+  {
+    "3P%": 0.367,
+    "Season": "2010-11",
+    "distance": 12.4,
+    "Team": "HOU",
+    "3PA": 22.5,
+    "3 Point usage": 26.14,
+    "FGA": 85.1
+  },
+  {
+    "3P%": 0.359,
+    "Season": "2011-12",
+    "distance": 12.25,
+    "Team": "HOU",
+    "3PA": 20.2,
+    "3 Point usage": 23.82,
+    "FGA": 84.0
+  },
+  {
+    "3P%": 0.366,
+    "Season": "2012-13",
+    "distance": 12.3,
+    "Team": "HOU",
+    "3PA": 28.9,
+    "3 Point usage": 34.74,
+    "FGA": 82.7
+  },
+  {
+    "3P%": 0.358,
+    "Season": "2013-14",
+    "distance": 11.46,
+    "Team": "HOU",
+    "3PA": 26.6,
+    "3 Point usage": 32.8,
+    "FGA": 80.5
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2014-15",
+    "distance": 12.71,
+    "Team": "HOU",
+    "3PA": 32.7,
+    "3 Point usage": 39.06,
+    "FGA": 83.3
+  },
+  {
+    "3P%": 0.347,
+    "Season": "2015-16",
+    "distance": 12.55,
+    "Team": "HOU",
+    "3PA": 30.9,
+    "3 Point usage": 36.6,
+    "FGA": 83.5
+  },
+  {
+    "3P%": 0.378,
+    "Season": "2016-17",
+    "distance": 13.4,
+    "Team": "HOU",
+    "3PA": 36.6,
+    "3 Point usage": 42.72,
+    "FGA": 85.1
+  },
+  {
+    "3P%": 0.267,
+    "Season": "1967-68",
+    "distance": 0.0,
+    "Team": "INA",
+    "3PA": 4.6,
+    "3 Point usage": 0.0,
+    "FGA": 94.8
+  },
+  {
+    "3P%": 0.299,
+    "Season": "1968-69",
+    "distance": 0.0,
+    "Team": "INA",
+    "3PA": 4.7,
+    "3 Point usage": 0.0,
+    "FGA": 98.8
+  },
+  {
+    "3P%": 0.274,
+    "Season": "1969-70",
+    "distance": 0.0,
+    "Team": "INA",
+    "3PA": 9.3,
+    "3 Point usage": 0.0,
+    "FGA": 94.0
+  },
+  {
+    "3P%": 0.299,
+    "Season": "1970-71",
+    "distance": 0.0,
+    "Team": "INA",
+    "3PA": 12.2,
+    "3 Point usage": 0.0,
+    "FGA": 97.6
+  },
+  {
+    "3P%": 0.293,
+    "Season": "1971-72",
+    "distance": 0.0,
+    "Team": "INA",
+    "3PA": 8.9,
+    "3 Point usage": 0.0,
+    "FGA": 92.9
+  },
+  {
+    "3P%": 0.312,
+    "Season": "1972-73",
+    "distance": 0.0,
+    "Team": "INA",
+    "3PA": 6.6,
+    "3 Point usage": 0.0,
+    "FGA": 94.6
+  },
+  {
+    "3P%": 0.315,
+    "Season": "1973-74",
+    "distance": 0.0,
+    "Team": "INA",
+    "3PA": 6.5,
+    "3 Point usage": 0.0,
+    "FGA": 93.9
+  },
+  {
+    "3P%": 0.312,
+    "Season": "1974-75",
+    "distance": 0.0,
+    "Team": "INA",
+    "3PA": 8.5,
+    "3 Point usage": 0.0,
+    "FGA": 99.6
+  },
+  {
+    "3P%": 0.324,
+    "Season": "1975-76",
+    "distance": 0.0,
+    "Team": "INA",
+    "3PA": 9.2,
+    "3 Point usage": 0.0,
+    "FGA": 101.5
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1976-77",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 95.6
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1977-78",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 94.9
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1978-79",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 91.8
+  },
+  {
+    "3P%": 0.28,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 3.8,
+    "3 Point usage": 0.0,
+    "FGA": 93.8
+  },
+  {
+    "3P%": 0.178,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 2.1,
+    "3 Point usage": 0.0,
+    "FGA": 88.4
+  },
+  {
+    "3P%": 0.326,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 3.9,
+    "3 Point usage": 0.0,
+    "FGA": 87.4
+  },
+  {
+    "3P%": 0.212,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 94.2
+  },
+  {
+    "3P%": 0.232,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 2.5,
+    "3 Point usage": 0.0,
+    "FGA": 87.0
+  },
+  {
+    "3P%": 0.194,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 1.9,
+    "3 Point usage": 0.0,
+    "FGA": 89.3
+  },
+  {
+    "3P%": 0.161,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 1.7,
+    "3 Point usage": 0.0,
+    "FGA": 87.2
+  },
+  {
+    "3P%": 0.297,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 3.9,
+    "3 Point usage": 0.0,
+    "FGA": 89.3
+  },
+  {
+    "3P%": 0.336,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 5.9,
+    "3 Point usage": 0.0,
+    "FGA": 87.2
+  },
+  {
+    "3P%": 0.328,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 7.5,
+    "3 Point usage": 0.0,
+    "FGA": 84.7
+  },
+  {
+    "3P%": 0.382,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 9.4,
+    "3 Point usage": 0.0,
+    "FGA": 83.0
+  },
+  {
+    "3P%": 0.332,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 9.1,
+    "3 Point usage": 0.0,
+    "FGA": 85.3
+  },
+  {
+    "3P%": 0.354,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 11.5,
+    "3 Point usage": 0.0,
+    "FGA": 86.3
+  },
+  {
+    "3P%": 0.326,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 9.6,
+    "3 Point usage": 0.0,
+    "FGA": 85.6
+  },
+  {
+    "3P%": 0.368,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 6.1,
+    "3 Point usage": 0.0,
+    "FGA": 79.5
+  },
+  {
+    "3P%": 0.38,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 12.0,
+    "3 Point usage": 0.0,
+    "FGA": 76.2
+  },
+  {
+    "3P%": 0.373,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "IND",
+    "3PA": 11.9,
+    "3 Point usage": 0.0,
+    "FGA": 75.7
+  },
+  {
+    "3P%": 0.381,
+    "Season": "1996-97",
+    "distance": 10.01,
+    "Team": "IND",
+    "3PA": 13.8,
+    "3 Point usage": 9.34,
+    "FGA": 76.3
+  },
+  {
+    "3P%": 0.39,
+    "Season": "1997-98",
+    "distance": 11.6,
+    "Team": "IND",
+    "3PA": 12.5,
+    "3 Point usage": 16.27,
+    "FGA": 75.9
+  },
+  {
+    "3P%": 0.368,
+    "Season": "1998-99",
+    "distance": 12.32,
+    "Team": "IND",
+    "3PA": 16.0,
+    "3 Point usage": 20.66,
+    "FGA": 77.3
+  },
+  {
+    "3P%": 0.392,
+    "Season": "1999-00",
+    "distance": 12.54,
+    "Team": "IND",
+    "3PA": 18.1,
+    "3 Point usage": 22.25,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.342,
+    "Season": "2000-01",
+    "distance": 12.14,
+    "Team": "IND",
+    "3PA": 14.1,
+    "3 Point usage": 17.76,
+    "FGA": 78.4
+  },
+  {
+    "3P%": 0.339,
+    "Season": "2001-02",
+    "distance": 11.96,
+    "Team": "IND",
+    "3PA": 14.6,
+    "3 Point usage": 17.83,
+    "FGA": 80.2
+  },
+  {
+    "3P%": 0.339,
+    "Season": "2002-03",
+    "distance": 11.62,
+    "Team": "IND",
+    "3PA": 13.6,
+    "3 Point usage": 16.78,
+    "FGA": 80.6
+  },
+  {
+    "3P%": 0.351,
+    "Season": "2003-04",
+    "distance": 11.7,
+    "Team": "IND",
+    "3PA": 15.6,
+    "3 Point usage": 20.04,
+    "FGA": 77.1
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2004-05",
+    "distance": 12.72,
+    "Team": "IND",
+    "3PA": 19.2,
+    "3 Point usage": 25.2,
+    "FGA": 75.2
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2005-06",
+    "distance": 12.44,
+    "Team": "IND",
+    "3PA": 18.7,
+    "3 Point usage": 24.21,
+    "FGA": 76.5
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2006-07",
+    "distance": 12.14,
+    "Team": "IND",
+    "3PA": 16.9,
+    "3 Point usage": 20.92,
+    "FGA": 80.0
+  },
+  {
+    "3P%": 0.374,
+    "Season": "2007-08",
+    "distance": 13.54,
+    "Team": "IND",
+    "3PA": 24.6,
+    "3 Point usage": 28.54,
+    "FGA": 85.3
+  },
+  {
+    "3P%": 0.378,
+    "Season": "2008-09",
+    "distance": 12.46,
+    "Team": "IND",
+    "3PA": 21.0,
+    "3 Point usage": 24.07,
+    "FGA": 86.3
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2009-10",
+    "distance": 12.99,
+    "Team": "IND",
+    "3PA": 23.1,
+    "3 Point usage": 27.55,
+    "FGA": 83.2
+  },
+  {
+    "3P%": 0.354,
+    "Season": "2010-11",
+    "distance": 12.7,
+    "Team": "IND",
+    "3PA": 20.2,
+    "3 Point usage": 24.14,
+    "FGA": 82.8
+  },
+  {
+    "3P%": 0.368,
+    "Season": "2011-12",
+    "distance": 11.37,
+    "Team": "IND",
+    "3PA": 16.1,
+    "3 Point usage": 19.56,
+    "FGA": 81.4
+  },
+  {
+    "3P%": 0.347,
+    "Season": "2012-13",
+    "distance": 12.23,
+    "Team": "IND",
+    "3PA": 19.7,
+    "3 Point usage": 24.13,
+    "FGA": 80.6
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2013-14",
+    "distance": 12.49,
+    "Team": "IND",
+    "3PA": 18.8,
+    "3 Point usage": 23.17,
+    "FGA": 80.2
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2014-15",
+    "distance": 13.0,
+    "Team": "IND",
+    "3PA": 21.2,
+    "3 Point usage": 25.22,
+    "FGA": 83.2
+  },
+  {
+    "3P%": 0.351,
+    "Season": "2015-16",
+    "distance": 13.15,
+    "Team": "IND",
+    "3PA": 23.0,
+    "3 Point usage": 26.66,
+    "FGA": 85.2
+  },
+  {
+    "3P%": 0.351,
+    "Season": "2016-17",
+    "distance": 12.63,
+    "Team": "IND",
+    "3PA": 22.5,
+    "3 Point usage": 24.95,
+    "FGA": 87.9
+  },
+  {
+    "3P%": 0.219,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "KCK",
+    "3PA": 1.4,
+    "3 Point usage": 0.0,
+    "FGA": 91.3
+  },
+  {
+    "3P%": 0.292,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "KCK",
+    "3PA": 2.0,
+    "3 Point usage": 0.0,
+    "FGA": 87.2
+  },
+  {
+    "3P%": 0.2,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "KCK",
+    "3PA": 1.6,
+    "3 Point usage": 0.0,
+    "FGA": 88.8
+  },
+  {
+    "3P%": 0.237,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "KCK",
+    "3PA": 2.6,
+    "3 Point usage": 0.0,
+    "FGA": 91.3
+  },
+  {
+    "3P%": 0.275,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "KCK",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 88.2
+  },
+  {
+    "3P%": 0.265,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "KCK",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 88.7
+  },
+  {
+    "3P%": 0.298,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 86.8
+  },
+  {
+    "3P%": 0.279,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 2.8,
+    "3 Point usage": 0.0,
+    "FGA": 87.4
+  },
+  {
+    "3P%": 0.224,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 4.2,
+    "3 Point usage": 0.0,
+    "FGA": 89.4
+  },
+  {
+    "3P%": 0.249,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 3.9,
+    "3 Point usage": 0.0,
+    "FGA": 87.7
+  },
+  {
+    "3P%": 0.231,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 90.6
+  },
+  {
+    "3P%": 0.243,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 2.8,
+    "3 Point usage": 0.0,
+    "FGA": 83.6
+  },
+  {
+    "3P%": 0.26,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 5.3,
+    "3 Point usage": 0.0,
+    "FGA": 89.2
+  },
+  {
+    "3P%": 0.289,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 6.1,
+    "3 Point usage": 0.0,
+    "FGA": 86.3
+  },
+  {
+    "3P%": 0.271,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 6.0,
+    "3 Point usage": 0.0,
+    "FGA": 89.4
+  },
+  {
+    "3P%": 0.303,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 10.1,
+    "3 Point usage": 0.0,
+    "FGA": 87.4
+  },
+  {
+    "3P%": 0.315,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 12.8,
+    "3 Point usage": 0.0,
+    "FGA": 84.0
+  },
+  {
+    "3P%": 0.37,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "LAC",
+    "3PA": 16.8,
+    "3 Point usage": 0.0,
+    "FGA": 80.7
+  },
+  {
+    "3P%": 0.354,
+    "Season": "1996-97",
+    "distance": 10.51,
+    "Team": "LAC",
+    "3PA": 16.3,
+    "3 Point usage": 10.05,
+    "FGA": 81.7
+  },
+  {
+    "3P%": 0.358,
+    "Season": "1997-98",
+    "distance": 11.2,
+    "Team": "LAC",
+    "3PA": 17.9,
+    "3 Point usage": 21.73,
+    "FGA": 81.6
+  },
+  {
+    "3P%": 0.32,
+    "Season": "1998-99",
+    "distance": 10.6,
+    "Team": "LAC",
+    "3PA": 13.4,
+    "3 Point usage": 16.14,
+    "FGA": 80.1
+  },
+  {
+    "3P%": 0.339,
+    "Season": "1999-00",
+    "distance": 11.48,
+    "Team": "LAC",
+    "3PA": 15.5,
+    "3 Point usage": 18.6,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.339,
+    "Season": "2000-01",
+    "distance": 10.93,
+    "Team": "LAC",
+    "3PA": 13.0,
+    "3 Point usage": 16.32,
+    "FGA": 78.9
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2001-02",
+    "distance": 10.94,
+    "Team": "LAC",
+    "3PA": 14.0,
+    "3 Point usage": 17.04,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.331,
+    "Season": "2002-03",
+    "distance": 10.73,
+    "Team": "LAC",
+    "3PA": 14.4,
+    "3 Point usage": 17.73,
+    "FGA": 79.1
+  },
+  {
+    "3P%": 0.321,
+    "Season": "2003-04",
+    "distance": 10.67,
+    "Team": "LAC",
+    "3PA": 12.5,
+    "3 Point usage": 15.34,
+    "FGA": 80.2
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2004-05",
+    "distance": 11.05,
+    "Team": "LAC",
+    "3PA": 8.2,
+    "3 Point usage": 10.22,
+    "FGA": 77.7
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2005-06",
+    "distance": 11.49,
+    "Team": "LAC",
+    "3PA": 10.3,
+    "3 Point usage": 12.7,
+    "FGA": 78.6
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2006-07",
+    "distance": 11.82,
+    "Team": "LAC",
+    "3PA": 11.0,
+    "3 Point usage": 14.02,
+    "FGA": 77.0
+  },
+  {
+    "3P%": 0.324,
+    "Season": "2007-08",
+    "distance": 12.48,
+    "Team": "LAC",
+    "3PA": 13.2,
+    "3 Point usage": 16.5,
+    "FGA": 78.6
+  },
+  {
+    "3P%": 0.354,
+    "Season": "2008-09",
+    "distance": 11.89,
+    "Team": "LAC",
+    "3PA": 18.5,
+    "3 Point usage": 22.11,
+    "FGA": 81.7
+  },
+  {
+    "3P%": 0.332,
+    "Season": "2009-10",
+    "distance": 11.69,
+    "Team": "LAC",
+    "3PA": 17.8,
+    "3 Point usage": 21.77,
+    "FGA": 80.5
+  },
+  {
+    "3P%": 0.338,
+    "Season": "2010-11",
+    "distance": 11.57,
+    "Team": "LAC",
+    "3PA": 18.5,
+    "3 Point usage": 22.58,
+    "FGA": 80.4
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2011-12",
+    "distance": 13.26,
+    "Team": "LAC",
+    "3PA": 21.8,
+    "3 Point usage": 26.6,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.358,
+    "Season": "2012-13",
+    "distance": 12.53,
+    "Team": "LAC",
+    "3PA": 21.4,
+    "3 Point usage": 26.32,
+    "FGA": 80.6
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2013-14",
+    "distance": 13.31,
+    "Team": "LAC",
+    "3PA": 24.0,
+    "3 Point usage": 28.83,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.376,
+    "Season": "2014-15",
+    "distance": 14.14,
+    "Team": "LAC",
+    "3PA": 26.9,
+    "3 Point usage": 32.03,
+    "FGA": 83.3
+  },
+  {
+    "3P%": 0.364,
+    "Season": "2015-16",
+    "distance": 14.15,
+    "Team": "LAC",
+    "3PA": 26.7,
+    "3 Point usage": 31.75,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.372,
+    "Season": "2016-17",
+    "distance": 13.4,
+    "Team": "LAC",
+    "3PA": 26.3,
+    "3 Point usage": 31.19,
+    "FGA": 83.0
+  },
+  {
+    "3P%": 0.2,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 1.2,
+    "3 Point usage": 0.0,
+    "FGA": 89.9
+  },
+  {
+    "3P%": 0.181,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 1.1,
+    "3 Point usage": 0.0,
+    "FGA": 90.0
+  },
+  {
+    "3P%": 0.138,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 1.1,
+    "3 Point usage": 0.0,
+    "FGA": 92.5
+  },
+  {
+    "3P%": 0.104,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 1.2,
+    "3 Point usage": 0.0,
+    "FGA": 91.6
+  },
+  {
+    "3P%": 0.257,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 2.8,
+    "3 Point usage": 0.0,
+    "FGA": 88.4
+  },
+  {
+    "3P%": 0.305,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 3.6,
+    "3 Point usage": 0.0,
+    "FGA": 88.5
+  },
+  {
+    "3P%": 0.337,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 5.0,
+    "3 Point usage": 0.0,
+    "FGA": 89.5
+  },
+  {
+    "3P%": 0.367,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 5.5,
+    "3 Point usage": 0.0,
+    "FGA": 88.4
+  },
+  {
+    "3P%": 0.297,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 5.8,
+    "3 Point usage": 0.0,
+    "FGA": 86.3
+  },
+  {
+    "3P%": 0.34,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 8.1,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.367,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 10.3,
+    "3 Point usage": 0.0,
+    "FGA": 85.5
+  },
+  {
+    "3P%": 0.304,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 9.1,
+    "3 Point usage": 0.0,
+    "FGA": 84.3
+  },
+  {
+    "3P%": 0.267,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 5.4,
+    "3 Point usage": 0.0,
+    "FGA": 85.1
+  },
+  {
+    "3P%": 0.299,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 7.6,
+    "3 Point usage": 0.0,
+    "FGA": 85.3
+  },
+  {
+    "3P%": 0.3,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 9.8,
+    "3 Point usage": 0.0,
+    "FGA": 89.2
+  },
+  {
+    "3P%": 0.352,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 18.2,
+    "3 Point usage": 0.0,
+    "FGA": 86.4
+  },
+  {
+    "3P%": 0.351,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "LAL",
+    "3PA": 16.6,
+    "3 Point usage": 0.0,
+    "FGA": 81.8
+  },
+  {
+    "3P%": 0.367,
+    "Season": "1996-97",
+    "distance": 9.47,
+    "Team": "LAL",
+    "3PA": 18.3,
+    "3 Point usage": 13.29,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.351,
+    "Season": "1997-98",
+    "distance": 9.29,
+    "Team": "LAL",
+    "3PA": 17.3,
+    "3 Point usage": 21.33,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.352,
+    "Season": "1998-99",
+    "distance": 10.48,
+    "Team": "LAL",
+    "3PA": 13.7,
+    "3 Point usage": 17.23,
+    "FGA": 78.7
+  },
+  {
+    "3P%": 0.329,
+    "Season": "1999-00",
+    "distance": 10.59,
+    "Team": "LAL",
+    "3PA": 12.8,
+    "3 Point usage": 15.03,
+    "FGA": 83.4
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2000-01",
+    "distance": 11.5,
+    "Team": "LAL",
+    "3PA": 15.5,
+    "3 Point usage": 18.82,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.354,
+    "Season": "2001-02",
+    "distance": 11.91,
+    "Team": "LAL",
+    "3PA": 17.5,
+    "3 Point usage": 20.81,
+    "FGA": 83.4
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2002-03",
+    "distance": 11.84,
+    "Team": "LAL",
+    "3PA": 16.7,
+    "3 Point usage": 19.31,
+    "FGA": 83.6
+  },
+  {
+    "3P%": 0.327,
+    "Season": "2003-04",
+    "distance": 11.14,
+    "Team": "LAL",
+    "3PA": 13.6,
+    "3 Point usage": 16.57,
+    "FGA": 81.4
+  },
+  {
+    "3P%": 0.355,
+    "Season": "2004-05",
+    "distance": 12.35,
+    "Team": "LAL",
+    "3PA": 22.1,
+    "3 Point usage": 26.79,
+    "FGA": 80.8
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2005-06",
+    "distance": 12.45,
+    "Team": "LAL",
+    "3PA": 19.3,
+    "3 Point usage": 23.7,
+    "FGA": 80.6
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2006-07",
+    "distance": 12.09,
+    "Team": "LAL",
+    "3PA": 21.0,
+    "3 Point usage": 25.58,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.378,
+    "Season": "2007-08",
+    "distance": 12.25,
+    "Team": "LAL",
+    "3PA": 21.4,
+    "3 Point usage": 25.45,
+    "FGA": 83.1
+  },
+  {
+    "3P%": 0.361,
+    "Season": "2008-09",
+    "distance": 11.52,
+    "Team": "LAL",
+    "3PA": 18.5,
+    "3 Point usage": 21.45,
+    "FGA": 85.1
+  },
+  {
+    "3P%": 0.341,
+    "Season": "2009-10",
+    "distance": 11.78,
+    "Team": "LAL",
+    "3PA": 19.0,
+    "3 Point usage": 22.43,
+    "FGA": 83.8
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2010-11",
+    "distance": 12.22,
+    "Team": "LAL",
+    "3PA": 18.1,
+    "3 Point usage": 21.56,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.326,
+    "Season": "2011-12",
+    "distance": 12.02,
+    "Team": "LAL",
+    "3PA": 16.8,
+    "3 Point usage": 20.67,
+    "FGA": 80.6
+  },
+  {
+    "3P%": 0.355,
+    "Season": "2012-13",
+    "distance": 12.84,
+    "Team": "LAL",
+    "3PA": 24.6,
+    "3 Point usage": 29.99,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.381,
+    "Season": "2013-14",
+    "distance": 13.03,
+    "Team": "LAL",
+    "3PA": 24.8,
+    "3 Point usage": 28.96,
+    "FGA": 85.1
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2014-15",
+    "distance": 12.54,
+    "Team": "LAL",
+    "3PA": 18.9,
+    "3 Point usage": 21.89,
+    "FGA": 85.6
+  },
+  {
+    "3P%": 0.317,
+    "Season": "2015-16",
+    "distance": 13.06,
+    "Team": "LAL",
+    "3PA": 24.6,
+    "3 Point usage": 28.49,
+    "FGA": 84.8
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2016-17",
+    "distance": 12.5,
+    "Team": "LAL",
+    "3PA": 25.6,
+    "3 Point usage": 28.92,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.307,
+    "Season": "2001-02",
+    "distance": 11.26,
+    "Team": "MEM",
+    "3PA": 13.4,
+    "3 Point usage": 16.48,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.365,
+    "Season": "2002-03",
+    "distance": 11.55,
+    "Team": "MEM",
+    "3PA": 15.6,
+    "3 Point usage": 18.7,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.34,
+    "Season": "2003-04",
+    "distance": 10.77,
+    "Team": "MEM",
+    "3PA": 16.0,
+    "3 Point usage": 19.29,
+    "FGA": 81.2
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2004-05",
+    "distance": 11.09,
+    "Team": "MEM",
+    "3PA": 18.1,
+    "3 Point usage": 23.36,
+    "FGA": 76.5
+  },
+  {
+    "3P%": 0.374,
+    "Season": "2005-06",
+    "distance": 11.66,
+    "Team": "MEM",
+    "3PA": 19.2,
+    "3 Point usage": 25.53,
+    "FGA": 74.7
+  },
+  {
+    "3P%": 0.367,
+    "Season": "2006-07",
+    "distance": 11.38,
+    "Team": "MEM",
+    "3PA": 16.6,
+    "3 Point usage": 20.6,
+    "FGA": 78.6
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2007-08",
+    "distance": 12.1,
+    "Team": "MEM",
+    "3PA": 21.7,
+    "3 Point usage": 25.87,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.36,
+    "Season": "2008-09",
+    "distance": 11.02,
+    "Team": "MEM",
+    "3PA": 13.5,
+    "3 Point usage": 17.26,
+    "FGA": 77.0
+  },
+  {
+    "3P%": 0.337,
+    "Season": "2009-10",
+    "distance": 10.13,
+    "Team": "MEM",
+    "3PA": 12.4,
+    "3 Point usage": 14.39,
+    "FGA": 83.8
+  },
+  {
+    "3P%": 0.334,
+    "Season": "2010-11",
+    "distance": 10.27,
+    "Team": "MEM",
+    "3PA": 11.3,
+    "3 Point usage": 13.2,
+    "FGA": 82.9
+  },
+  {
+    "3P%": 0.326,
+    "Season": "2011-12",
+    "distance": 11.18,
+    "Team": "MEM",
+    "3PA": 12.9,
+    "3 Point usage": 15.2,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2012-13",
+    "distance": 11.04,
+    "Team": "MEM",
+    "3PA": 13.5,
+    "3 Point usage": 16.38,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2013-14",
+    "distance": 10.78,
+    "Team": "MEM",
+    "3PA": 14.0,
+    "3 Point usage": 16.78,
+    "FGA": 82.0
+  },
+  {
+    "3P%": 0.339,
+    "Season": "2014-15",
+    "distance": 10.95,
+    "Team": "MEM",
+    "3PA": 15.2,
+    "3 Point usage": 18.02,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.331,
+    "Season": "2015-16",
+    "distance": 11.35,
+    "Team": "MEM",
+    "3PA": 18.5,
+    "3 Point usage": 21.81,
+    "FGA": 83.6
+  },
+  {
+    "3P%": 0.336,
+    "Season": "2016-17",
+    "distance": 12.84,
+    "Team": "MEM",
+    "3PA": 25.4,
+    "3 Point usage": 30.27,
+    "FGA": 82.7
+  },
+  {
+    "3P%": 0.326,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "MIA",
+    "3PA": 3.6,
+    "3 Point usage": 0.0,
+    "FGA": 86.8
+  },
+  {
+    "3P%": 0.293,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "MIA",
+    "3PA": 3.7,
+    "3 Point usage": 0.0,
+    "FGA": 89.6
+  },
+  {
+    "3P%": 0.302,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "MIA",
+    "3PA": 5.7,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.342,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "MIA",
+    "3PA": 9.2,
+    "3 Point usage": 0.0,
+    "FGA": 86.1
+  },
+  {
+    "3P%": 0.354,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "MIA",
+    "3PA": 11.5,
+    "3 Point usage": 0.0,
+    "FGA": 83.5
+  },
+  {
+    "3P%": 0.338,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "MIA",
+    "3PA": 12.2,
+    "3 Point usage": 0.0,
+    "FGA": 84.1
+  },
+  {
+    "3P%": 0.369,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "MIA",
+    "3PA": 14.4,
+    "3 Point usage": 0.0,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.379,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "MIA",
+    "3PA": 17.8,
+    "3 Point usage": 0.0,
+    "FGA": 77.4
+  },
+  {
+    "3P%": 0.364,
+    "Season": "1996-97",
+    "distance": 11.35,
+    "Team": "MIA",
+    "3PA": 22.7,
+    "3 Point usage": 14.45,
+    "FGA": 76.0
+  },
+  {
+    "3P%": 0.355,
+    "Season": "1997-98",
+    "distance": 11.82,
+    "Team": "MIA",
+    "3PA": 18.8,
+    "3 Point usage": 23.9,
+    "FGA": 77.2
+  },
+  {
+    "3P%": 0.359,
+    "Season": "1998-99",
+    "distance": 12.24,
+    "Team": "MIA",
+    "3PA": 16.1,
+    "3 Point usage": 22.21,
+    "FGA": 71.3
+  },
+  {
+    "3P%": 0.371,
+    "Season": "1999-00",
+    "distance": 12.02,
+    "Team": "MIA",
+    "3PA": 14.7,
+    "3 Point usage": 18.3,
+    "FGA": 78.8
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2000-01",
+    "distance": 12.6,
+    "Team": "MIA",
+    "3PA": 16.9,
+    "3 Point usage": 21.75,
+    "FGA": 76.3
+  },
+  {
+    "3P%": 0.347,
+    "Season": "2001-02",
+    "distance": 12.46,
+    "Team": "MIA",
+    "3PA": 11.0,
+    "3 Point usage": 13.69,
+    "FGA": 77.8
+  },
+  {
+    "3P%": 0.316,
+    "Season": "2002-03",
+    "distance": 12.48,
+    "Team": "MIA",
+    "3PA": 13.4,
+    "3 Point usage": 16.54,
+    "FGA": 79.5
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2003-04",
+    "distance": 11.91,
+    "Team": "MIA",
+    "3PA": 16.5,
+    "3 Point usage": 20.74,
+    "FGA": 78.3
+  },
+  {
+    "3P%": 0.377,
+    "Season": "2004-05",
+    "distance": 11.14,
+    "Team": "MIA",
+    "3PA": 15.4,
+    "3 Point usage": 19.58,
+    "FGA": 77.7
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2005-06",
+    "distance": 11.04,
+    "Team": "MIA",
+    "3PA": 17.6,
+    "3 Point usage": 22.31,
+    "FGA": 77.5
+  },
+  {
+    "3P%": 0.343,
+    "Season": "2006-07",
+    "distance": 12.07,
+    "Team": "MIA",
+    "3PA": 18.8,
+    "3 Point usage": 24.11,
+    "FGA": 76.7
+  },
+  {
+    "3P%": 0.358,
+    "Season": "2007-08",
+    "distance": 12.99,
+    "Team": "MIA",
+    "3PA": 16.7,
+    "3 Point usage": 21.35,
+    "FGA": 77.3
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2008-09",
+    "distance": 12.88,
+    "Team": "MIA",
+    "3PA": 19.9,
+    "3 Point usage": 24.06,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2009-10",
+    "distance": 12.67,
+    "Team": "MIA",
+    "3PA": 17.4,
+    "3 Point usage": 21.66,
+    "FGA": 79.5
+  },
+  {
+    "3P%": 0.37,
+    "Season": "2010-11",
+    "distance": 13.22,
+    "Team": "MIA",
+    "3PA": 18.0,
+    "3 Point usage": 23.34,
+    "FGA": 76.8
+  },
+  {
+    "3P%": 0.359,
+    "Season": "2011-12",
+    "distance": 11.58,
+    "Team": "MIA",
+    "3PA": 15.6,
+    "3 Point usage": 19.69,
+    "FGA": 79.0
+  },
+  {
+    "3P%": 0.396,
+    "Season": "2012-13",
+    "distance": 12.72,
+    "Team": "MIA",
+    "3PA": 22.1,
+    "3 Point usage": 28.3,
+    "FGA": 77.4
+  },
+  {
+    "3P%": 0.364,
+    "Season": "2013-14",
+    "distance": 12.28,
+    "Team": "MIA",
+    "3PA": 22.3,
+    "3 Point usage": 29.05,
+    "FGA": 76.5
+  },
+  {
+    "3P%": 0.335,
+    "Season": "2014-15",
+    "distance": 12.38,
+    "Team": "MIA",
+    "3PA": 20.2,
+    "3 Point usage": 25.89,
+    "FGA": 77.2
+  },
+  {
+    "3P%": 0.336,
+    "Season": "2015-16",
+    "distance": 11.58,
+    "Team": "MIA",
+    "3PA": 18.0,
+    "3 Point usage": 21.69,
+    "FGA": 81.7
+  },
+  {
+    "3P%": 0.331,
+    "Season": "2016-17",
+    "distance": 12.01,
+    "Team": "MIA",
+    "3PA": 25.5,
+    "3 Point usage": 29.54,
+    "FGA": 86.0
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 1.9,
+    "3 Point usage": 0.0,
+    "FGA": 92.1
+  },
+  {
+    "3P%": 0.229,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 1.6,
+    "3 Point usage": 0.0,
+    "FGA": 91.1
+  },
+  {
+    "3P%": 0.299,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 2.0,
+    "3 Point usage": 0.0,
+    "FGA": 85.5
+  },
+  {
+    "3P%": 0.219,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 2.1,
+    "3 Point usage": 0.0,
+    "FGA": 87.0
+  },
+  {
+    "3P%": 0.254,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 2.8,
+    "3 Point usage": 0.0,
+    "FGA": 85.0
+  },
+  {
+    "3P%": 0.303,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 3.6,
+    "3 Point usage": 0.0,
+    "FGA": 88.5
+  },
+  {
+    "3P%": 0.327,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 4.7,
+    "3 Point usage": 0.0,
+    "FGA": 89.1
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 7.0,
+    "3 Point usage": 0.0,
+    "FGA": 88.8
+  },
+  {
+    "3P%": 0.324,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 5.0,
+    "3 Point usage": 0.0,
+    "FGA": 86.3
+  },
+  {
+    "3P%": 0.316,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 6.9,
+    "3 Point usage": 0.0,
+    "FGA": 87.4
+  },
+  {
+    "3P%": 0.312,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 8.2,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.341,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 9.2,
+    "3 Point usage": 0.0,
+    "FGA": 84.7
+  },
+  {
+    "3P%": 0.369,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 12.3,
+    "3 Point usage": 0.0,
+    "FGA": 88.0
+  },
+  {
+    "3P%": 0.333,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 11.4,
+    "3 Point usage": 0.0,
+    "FGA": 84.4
+  },
+  {
+    "3P%": 0.325,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 12.4,
+    "3 Point usage": 0.0,
+    "FGA": 83.0
+  },
+  {
+    "3P%": 0.366,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 16.5,
+    "3 Point usage": 0.0,
+    "FGA": 80.3
+  },
+  {
+    "3P%": 0.338,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "MIL",
+    "3PA": 12.9,
+    "3 Point usage": 0.0,
+    "FGA": 79.1
+  },
+  {
+    "3P%": 0.352,
+    "Season": "1996-97",
+    "distance": 9.56,
+    "Team": "MIL",
+    "3PA": 11.2,
+    "3 Point usage": 9.84,
+    "FGA": 76.9
+  },
+  {
+    "3P%": 0.354,
+    "Season": "1997-98",
+    "distance": 11.05,
+    "Team": "MIL",
+    "3PA": 8.6,
+    "3 Point usage": 10.7,
+    "FGA": 78.0
+  },
+  {
+    "3P%": 0.373,
+    "Season": "1998-99",
+    "distance": 11.45,
+    "Team": "MIL",
+    "3PA": 12.4,
+    "3 Point usage": 16.06,
+    "FGA": 76.4
+  },
+  {
+    "3P%": 0.369,
+    "Season": "1999-00",
+    "distance": 11.79,
+    "Team": "MIL",
+    "3PA": 13.0,
+    "3 Point usage": 15.32,
+    "FGA": 83.3
+  },
+  {
+    "3P%": 0.379,
+    "Season": "2000-01",
+    "distance": 12.76,
+    "Team": "MIL",
+    "3PA": 18.1,
+    "3 Point usage": 21.49,
+    "FGA": 82.9
+  },
+  {
+    "3P%": 0.375,
+    "Season": "2001-02",
+    "distance": 12.75,
+    "Team": "MIL",
+    "3PA": 19.3,
+    "3 Point usage": 23.71,
+    "FGA": 80.2
+  },
+  {
+    "3P%": 0.383,
+    "Season": "2002-03",
+    "distance": 12.23,
+    "Team": "MIL",
+    "3PA": 18.6,
+    "3 Point usage": 22.67,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.35,
+    "Season": "2003-04",
+    "distance": 10.86,
+    "Team": "MIL",
+    "3PA": 14.0,
+    "3 Point usage": 17.13,
+    "FGA": 81.1
+  },
+  {
+    "3P%": 0.351,
+    "Season": "2004-05",
+    "distance": 10.72,
+    "Team": "MIL",
+    "3PA": 11.3,
+    "3 Point usage": 13.88,
+    "FGA": 80.2
+  },
+  {
+    "3P%": 0.38,
+    "Season": "2005-06",
+    "distance": 11.07,
+    "Team": "MIL",
+    "3PA": 16.3,
+    "3 Point usage": 20.26,
+    "FGA": 80.1
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2006-07",
+    "distance": 11.05,
+    "Team": "MIL",
+    "3PA": 18.0,
+    "3 Point usage": 21.73,
+    "FGA": 81.9
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2007-08",
+    "distance": 11.22,
+    "Team": "MIL",
+    "3PA": 16.0,
+    "3 Point usage": 19.18,
+    "FGA": 82.3
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2008-09",
+    "distance": 12.05,
+    "Team": "MIL",
+    "3PA": 17.2,
+    "3 Point usage": 20.7,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2009-10",
+    "distance": 12.59,
+    "Team": "MIL",
+    "3PA": 22.1,
+    "3 Point usage": 25.72,
+    "FGA": 85.3
+  },
+  {
+    "3P%": 0.342,
+    "Season": "2010-11",
+    "distance": 12.29,
+    "Team": "MIL",
+    "3PA": 17.2,
+    "3 Point usage": 21.43,
+    "FGA": 79.8
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2011-12",
+    "distance": 11.86,
+    "Team": "MIL",
+    "3PA": 19.2,
+    "3 Point usage": 22.13,
+    "FGA": 85.6
+  },
+  {
+    "3P%": 0.36,
+    "Season": "2012-13",
+    "distance": 11.72,
+    "Team": "MIL",
+    "3PA": 20.4,
+    "3 Point usage": 23.08,
+    "FGA": 87.8
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2013-14",
+    "distance": 11.62,
+    "Team": "MIL",
+    "3PA": 18.9,
+    "3 Point usage": 22.94,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2014-15",
+    "distance": 11.4,
+    "Team": "MIL",
+    "3PA": 18.3,
+    "3 Point usage": 22.2,
+    "FGA": 82.0
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2015-16",
+    "distance": 10.1,
+    "Team": "MIL",
+    "3PA": 15.6,
+    "3 Point usage": 18.57,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.335,
+    "Season": "2016-17",
+    "distance": 11.19,
+    "Team": "MIL",
+    "3PA": 24.3,
+    "3 Point usage": 28.08,
+    "FGA": 85.8
+  },
+  {
+    "3P%": 0.248,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "MIN",
+    "3PA": 3.6,
+    "3 Point usage": 0.0,
+    "FGA": 83.9
+  },
+  {
+    "3P%": 0.283,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "MIN",
+    "3PA": 4.6,
+    "3 Point usage": 0.0,
+    "FGA": 88.7
+  },
+  {
+    "3P%": 0.32,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "MIN",
+    "3PA": 4.8,
+    "3 Point usage": 0.0,
+    "FGA": 89.5
+  },
+  {
+    "3P%": 0.292,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "MIN",
+    "3PA": 6.9,
+    "3 Point usage": 0.0,
+    "FGA": 79.6
+  },
+  {
+    "3P%": 0.329,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "MIN",
+    "3PA": 6.8,
+    "3 Point usage": 0.0,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.313,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "MIN",
+    "3PA": 12.4,
+    "3 Point usage": 0.0,
+    "FGA": 75.8
+  },
+  {
+    "3P%": 0.326,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "MIN",
+    "3PA": 10.5,
+    "3 Point usage": 0.0,
+    "FGA": 79.0
+  },
+  {
+    "3P%": 0.339,
+    "Season": "1996-97",
+    "distance": 10.6,
+    "Team": "MIN",
+    "3PA": 13.3,
+    "3 Point usage": 8.25,
+    "FGA": 78.5
+  },
+  {
+    "3P%": 0.347,
+    "Season": "1997-98",
+    "distance": 10.99,
+    "Team": "MIN",
+    "3PA": 10.6,
+    "3 Point usage": 12.56,
+    "FGA": 83.5
+  },
+  {
+    "3P%": 0.298,
+    "Season": "1998-99",
+    "distance": 11.67,
+    "Team": "MIN",
+    "3PA": 8.2,
+    "3 Point usage": 9.24,
+    "FGA": 86.5
+  },
+  {
+    "3P%": 0.346,
+    "Season": "1999-00",
+    "distance": 12.1,
+    "Team": "MIN",
+    "3PA": 8.7,
+    "3 Point usage": 10.1,
+    "FGA": 84.3
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2000-01",
+    "distance": 12.08,
+    "Team": "MIN",
+    "3PA": 11.0,
+    "3 Point usage": 12.97,
+    "FGA": 83.8
+  },
+  {
+    "3P%": 0.378,
+    "Season": "2001-02",
+    "distance": 12.05,
+    "Team": "MIN",
+    "3PA": 12.8,
+    "3 Point usage": 14.97,
+    "FGA": 84.0
+  },
+  {
+    "3P%": 0.368,
+    "Season": "2002-03",
+    "distance": 11.92,
+    "Team": "MIN",
+    "3PA": 9.8,
+    "3 Point usage": 11.61,
+    "FGA": 83.0
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2003-04",
+    "distance": 12.58,
+    "Team": "MIN",
+    "3PA": 10.9,
+    "3 Point usage": 13.33,
+    "FGA": 80.1
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2004-05",
+    "distance": 12.79,
+    "Team": "MIN",
+    "3PA": 14.0,
+    "3 Point usage": 17.0,
+    "FGA": 80.8
+  },
+  {
+    "3P%": 0.329,
+    "Season": "2005-06",
+    "distance": 12.08,
+    "Team": "MIN",
+    "3PA": 11.5,
+    "3 Point usage": 14.46,
+    "FGA": 77.3
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2006-07",
+    "distance": 12.41,
+    "Team": "MIN",
+    "3PA": 13.3,
+    "3 Point usage": 16.24,
+    "FGA": 79.3
+  },
+  {
+    "3P%": 0.35,
+    "Season": "2007-08",
+    "distance": 11.24,
+    "Team": "MIN",
+    "3PA": 15.4,
+    "3 Point usage": 17.91,
+    "FGA": 83.1
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2008-09",
+    "distance": 11.58,
+    "Team": "MIN",
+    "3PA": 18.8,
+    "3 Point usage": 22.41,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.341,
+    "Season": "2009-10",
+    "distance": 11.07,
+    "Team": "MIN",
+    "3PA": 14.4,
+    "3 Point usage": 16.69,
+    "FGA": 84.4
+  },
+  {
+    "3P%": 0.376,
+    "Season": "2010-11",
+    "distance": 12.24,
+    "Team": "MIN",
+    "3PA": 19.1,
+    "3 Point usage": 21.9,
+    "FGA": 85.5
+  },
+  {
+    "3P%": 0.332,
+    "Season": "2011-12",
+    "distance": 12.17,
+    "Team": "MIN",
+    "3PA": 21.6,
+    "3 Point usage": 26.01,
+    "FGA": 82.3
+  },
+  {
+    "3P%": 0.305,
+    "Season": "2012-13",
+    "distance": 11.81,
+    "Team": "MIN",
+    "3PA": 18.0,
+    "3 Point usage": 21.86,
+    "FGA": 81.7
+  },
+  {
+    "3P%": 0.341,
+    "Season": "2013-14",
+    "distance": 11.63,
+    "Team": "MIN",
+    "3PA": 21.4,
+    "3 Point usage": 24.25,
+    "FGA": 87.5
+  },
+  {
+    "3P%": 0.332,
+    "Season": "2014-15",
+    "distance": 11.6,
+    "Team": "MIN",
+    "3PA": 14.9,
+    "3 Point usage": 17.73,
+    "FGA": 83.2
+  },
+  {
+    "3P%": 0.338,
+    "Season": "2015-16",
+    "distance": 11.88,
+    "Team": "MIN",
+    "3PA": 16.4,
+    "3 Point usage": 20.06,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.35,
+    "Season": "2016-17",
+    "distance": 12.07,
+    "Team": "MIN",
+    "3PA": 23.3,
+    "3 Point usage": 27.97,
+    "FGA": 83.1
+  },
+  {
+    "3P%": 0.274,
+    "Season": "1967-68",
+    "distance": 0.0,
+    "Team": "NJA",
+    "3PA": 5.8,
+    "3 Point usage": 0.0,
+    "FGA": 99.1
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1977-78",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 97.6
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1978-79",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 91.7
+  },
+  {
+    "3P%": 0.285,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 3.6,
+    "3 Point usage": 0.0,
+    "FGA": 91.5
+  },
+  {
+    "3P%": 0.246,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 1.7,
+    "3 Point usage": 0.0,
+    "FGA": 89.2
+  },
+  {
+    "3P%": 0.205,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 1.8,
+    "3 Point usage": 0.0,
+    "FGA": 88.1
+  },
+  {
+    "3P%": 0.201,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 1.8,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.211,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 2.8,
+    "3 Point usage": 0.0,
+    "FGA": 88.5
+  },
+  {
+    "3P%": 0.232,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 2.7,
+    "3 Point usage": 0.0,
+    "FGA": 90.8
+  },
+  {
+    "3P%": 0.201,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 2.6,
+    "3 Point usage": 0.0,
+    "FGA": 89.0
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 5.5,
+    "3 Point usage": 0.0,
+    "FGA": 86.4
+  },
+  {
+    "3P%": 0.301,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 5.5,
+    "3 Point usage": 0.0,
+    "FGA": 83.6
+  },
+  {
+    "3P%": 0.329,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 6.9,
+    "3 Point usage": 0.0,
+    "FGA": 88.1
+  },
+  {
+    "3P%": 0.277,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 6.2,
+    "3 Point usage": 0.0,
+    "FGA": 90.4
+  },
+  {
+    "3P%": 0.275,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 7.1,
+    "3 Point usage": 0.0,
+    "FGA": 91.0
+  },
+  {
+    "3P%": 0.334,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 8.2,
+    "3 Point usage": 0.0,
+    "FGA": 92.4
+  },
+  {
+    "3P%": 0.318,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 6.0,
+    "3 Point usage": 0.0,
+    "FGA": 86.4
+  },
+  {
+    "3P%": 0.327,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 8.3,
+    "3 Point usage": 0.0,
+    "FGA": 86.8
+  },
+  {
+    "3P%": 0.319,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 15.8,
+    "3 Point usage": 0.0,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.335,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "NJN",
+    "3PA": 9.1,
+    "3 Point usage": 0.0,
+    "FGA": 82.3
+  },
+  {
+    "3P%": 0.353,
+    "Season": "1996-97",
+    "distance": 10.49,
+    "Team": "NJN",
+    "3PA": 16.7,
+    "3 Point usage": 10.97,
+    "FGA": 86.5
+  },
+  {
+    "3P%": 0.331,
+    "Season": "1997-98",
+    "distance": 10.76,
+    "Team": "NJN",
+    "3PA": 11.4,
+    "3 Point usage": 13.21,
+    "FGA": 84.5
+  },
+  {
+    "3P%": 0.331,
+    "Season": "1998-99",
+    "distance": 11.55,
+    "Team": "NJN",
+    "3PA": 13.6,
+    "3 Point usage": 16.3,
+    "FGA": 83.2
+  },
+  {
+    "3P%": 0.347,
+    "Season": "1999-00",
+    "distance": 12.27,
+    "Team": "NJN",
+    "3PA": 16.8,
+    "3 Point usage": 19.74,
+    "FGA": 83.9
+  },
+  {
+    "3P%": 0.333,
+    "Season": "2000-01",
+    "distance": 11.27,
+    "Team": "NJN",
+    "3PA": 13.2,
+    "3 Point usage": 16.29,
+    "FGA": 79.9
+  },
+  {
+    "3P%": 0.338,
+    "Season": "2001-02",
+    "distance": 11.24,
+    "Team": "NJN",
+    "3PA": 14.6,
+    "3 Point usage": 17.11,
+    "FGA": 83.1
+  },
+  {
+    "3P%": 0.332,
+    "Season": "2002-03",
+    "distance": 10.96,
+    "Team": "NJN",
+    "3PA": 12.7,
+    "3 Point usage": 15.52,
+    "FGA": 80.3
+  },
+  {
+    "3P%": 0.336,
+    "Season": "2003-04",
+    "distance": 11.53,
+    "Team": "NJN",
+    "3PA": 13.7,
+    "3 Point usage": 17.31,
+    "FGA": 77.7
+  },
+  {
+    "3P%": 0.362,
+    "Season": "2004-05",
+    "distance": 12.53,
+    "Team": "NJN",
+    "3PA": 14.7,
+    "3 Point usage": 18.39,
+    "FGA": 78.3
+  },
+  {
+    "3P%": 0.33,
+    "Season": "2005-06",
+    "distance": 12.53,
+    "Team": "NJN",
+    "3PA": 17.6,
+    "3 Point usage": 22.49,
+    "FGA": 77.0
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2006-07",
+    "distance": 12.49,
+    "Team": "NJN",
+    "3PA": 20.4,
+    "3 Point usage": 26.02,
+    "FGA": 77.8
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2007-08",
+    "distance": 12.06,
+    "Team": "NJN",
+    "3PA": 17.4,
+    "3 Point usage": 21.74,
+    "FGA": 78.7
+  },
+  {
+    "3P%": 0.376,
+    "Season": "2008-09",
+    "distance": 12.45,
+    "Team": "NJN",
+    "3PA": 21.2,
+    "3 Point usage": 26.3,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.318,
+    "Season": "2009-10",
+    "distance": 11.03,
+    "Team": "NJN",
+    "3PA": 14.5,
+    "3 Point usage": 17.92,
+    "FGA": 79.9
+  },
+  {
+    "3P%": 0.343,
+    "Season": "2010-11",
+    "distance": 12.25,
+    "Team": "NJN",
+    "3PA": 16.3,
+    "3 Point usage": 19.8,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.342,
+    "Season": "2011-12",
+    "distance": 13.3,
+    "Team": "NJN",
+    "3PA": 22.4,
+    "3 Point usage": 27.67,
+    "FGA": 80.6
+  },
+  {
+    "3P%": 0.376,
+    "Season": "2002-03",
+    "distance": 11.6,
+    "Team": "NOH",
+    "3PA": 13.1,
+    "3 Point usage": 15.91,
+    "FGA": 81.6
+  },
+  {
+    "3P%": 0.319,
+    "Season": "2003-04",
+    "distance": 12.46,
+    "Team": "NOH",
+    "3PA": 20.3,
+    "3 Point usage": 24.99,
+    "FGA": 80.5
+  },
+  {
+    "3P%": 0.315,
+    "Season": "2004-05",
+    "distance": 12.25,
+    "Team": "NOH",
+    "3PA": 16.0,
+    "3 Point usage": 19.87,
+    "FGA": 80.0
+  },
+  {
+    "3P%": 0.389,
+    "Season": "2007-08",
+    "distance": 12.39,
+    "Team": "NOH",
+    "3PA": 19.8,
+    "3 Point usage": 23.66,
+    "FGA": 82.9
+  },
+  {
+    "3P%": 0.364,
+    "Season": "2008-09",
+    "distance": 12.43,
+    "Team": "NOH",
+    "3PA": 18.6,
+    "3 Point usage": 23.81,
+    "FGA": 77.6
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2009-10",
+    "distance": 11.96,
+    "Team": "NOH",
+    "3PA": 19.2,
+    "3 Point usage": 22.83,
+    "FGA": 83.4
+  },
+  {
+    "3P%": 0.36,
+    "Season": "2010-11",
+    "distance": 12.27,
+    "Team": "NOH",
+    "3PA": 15.0,
+    "3 Point usage": 18.89,
+    "FGA": 78.2
+  },
+  {
+    "3P%": 0.333,
+    "Season": "2011-12",
+    "distance": 11.28,
+    "Team": "NOH",
+    "3PA": 11.8,
+    "3 Point usage": 15.15,
+    "FGA": 77.3
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2012-13",
+    "distance": 11.59,
+    "Team": "NOH",
+    "3PA": 18.0,
+    "3 Point usage": 22.11,
+    "FGA": 80.4
+  },
+  {
+    "3P%": 0.339,
+    "Season": "2005-06",
+    "distance": 10.85,
+    "Team": "NOK",
+    "3PA": 10.8,
+    "3 Point usage": 13.6,
+    "FGA": 78.4
+  },
+  {
+    "3P%": 0.362,
+    "Season": "2006-07",
+    "distance": 11.14,
+    "Team": "NOK",
+    "3PA": 15.3,
+    "3 Point usage": 18.65,
+    "FGA": 81.4
+  },
+  {
+    "3P%": 0.373,
+    "Season": "2013-14",
+    "distance": 10.99,
+    "Team": "NOP",
+    "3PA": 15.9,
+    "3 Point usage": 18.92,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.37,
+    "Season": "2014-15",
+    "distance": 11.42,
+    "Team": "NOP",
+    "3PA": 19.3,
+    "3 Point usage": 23.06,
+    "FGA": 82.9
+  },
+  {
+    "3P%": 0.36,
+    "Season": "2015-16",
+    "distance": 12.52,
+    "Team": "NOP",
+    "3PA": 23.8,
+    "3 Point usage": 27.48,
+    "FGA": 85.9
+  },
+  {
+    "3P%": 0.325,
+    "Season": "2016-17",
+    "distance": 12.91,
+    "Team": "NOP",
+    "3PA": 24.5,
+    "3 Point usage": 28.24,
+    "FGA": 85.7
+  },
+  {
+    "3P%": 0.292,
+    "Season": "1968-69",
+    "distance": 0.0,
+    "Team": "NYA",
+    "3PA": 3.4,
+    "3 Point usage": 0.0,
+    "FGA": 97.0
+  },
+  {
+    "3P%": 0.248,
+    "Season": "1969-70",
+    "distance": 0.0,
+    "Team": "NYA",
+    "3PA": 3.4,
+    "3 Point usage": 0.0,
+    "FGA": 93.5
+  },
+  {
+    "3P%": 0.224,
+    "Season": "1970-71",
+    "distance": 0.0,
+    "Team": "NYA",
+    "3PA": 2.0,
+    "3 Point usage": 0.0,
+    "FGA": 91.7
+  },
+  {
+    "3P%": 0.289,
+    "Season": "1971-72",
+    "distance": 0.0,
+    "Team": "NYA",
+    "3PA": 3.8,
+    "3 Point usage": 0.0,
+    "FGA": 91.6
+  },
+  {
+    "3P%": 0.282,
+    "Season": "1972-73",
+    "distance": 0.0,
+    "Team": "NYA",
+    "3PA": 2.1,
+    "3 Point usage": 0.0,
+    "FGA": 84.2
+  },
+  {
+    "3P%": 0.316,
+    "Season": "1973-74",
+    "distance": 0.0,
+    "Team": "NYA",
+    "3PA": 3.0,
+    "3 Point usage": 0.0,
+    "FGA": 95.7
+  },
+  {
+    "3P%": 0.274,
+    "Season": "1974-75",
+    "distance": 0.0,
+    "Team": "NYA",
+    "3PA": 3.0,
+    "3 Point usage": 0.0,
+    "FGA": 94.6
+  },
+  {
+    "3P%": 0.298,
+    "Season": "1975-76",
+    "distance": 0.0,
+    "Team": "NYA",
+    "3PA": 4.4,
+    "3 Point usage": 0.0,
+    "FGA": 97.0
+  },
+  {
+    "3P%": 0.22,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 93.6
+  },
+  {
+    "3P%": 0.237,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 88.5
+  },
+  {
+    "3P%": 0.271,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 2.6,
+    "3 Point usage": 0.0,
+    "FGA": 87.5
+  },
+  {
+    "3P%": 0.252,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 1.6,
+    "3 Point usage": 0.0,
+    "FGA": 82.8
+  },
+  {
+    "3P%": 0.285,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 2.0,
+    "3 Point usage": 0.0,
+    "FGA": 83.4
+  },
+  {
+    "3P%": 0.258,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 2.4,
+    "3 Point usage": 0.0,
+    "FGA": 86.6
+  },
+  {
+    "3P%": 0.343,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 85.8
+  },
+  {
+    "3P%": 0.333,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 4.6,
+    "3 Point usage": 0.0,
+    "FGA": 85.6
+  },
+  {
+    "3P%": 0.316,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 6.9,
+    "3 Point usage": 0.0,
+    "FGA": 88.2
+  },
+  {
+    "3P%": 0.337,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 14.0,
+    "3 Point usage": 0.0,
+    "FGA": 92.8
+  },
+  {
+    "3P%": 0.332,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 8.7,
+    "3 Point usage": 0.0,
+    "FGA": 86.5
+  },
+  {
+    "3P%": 0.332,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 6.8,
+    "3 Point usage": 0.0,
+    "FGA": 83.2
+  },
+  {
+    "3P%": 0.325,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 7.5,
+    "3 Point usage": 0.0,
+    "FGA": 84.7
+  },
+  {
+    "3P%": 0.32,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 7.4,
+    "3 Point usage": 0.0,
+    "FGA": 84.1
+  },
+  {
+    "3P%": 0.348,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 11.1,
+    "3 Point usage": 0.0,
+    "FGA": 82.1
+  },
+  {
+    "3P%": 0.368,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 17.6,
+    "3 Point usage": 0.0,
+    "FGA": 78.0
+  },
+  {
+    "3P%": 0.377,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "NYK",
+    "3PA": 15.7,
+    "3 Point usage": 0.0,
+    "FGA": 77.8
+  },
+  {
+    "3P%": 0.363,
+    "Season": "1996-97",
+    "distance": 10.39,
+    "Team": "NYK",
+    "3PA": 15.8,
+    "3 Point usage": 10.14,
+    "FGA": 75.9
+  },
+  {
+    "3P%": 0.335,
+    "Season": "1997-98",
+    "distance": 11.56,
+    "Team": "NYK",
+    "3PA": 13.9,
+    "3 Point usage": 17.48,
+    "FGA": 78.2
+  },
+  {
+    "3P%": 0.353,
+    "Season": "1998-99",
+    "distance": 10.45,
+    "Team": "NYK",
+    "3PA": 11.8,
+    "3 Point usage": 15.66,
+    "FGA": 74.1
+  },
+  {
+    "3P%": 0.375,
+    "Season": "1999-00",
+    "distance": 10.82,
+    "Team": "NYK",
+    "3PA": 11.4,
+    "3 Point usage": 14.12,
+    "FGA": 77.7
+  },
+  {
+    "3P%": 0.351,
+    "Season": "2000-01",
+    "distance": 11.56,
+    "Team": "NYK",
+    "3PA": 13.6,
+    "3 Point usage": 17.8,
+    "FGA": 75.6
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2001-02",
+    "distance": 12.13,
+    "Team": "NYK",
+    "3PA": 16.4,
+    "3 Point usage": 20.48,
+    "FGA": 79.5
+  },
+  {
+    "3P%": 0.383,
+    "Season": "2002-03",
+    "distance": 13.12,
+    "Team": "NYK",
+    "3PA": 19.3,
+    "3 Point usage": 23.18,
+    "FGA": 82.0
+  },
+  {
+    "3P%": 0.364,
+    "Season": "2003-04",
+    "distance": 11.82,
+    "Team": "NYK",
+    "3PA": 13.6,
+    "3 Point usage": 16.78,
+    "FGA": 79.4
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2004-05",
+    "distance": 11.76,
+    "Team": "NYK",
+    "3PA": 15.1,
+    "3 Point usage": 18.38,
+    "FGA": 80.5
+  },
+  {
+    "3P%": 0.362,
+    "Season": "2005-06",
+    "distance": 9.74,
+    "Team": "NYK",
+    "3PA": 10.8,
+    "3 Point usage": 13.78,
+    "FGA": 75.7
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2006-07",
+    "distance": 10.52,
+    "Team": "NYK",
+    "3PA": 16.7,
+    "3 Point usage": 21.18,
+    "FGA": 77.5
+  },
+  {
+    "3P%": 0.337,
+    "Season": "2007-08",
+    "distance": 11.19,
+    "Team": "NYK",
+    "3PA": 17.7,
+    "3 Point usage": 21.2,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.36,
+    "Season": "2008-09",
+    "distance": 12.5,
+    "Team": "NYK",
+    "3PA": 27.9,
+    "3 Point usage": 31.76,
+    "FGA": 86.5
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2009-10",
+    "distance": 13.06,
+    "Team": "NYK",
+    "3PA": 26.2,
+    "3 Point usage": 31.05,
+    "FGA": 83.9
+  },
+  {
+    "3P%": 0.368,
+    "Season": "2010-11",
+    "distance": 13.05,
+    "Team": "NYK",
+    "3PA": 25.4,
+    "3 Point usage": 30.1,
+    "FGA": 83.7
+  },
+  {
+    "3P%": 0.336,
+    "Season": "2011-12",
+    "distance": 12.53,
+    "Team": "NYK",
+    "3PA": 23.3,
+    "3 Point usage": 28.58,
+    "FGA": 80.8
+  },
+  {
+    "3P%": 0.376,
+    "Season": "2012-13",
+    "distance": 14.15,
+    "Team": "NYK",
+    "3PA": 28.9,
+    "3 Point usage": 34.98,
+    "FGA": 81.6
+  },
+  {
+    "3P%": 0.372,
+    "Season": "2013-14",
+    "distance": 13.91,
+    "Team": "NYK",
+    "3PA": 24.9,
+    "3 Point usage": 29.9,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.347,
+    "Season": "2014-15",
+    "distance": 13.27,
+    "Team": "NYK",
+    "3PA": 19.7,
+    "3 Point usage": 23.73,
+    "FGA": 82.0
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2015-16",
+    "distance": 12.99,
+    "Team": "NYK",
+    "3PA": 21.5,
+    "3 Point usage": 25.32,
+    "FGA": 84.0
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2016-17",
+    "distance": 12.76,
+    "Team": "NYK",
+    "3PA": 25.1,
+    "3 Point usage": 27.63,
+    "FGA": 89.3
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1976-77",
+    "distance": 0.0,
+    "Team": "NYN",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 88.1
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2008-09",
+    "distance": 10.7,
+    "Team": "OKC",
+    "3PA": 11.6,
+    "3 Point usage": 14.02,
+    "FGA": 81.9
+  },
+  {
+    "3P%": 0.34,
+    "Season": "2009-10",
+    "distance": 11.11,
+    "Team": "OKC",
+    "3PA": 15.0,
+    "3 Point usage": 18.45,
+    "FGA": 80.8
+  },
+  {
+    "3P%": 0.347,
+    "Season": "2010-11",
+    "distance": 11.97,
+    "Team": "OKC",
+    "3PA": 17.1,
+    "3 Point usage": 21.02,
+    "FGA": 80.6
+  },
+  {
+    "3P%": 0.358,
+    "Season": "2011-12",
+    "distance": 12.1,
+    "Team": "OKC",
+    "3PA": 20.0,
+    "3 Point usage": 25.0,
+    "FGA": 79.2
+  },
+  {
+    "3P%": 0.377,
+    "Season": "2012-13",
+    "distance": 12.11,
+    "Team": "OKC",
+    "3PA": 19.4,
+    "3 Point usage": 24.2,
+    "FGA": 79.3
+  },
+  {
+    "3P%": 0.361,
+    "Season": "2013-14",
+    "distance": 12.48,
+    "Team": "OKC",
+    "3PA": 22.4,
+    "3 Point usage": 26.85,
+    "FGA": 82.7
+  },
+  {
+    "3P%": 0.339,
+    "Season": "2014-15",
+    "distance": 11.93,
+    "Team": "OKC",
+    "3PA": 22.7,
+    "3 Point usage": 25.98,
+    "FGA": 86.8
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2015-16",
+    "distance": 11.95,
+    "Team": "OKC",
+    "3PA": 23.7,
+    "3 Point usage": 27.41,
+    "FGA": 86.4
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2016-17",
+    "distance": 11.53,
+    "Team": "OKC",
+    "3PA": 25.7,
+    "3 Point usage": 28.73,
+    "FGA": 88.8
+  },
+  {
+    "3P%": 0.295,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "ORL",
+    "3PA": 4.8,
+    "3 Point usage": 0.0,
+    "FGA": 91.8
+  },
+  {
+    "3P%": 0.358,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "ORL",
+    "3PA": 9.2,
+    "3 Point usage": 0.0,
+    "FGA": 88.5
+  },
+  {
+    "3P%": 0.324,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "ORL",
+    "3PA": 7.4,
+    "3 Point usage": 0.0,
+    "FGA": 86.6
+  },
+  {
+    "3P%": 0.357,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "ORL",
+    "3PA": 10.8,
+    "3 Point usage": 0.0,
+    "FGA": 81.8
+  },
+  {
+    "3P%": 0.347,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "ORL",
+    "3PA": 13.9,
+    "3 Point usage": 0.0,
+    "FGA": 83.9
+  },
+  {
+    "3P%": 0.37,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "ORL",
+    "3PA": 17.2,
+    "3 Point usage": 0.0,
+    "FGA": 84.1
+  },
+  {
+    "3P%": 0.378,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "ORL",
+    "3PA": 20.1,
+    "3 Point usage": 0.0,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.341,
+    "Season": "1996-97",
+    "distance": 10.91,
+    "Team": "ORL",
+    "3PA": 20.3,
+    "3 Point usage": 11.41,
+    "FGA": 79.2
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1997-98",
+    "distance": 11.3,
+    "Team": "ORL",
+    "3PA": 11.1,
+    "3 Point usage": 13.72,
+    "FGA": 78.7
+  },
+  {
+    "3P%": 0.33,
+    "Season": "1998-99",
+    "distance": 11.71,
+    "Team": "ORL",
+    "3PA": 13.5,
+    "3 Point usage": 16.71,
+    "FGA": 78.9
+  },
+  {
+    "3P%": 0.338,
+    "Season": "1999-00",
+    "distance": 10.82,
+    "Team": "ORL",
+    "3PA": 10.6,
+    "3 Point usage": 12.18,
+    "FGA": 85.5
+  },
+  {
+    "3P%": 0.364,
+    "Season": "2000-01",
+    "distance": 12.18,
+    "Team": "ORL",
+    "3PA": 16.4,
+    "3 Point usage": 19.29,
+    "FGA": 83.8
+  },
+  {
+    "3P%": 0.373,
+    "Season": "2001-02",
+    "distance": 12.57,
+    "Team": "ORL",
+    "3PA": 20.2,
+    "3 Point usage": 23.93,
+    "FGA": 84.1
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2002-03",
+    "distance": 13.11,
+    "Team": "ORL",
+    "3PA": 19.4,
+    "3 Point usage": 23.19,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2003-04",
+    "distance": 12.39,
+    "Team": "ORL",
+    "3PA": 15.2,
+    "3 Point usage": 18.31,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2004-05",
+    "distance": 11.24,
+    "Team": "ORL",
+    "3PA": 11.2,
+    "3 Point usage": 13.51,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.376,
+    "Season": "2005-06",
+    "distance": 10.56,
+    "Team": "ORL",
+    "3PA": 9.7,
+    "3 Point usage": 12.72,
+    "FGA": 75.2
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2006-07",
+    "distance": 10.4,
+    "Team": "ORL",
+    "3PA": 11.7,
+    "3 Point usage": 15.55,
+    "FGA": 74.3
+  },
+  {
+    "3P%": 0.386,
+    "Season": "2007-08",
+    "distance": 12.42,
+    "Team": "ORL",
+    "3PA": 25.3,
+    "3 Point usage": 31.83,
+    "FGA": 78.6
+  },
+  {
+    "3P%": 0.381,
+    "Season": "2008-09",
+    "distance": 13.21,
+    "Team": "ORL",
+    "3PA": 26.2,
+    "3 Point usage": 33.21,
+    "FGA": 78.2
+  },
+  {
+    "3P%": 0.375,
+    "Season": "2009-10",
+    "distance": 13.29,
+    "Team": "ORL",
+    "3PA": 27.3,
+    "3 Point usage": 34.64,
+    "FGA": 78.0
+  },
+  {
+    "3P%": 0.366,
+    "Season": "2010-11",
+    "distance": 13.58,
+    "Team": "ORL",
+    "3PA": 25.6,
+    "3 Point usage": 32.41,
+    "FGA": 78.2
+  },
+  {
+    "3P%": 0.375,
+    "Season": "2011-12",
+    "distance": 13.39,
+    "Team": "ORL",
+    "3PA": 27.0,
+    "3 Point usage": 34.6,
+    "FGA": 78.2
+  },
+  {
+    "3P%": 0.329,
+    "Season": "2012-13",
+    "distance": 12.09,
+    "Team": "ORL",
+    "3PA": 18.7,
+    "3 Point usage": 22.15,
+    "FGA": 84.2
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2013-14",
+    "distance": 12.63,
+    "Team": "ORL",
+    "3PA": 19.5,
+    "3 Point usage": 23.25,
+    "FGA": 82.7
+  },
+  {
+    "3P%": 0.347,
+    "Season": "2014-15",
+    "distance": 11.56,
+    "Team": "ORL",
+    "3PA": 19.5,
+    "3 Point usage": 23.37,
+    "FGA": 82.8
+  },
+  {
+    "3P%": 0.35,
+    "Season": "2015-16",
+    "distance": 12.52,
+    "Team": "ORL",
+    "3PA": 22.2,
+    "3 Point usage": 25.14,
+    "FGA": 86.8
+  },
+  {
+    "3P%": 0.317,
+    "Season": "2016-17",
+    "distance": 12.85,
+    "Team": "ORL",
+    "3PA": 24.6,
+    "3 Point usage": 28.3,
+    "FGA": 85.2
+  },
+  {
+    "3P%": 0.216,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 1.5,
+    "3 Point usage": 0.0,
+    "FGA": 87.3
+  },
+  {
+    "3P%": 0.226,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 1.0,
+    "3 Point usage": 0.0,
+    "FGA": 86.3
+  },
+  {
+    "3P%": 0.295,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 1.7,
+    "3 Point usage": 0.0,
+    "FGA": 85.0
+  },
+  {
+    "3P%": 0.229,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 1.3,
+    "3 Point usage": 0.0,
+    "FGA": 88.0
+  },
+  {
+    "3P%": 0.271,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 1.3,
+    "3 Point usage": 0.0,
+    "FGA": 83.3
+  },
+  {
+    "3P%": 0.263,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 2.7,
+    "3 Point usage": 0.0,
+    "FGA": 85.3
+  },
+  {
+    "3P%": 0.228,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 2.7,
+    "3 Point usage": 0.0,
+    "FGA": 86.1
+  },
+  {
+    "3P%": 0.259,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 4.1,
+    "3 Point usage": 0.0,
+    "FGA": 82.8
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 5.7,
+    "3 Point usage": 0.0,
+    "FGA": 82.7
+  },
+  {
+    "3P%": 0.316,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 7.9,
+    "3 Point usage": 0.0,
+    "FGA": 87.8
+  },
+  {
+    "3P%": 0.348,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 6.6,
+    "3 Point usage": 0.0,
+    "FGA": 85.7
+  },
+  {
+    "3P%": 0.316,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 7.5,
+    "3 Point usage": 0.0,
+    "FGA": 84.5
+  },
+  {
+    "3P%": 0.334,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 8.3,
+    "3 Point usage": 0.0,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.351,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 11.5,
+    "3 Point usage": 0.0,
+    "FGA": 86.3
+  },
+  {
+    "3P%": 0.338,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 11.5,
+    "3 Point usage": 0.0,
+    "FGA": 83.2
+  },
+  {
+    "3P%": 0.379,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 11.4,
+    "3 Point usage": 0.0,
+    "FGA": 80.2
+  },
+  {
+    "3P%": 0.342,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "PHI",
+    "3PA": 17.5,
+    "3 Point usage": 0.0,
+    "FGA": 78.3
+  },
+  {
+    "3P%": 0.319,
+    "Season": "1996-97",
+    "distance": 9.6,
+    "Team": "PHI",
+    "3PA": 16.5,
+    "3 Point usage": 13.37,
+    "FGA": 83.5
+  },
+  {
+    "3P%": 0.3,
+    "Season": "1997-98",
+    "distance": 9.86,
+    "Team": "PHI",
+    "3PA": 9.9,
+    "3 Point usage": 12.45,
+    "FGA": 78.2
+  },
+  {
+    "3P%": 0.264,
+    "Season": "1998-99",
+    "distance": 10.17,
+    "Team": "PHI",
+    "3PA": 7.4,
+    "3 Point usage": 9.37,
+    "FGA": 77.7
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1999-00",
+    "distance": 9.95,
+    "Team": "PHI",
+    "3PA": 7.8,
+    "3 Point usage": 9.52,
+    "FGA": 82.6
+  },
+  {
+    "3P%": 0.326,
+    "Season": "2000-01",
+    "distance": 10.45,
+    "Team": "PHI",
+    "3PA": 9.8,
+    "3 Point usage": 12.16,
+    "FGA": 79.1
+  },
+  {
+    "3P%": 0.299,
+    "Season": "2001-02",
+    "distance": 10.51,
+    "Team": "PHI",
+    "3PA": 8.7,
+    "3 Point usage": 11.02,
+    "FGA": 78.5
+  },
+  {
+    "3P%": 0.311,
+    "Season": "2002-03",
+    "distance": 9.74,
+    "Team": "PHI",
+    "3PA": 9.6,
+    "3 Point usage": 11.72,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.342,
+    "Season": "2003-04",
+    "distance": 10.93,
+    "Team": "PHI",
+    "3PA": 12.1,
+    "3 Point usage": 15.7,
+    "FGA": 76.3
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2004-05",
+    "distance": 11.65,
+    "Team": "PHI",
+    "3PA": 17.7,
+    "3 Point usage": 21.39,
+    "FGA": 82.1
+  },
+  {
+    "3P%": 0.364,
+    "Season": "2005-06",
+    "distance": 10.71,
+    "Team": "PHI",
+    "3PA": 12.6,
+    "3 Point usage": 15.54,
+    "FGA": 79.8
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2006-07",
+    "distance": 11.02,
+    "Team": "PHI",
+    "3PA": 10.0,
+    "3 Point usage": 12.52,
+    "FGA": 78.1
+  },
+  {
+    "3P%": 0.317,
+    "Season": "2007-08",
+    "distance": 10.6,
+    "Team": "PHI",
+    "3PA": 11.6,
+    "3 Point usage": 13.86,
+    "FGA": 81.1
+  },
+  {
+    "3P%": 0.318,
+    "Season": "2008-09",
+    "distance": 10.44,
+    "Team": "PHI",
+    "3PA": 13.1,
+    "3 Point usage": 16.08,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.343,
+    "Season": "2009-10",
+    "distance": 11.75,
+    "Team": "PHI",
+    "3PA": 16.8,
+    "3 Point usage": 20.3,
+    "FGA": 81.8
+  },
+  {
+    "3P%": 0.355,
+    "Season": "2010-11",
+    "distance": 11.95,
+    "Team": "PHI",
+    "3PA": 15.2,
+    "3 Point usage": 18.27,
+    "FGA": 82.6
+  },
+  {
+    "3P%": 0.362,
+    "Season": "2011-12",
+    "distance": 12.06,
+    "Team": "PHI",
+    "3PA": 14.6,
+    "3 Point usage": 17.14,
+    "FGA": 83.6
+  },
+  {
+    "3P%": 0.36,
+    "Season": "2012-13",
+    "distance": 12.25,
+    "Team": "PHI",
+    "3PA": 17.5,
+    "3 Point usage": 20.67,
+    "FGA": 84.1
+  },
+  {
+    "3P%": 0.312,
+    "Season": "2013-14",
+    "distance": 10.91,
+    "Team": "PHI",
+    "3PA": 22.5,
+    "3 Point usage": 25.53,
+    "FGA": 87.2
+  },
+  {
+    "3P%": 0.32,
+    "Season": "2014-15",
+    "distance": 12.22,
+    "Team": "PHI",
+    "3PA": 26.3,
+    "3 Point usage": 31.59,
+    "FGA": 82.6
+  },
+  {
+    "3P%": 0.339,
+    "Season": "2015-16",
+    "distance": 12.42,
+    "Team": "PHI",
+    "3PA": 27.5,
+    "3 Point usage": 32.52,
+    "FGA": 84.0
+  },
+  {
+    "3P%": 0.366,
+    "Season": "2016-17",
+    "distance": 13.36,
+    "Team": "PHI",
+    "3PA": 29.2,
+    "3 Point usage": 34.15,
+    "FGA": 84.6
+  },
+  {
+    "3P%": 0.243,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 3.4,
+    "3 Point usage": 0.0,
+    "FGA": 88.2
+  },
+  {
+    "3P%": 0.217,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 2.0,
+    "3 Point usage": 0.0,
+    "FGA": 89.3
+  },
+  {
+    "3P%": 0.31,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 2.1,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.253,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 1.9,
+    "3 Point usage": 0.0,
+    "FGA": 87.3
+  },
+  {
+    "3P%": 0.254,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 3.5,
+    "3 Point usage": 0.0,
+    "FGA": 88.0
+  },
+  {
+    "3P%": 0.283,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 3.7,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.208,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 2.2,
+    "3 Point usage": 0.0,
+    "FGA": 85.3
+  },
+  {
+    "3P%": 0.242,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 3.1,
+    "3 Point usage": 0.0,
+    "FGA": 87.7
+  },
+  {
+    "3P%": 0.331,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 4.4,
+    "3 Point usage": 0.0,
+    "FGA": 89.0
+  },
+  {
+    "3P%": 0.349,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 5.9,
+    "3 Point usage": 0.0,
+    "FGA": 92.0
+  },
+  {
+    "3P%": 0.324,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 6.6,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.319,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 5.3,
+    "3 Point usage": 0.0,
+    "FGA": 87.8
+  },
+  {
+    "3P%": 0.381,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 7.3,
+    "3 Point usage": 0.0,
+    "FGA": 88.0
+  },
+  {
+    "3P%": 0.363,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 13.4,
+    "3 Point usage": 0.0,
+    "FGA": 86.5
+  },
+  {
+    "3P%": 0.33,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 12.7,
+    "3 Point usage": 0.0,
+    "FGA": 86.3
+  },
+  {
+    "3P%": 0.369,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 19.3,
+    "3 Point usage": 0.0,
+    "FGA": 85.0
+  },
+  {
+    "3P%": 0.332,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "PHO",
+    "3PA": 12.0,
+    "3 Point usage": 0.0,
+    "FGA": 81.4
+  },
+  {
+    "3P%": 0.369,
+    "Season": "1996-97",
+    "distance": 10.58,
+    "Team": "PHO",
+    "3PA": 17.4,
+    "3 Point usage": 7.96,
+    "FGA": 81.8
+  },
+  {
+    "3P%": 0.356,
+    "Season": "1997-98",
+    "distance": 11.13,
+    "Team": "PHO",
+    "3PA": 14.8,
+    "3 Point usage": 17.63,
+    "FGA": 81.8
+  },
+  {
+    "3P%": 0.372,
+    "Season": "1998-99",
+    "distance": 11.8,
+    "Team": "PHO",
+    "3PA": 14.0,
+    "3 Point usage": 17.61,
+    "FGA": 80.1
+  },
+  {
+    "3P%": 0.368,
+    "Season": "1999-00",
+    "distance": 11.09,
+    "Team": "PHO",
+    "3PA": 15.2,
+    "3 Point usage": 17.7,
+    "FGA": 82.6
+  },
+  {
+    "3P%": 0.315,
+    "Season": "2000-01",
+    "distance": 11.55,
+    "Team": "PHO",
+    "3PA": 12.9,
+    "3 Point usage": 15.33,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.327,
+    "Season": "2001-02",
+    "distance": 10.7,
+    "Team": "PHO",
+    "3PA": 13.4,
+    "3 Point usage": 15.68,
+    "FGA": 84.6
+  },
+  {
+    "3P%": 0.343,
+    "Season": "2002-03",
+    "distance": 10.91,
+    "Team": "PHO",
+    "3PA": 14.0,
+    "3 Point usage": 16.62,
+    "FGA": 82.6
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2003-04",
+    "distance": 11.07,
+    "Team": "PHO",
+    "3PA": 14.7,
+    "3 Point usage": 17.69,
+    "FGA": 81.4
+  },
+  {
+    "3P%": 0.393,
+    "Season": "2004-05",
+    "distance": 12.61,
+    "Team": "PHO",
+    "3PA": 24.7,
+    "3 Point usage": 28.44,
+    "FGA": 85.6
+  },
+  {
+    "3P%": 0.399,
+    "Season": "2005-06",
+    "distance": 14.01,
+    "Team": "PHO",
+    "3PA": 25.6,
+    "3 Point usage": 29.06,
+    "FGA": 87.4
+  },
+  {
+    "3P%": 0.399,
+    "Season": "2006-07",
+    "distance": 12.75,
+    "Team": "PHO",
+    "3PA": 24.0,
+    "3 Point usage": 28.39,
+    "FGA": 83.6
+  },
+  {
+    "3P%": 0.393,
+    "Season": "2007-08",
+    "distance": 12.36,
+    "Team": "PHO",
+    "3PA": 21.5,
+    "3 Point usage": 25.81,
+    "FGA": 82.7
+  },
+  {
+    "3P%": 0.383,
+    "Season": "2008-09",
+    "distance": 10.61,
+    "Team": "PHO",
+    "3PA": 17.6,
+    "3 Point usage": 21.2,
+    "FGA": 81.6
+  },
+  {
+    "3P%": 0.412,
+    "Season": "2009-10",
+    "distance": 12.13,
+    "Team": "PHO",
+    "3PA": 21.6,
+    "3 Point usage": 25.85,
+    "FGA": 82.8
+  },
+  {
+    "3P%": 0.377,
+    "Season": "2010-11",
+    "distance": 12.89,
+    "Team": "PHO",
+    "3PA": 22.6,
+    "3 Point usage": 26.88,
+    "FGA": 83.5
+  },
+  {
+    "3P%": 0.343,
+    "Season": "2011-12",
+    "distance": 12.79,
+    "Team": "PHO",
+    "3PA": 19.6,
+    "3 Point usage": 23.62,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.33,
+    "Season": "2012-13",
+    "distance": 12.25,
+    "Team": "PHO",
+    "3PA": 17.7,
+    "3 Point usage": 20.79,
+    "FGA": 84.4
+  },
+  {
+    "3P%": 0.372,
+    "Season": "2013-14",
+    "distance": 12.6,
+    "Team": "PHO",
+    "3PA": 25.1,
+    "3 Point usage": 29.77,
+    "FGA": 83.5
+  },
+  {
+    "3P%": 0.341,
+    "Season": "2014-15",
+    "distance": 12.61,
+    "Team": "PHO",
+    "3PA": 25.0,
+    "3 Point usage": 28.77,
+    "FGA": 85.8
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2015-16",
+    "distance": 12.61,
+    "Team": "PHO",
+    "3PA": 25.8,
+    "3 Point usage": 29.94,
+    "FGA": 85.6
+  },
+  {
+    "3P%": 0.33,
+    "Season": "2016-17",
+    "distance": 12.24,
+    "Team": "PHO",
+    "3PA": 22.6,
+    "3 Point usage": 25.12,
+    "FGA": 88.8
+  },
+  {
+    "3P%": 0.197,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 1.6,
+    "3 Point usage": 0.0,
+    "FGA": 87.4
+  },
+  {
+    "3P%": 0.169,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 1.8,
+    "3 Point usage": 0.0,
+    "FGA": 91.9
+  },
+  {
+    "3P%": 0.207,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 1.7,
+    "3 Point usage": 0.0,
+    "FGA": 87.6
+  },
+  {
+    "3P%": 0.233,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 1.8,
+    "3 Point usage": 0.0,
+    "FGA": 86.9
+  },
+  {
+    "3P%": 0.194,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 1.6,
+    "3 Point usage": 0.0,
+    "FGA": 87.7
+  },
+  {
+    "3P%": 0.252,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 2.5,
+    "3 Point usage": 0.0,
+    "FGA": 89.9
+  },
+  {
+    "3P%": 0.269,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 3.4,
+    "3 Point usage": 0.0,
+    "FGA": 88.8
+  },
+  {
+    "3P%": 0.289,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 4.1,
+    "3 Point usage": 0.0,
+    "FGA": 88.4
+  },
+  {
+    "3P%": 0.308,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 4.6,
+    "3 Point usage": 0.0,
+    "FGA": 91.0
+  },
+  {
+    "3P%": 0.335,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 7.9,
+    "3 Point usage": 0.0,
+    "FGA": 95.1
+  },
+  {
+    "3P%": 0.336,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 6.9,
+    "3 Point usage": 0.0,
+    "FGA": 92.0
+  },
+  {
+    "3P%": 0.377,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 11.0,
+    "3 Point usage": 0.0,
+    "FGA": 89.9
+  },
+  {
+    "3P%": 0.344,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 11.5,
+    "3 Point usage": 0.0,
+    "FGA": 89.7
+  },
+  {
+    "3P%": 0.326,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 10.3,
+    "3 Point usage": 0.0,
+    "FGA": 89.5
+  },
+  {
+    "3P%": 0.353,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 9.4,
+    "3 Point usage": 0.0,
+    "FGA": 90.6
+  },
+  {
+    "3P%": 0.365,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 15.4,
+    "3 Point usage": 0.0,
+    "FGA": 87.0
+  },
+  {
+    "3P%": 0.353,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "POR",
+    "3PA": 16.6,
+    "3 Point usage": 0.0,
+    "FGA": 81.6
+  },
+  {
+    "3P%": 0.358,
+    "Season": "1996-97",
+    "distance": 9.39,
+    "Team": "POR",
+    "3PA": 17.1,
+    "3 Point usage": 6.82,
+    "FGA": 78.8
+  },
+  {
+    "3P%": 0.309,
+    "Season": "1997-98",
+    "distance": 10.13,
+    "Team": "POR",
+    "3PA": 12.8,
+    "3 Point usage": 14.94,
+    "FGA": 78.0
+  },
+  {
+    "3P%": 0.364,
+    "Season": "1998-99",
+    "distance": 11.6,
+    "Team": "POR",
+    "3PA": 13.5,
+    "3 Point usage": 16.95,
+    "FGA": 79.1
+  },
+  {
+    "3P%": 0.361,
+    "Season": "1999-00",
+    "distance": 11.38,
+    "Team": "POR",
+    "3PA": 13.8,
+    "3 Point usage": 17.22,
+    "FGA": 78.4
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2000-01",
+    "distance": 11.49,
+    "Team": "POR",
+    "3PA": 12.9,
+    "3 Point usage": 16.21,
+    "FGA": 78.3
+  },
+  {
+    "3P%": 0.354,
+    "Season": "2001-02",
+    "distance": 12.01,
+    "Team": "POR",
+    "3PA": 16.1,
+    "3 Point usage": 19.47,
+    "FGA": 81.4
+  },
+  {
+    "3P%": 0.33,
+    "Season": "2002-03",
+    "distance": 11.07,
+    "Team": "POR",
+    "3PA": 14.0,
+    "3 Point usage": 17.22,
+    "FGA": 79.2
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2003-04",
+    "distance": 11.14,
+    "Team": "POR",
+    "3PA": 13.4,
+    "3 Point usage": 16.78,
+    "FGA": 78.9
+  },
+  {
+    "3P%": 0.362,
+    "Season": "2004-05",
+    "distance": 10.81,
+    "Team": "POR",
+    "3PA": 14.2,
+    "3 Point usage": 17.77,
+    "FGA": 78.3
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2005-06",
+    "distance": 11.55,
+    "Team": "POR",
+    "3PA": 12.7,
+    "3 Point usage": 16.2,
+    "FGA": 76.4
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2006-07",
+    "distance": 11.81,
+    "Team": "POR",
+    "3PA": 15.0,
+    "3 Point usage": 18.82,
+    "FGA": 78.0
+  },
+  {
+    "3P%": 0.377,
+    "Season": "2007-08",
+    "distance": 13.75,
+    "Team": "POR",
+    "3PA": 17.4,
+    "3 Point usage": 21.21,
+    "FGA": 79.8
+  },
+  {
+    "3P%": 0.383,
+    "Season": "2008-09",
+    "distance": 12.4,
+    "Team": "POR",
+    "3PA": 19.0,
+    "3 Point usage": 23.42,
+    "FGA": 79.2
+  },
+  {
+    "3P%": 0.354,
+    "Season": "2009-10",
+    "distance": 12.52,
+    "Team": "POR",
+    "3PA": 16.9,
+    "3 Point usage": 21.04,
+    "FGA": 78.7
+  },
+  {
+    "3P%": 0.345,
+    "Season": "2010-11",
+    "distance": 12.13,
+    "Team": "POR",
+    "3PA": 18.3,
+    "3 Point usage": 22.42,
+    "FGA": 80.5
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2011-12",
+    "distance": 12.51,
+    "Team": "POR",
+    "3PA": 20.9,
+    "3 Point usage": 25.2,
+    "FGA": 82.1
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2012-13",
+    "distance": 13.12,
+    "Team": "POR",
+    "3PA": 23.2,
+    "3 Point usage": 28.11,
+    "FGA": 81.9
+  },
+  {
+    "3P%": 0.372,
+    "Season": "2013-14",
+    "distance": 13.4,
+    "Team": "POR",
+    "3PA": 25.3,
+    "3 Point usage": 28.89,
+    "FGA": 87.0
+  },
+  {
+    "3P%": 0.362,
+    "Season": "2014-15",
+    "distance": 13.74,
+    "Team": "POR",
+    "3PA": 27.2,
+    "3 Point usage": 31.41,
+    "FGA": 86.0
+  },
+  {
+    "3P%": 0.37,
+    "Season": "2015-16",
+    "distance": 13.33,
+    "Team": "POR",
+    "3PA": 28.5,
+    "3 Point usage": 33.04,
+    "FGA": 85.9
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2016-17",
+    "distance": 13.36,
+    "Team": "POR",
+    "3PA": 30.4,
+    "3 Point usage": 34.2,
+    "FGA": 88.1
+  },
+  {
+    "3P%": 0.212,
+    "Season": "1973-74",
+    "distance": 0.0,
+    "Team": "SAA",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 87.5
+  },
+  {
+    "3P%": 0.261,
+    "Season": "1974-75",
+    "distance": 0.0,
+    "Team": "SAA",
+    "3PA": 1.9,
+    "3 Point usage": 0.0,
+    "FGA": 94.2
+  },
+  {
+    "3P%": 0.2,
+    "Season": "1975-76",
+    "distance": 0.0,
+    "Team": "SAA",
+    "3PA": 1.5,
+    "3 Point usage": 0.0,
+    "FGA": 94.6
+  },
+  {
+    "3P%": 0.224,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "SAC",
+    "3PA": 1.6,
+    "3 Point usage": 0.0,
+    "FGA": 88.0
+  },
+  {
+    "3P%": 0.251,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "SAC",
+    "3PA": 3.7,
+    "3 Point usage": 0.0,
+    "FGA": 90.4
+  },
+  {
+    "3P%": 0.32,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "SAC",
+    "3PA": 5.5,
+    "3 Point usage": 0.0,
+    "FGA": 89.5
+  },
+  {
+    "3P%": 0.373,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "SAC",
+    "3PA": 10.0,
+    "3 Point usage": 0.0,
+    "FGA": 89.6
+  },
+  {
+    "3P%": 0.333,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "SAC",
+    "3PA": 7.9,
+    "3 Point usage": 0.0,
+    "FGA": 86.0
+  },
+  {
+    "3P%": 0.374,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "SAC",
+    "3PA": 7.0,
+    "3 Point usage": 0.0,
+    "FGA": 83.1
+  },
+  {
+    "3P%": 0.353,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "SAC",
+    "3PA": 8.2,
+    "3 Point usage": 0.0,
+    "FGA": 87.7
+  },
+  {
+    "3P%": 0.332,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "SAC",
+    "3PA": 9.6,
+    "3 Point usage": 0.0,
+    "FGA": 88.6
+  },
+  {
+    "3P%": 0.353,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "SAC",
+    "3PA": 8.9,
+    "3 Point usage": 0.0,
+    "FGA": 85.7
+  },
+  {
+    "3P%": 0.346,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "SAC",
+    "3PA": 12.6,
+    "3 Point usage": 0.0,
+    "FGA": 78.8
+  },
+  {
+    "3P%": 0.387,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "SAC",
+    "3PA": 14.6,
+    "3 Point usage": 0.0,
+    "FGA": 79.2
+  },
+  {
+    "3P%": 0.391,
+    "Season": "1996-97",
+    "distance": 10.51,
+    "Team": "SAC",
+    "3PA": 12.9,
+    "3 Point usage": 6.69,
+    "FGA": 80.6
+  },
+  {
+    "3P%": 0.351,
+    "Season": "1997-98",
+    "distance": 10.56,
+    "Team": "SAC",
+    "3PA": 9.8,
+    "3 Point usage": 11.86,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.308,
+    "Season": "1998-99",
+    "distance": 11.13,
+    "Team": "SAC",
+    "3PA": 18.9,
+    "3 Point usage": 21.82,
+    "FGA": 86.1
+  },
+  {
+    "3P%": 0.322,
+    "Season": "1999-00",
+    "distance": 11.81,
+    "Team": "SAC",
+    "3PA": 20.2,
+    "3 Point usage": 22.56,
+    "FGA": 88.9
+  },
+  {
+    "3P%": 0.354,
+    "Season": "2000-01",
+    "distance": 11.41,
+    "Team": "SAC",
+    "3PA": 16.5,
+    "3 Point usage": 19.08,
+    "FGA": 85.0
+  },
+  {
+    "3P%": 0.367,
+    "Season": "2001-02",
+    "distance": 11.29,
+    "Team": "SAC",
+    "3PA": 14.1,
+    "3 Point usage": 16.44,
+    "FGA": 85.4
+  },
+  {
+    "3P%": 0.381,
+    "Season": "2002-03",
+    "distance": 12.18,
+    "Team": "SAC",
+    "3PA": 15.7,
+    "3 Point usage": 17.95,
+    "FGA": 85.2
+  },
+  {
+    "3P%": 0.401,
+    "Season": "2003-04",
+    "distance": 12.63,
+    "Team": "SAC",
+    "3PA": 18.3,
+    "3 Point usage": 22.02,
+    "FGA": 81.8
+  },
+  {
+    "3P%": 0.374,
+    "Season": "2004-05",
+    "distance": 13.04,
+    "Team": "SAC",
+    "3PA": 17.0,
+    "3 Point usage": 19.88,
+    "FGA": 85.1
+  },
+  {
+    "3P%": 0.351,
+    "Season": "2005-06",
+    "distance": 12.9,
+    "Team": "SAC",
+    "3PA": 17.2,
+    "3 Point usage": 21.51,
+    "FGA": 79.3
+  },
+  {
+    "3P%": 0.35,
+    "Season": "2006-07",
+    "distance": 12.33,
+    "Team": "SAC",
+    "3PA": 18.5,
+    "3 Point usage": 23.03,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.373,
+    "Season": "2007-08",
+    "distance": 11.68,
+    "Team": "SAC",
+    "3PA": 16.7,
+    "3 Point usage": 20.68,
+    "FGA": 80.0
+  },
+  {
+    "3P%": 0.368,
+    "Season": "2008-09",
+    "distance": 12.37,
+    "Team": "SAC",
+    "3PA": 19.4,
+    "3 Point usage": 23.52,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2009-10",
+    "distance": 11.21,
+    "Team": "SAC",
+    "3PA": 16.9,
+    "3 Point usage": 19.8,
+    "FGA": 84.1
+  },
+  {
+    "3P%": 0.335,
+    "Season": "2010-11",
+    "distance": 11.5,
+    "Team": "SAC",
+    "3PA": 15.6,
+    "3 Point usage": 17.9,
+    "FGA": 85.1
+  },
+  {
+    "3P%": 0.316,
+    "Season": "2011-12",
+    "distance": 11.26,
+    "Team": "SAC",
+    "3PA": 19.7,
+    "3 Point usage": 22.45,
+    "FGA": 86.5
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2012-13",
+    "distance": 11.72,
+    "Team": "SAC",
+    "3PA": 20.5,
+    "3 Point usage": 24.09,
+    "FGA": 84.2
+  },
+  {
+    "3P%": 0.333,
+    "Season": "2013-14",
+    "distance": 11.78,
+    "Team": "SAC",
+    "3PA": 18.0,
+    "3 Point usage": 21.64,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.341,
+    "Season": "2014-15",
+    "distance": 11.05,
+    "Team": "SAC",
+    "3PA": 16.5,
+    "3 Point usage": 20.28,
+    "FGA": 80.7
+  },
+  {
+    "3P%": 0.359,
+    "Season": "2015-16",
+    "distance": 11.68,
+    "Team": "SAC",
+    "3PA": 22.4,
+    "3 Point usage": 25.71,
+    "FGA": 86.4
+  },
+  {
+    "3P%": 0.351,
+    "Season": "2016-17",
+    "distance": 12.45,
+    "Team": "SAC",
+    "3PA": 23.3,
+    "3 Point usage": 27.66,
+    "FGA": 83.2
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1976-77",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 93.4
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1977-78",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 92.6
+  },
+  {
+    "3P%": 0.0,
+    "Season": "1978-79",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 0.0,
+    "3 Point usage": 0.0,
+    "FGA": 94.6
+  },
+  {
+    "3P%": 0.252,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 2.5,
+    "3 Point usage": 0.0,
+    "FGA": 94.4
+  },
+  {
+    "3P%": 0.176,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 1.0,
+    "3 Point usage": 0.0,
+    "FGA": 88.7
+  },
+  {
+    "3P%": 0.254,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 3.1,
+    "3 Point usage": 0.0,
+    "FGA": 92.8
+  },
+  {
+    "3P%": 0.305,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 3.8,
+    "3 Point usage": 0.0,
+    "FGA": 89.5
+  },
+  {
+    "3P%": 0.3,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 3.2,
+    "3 Point usage": 0.0,
+    "FGA": 94.2
+  },
+  {
+    "3P%": 0.272,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 2.5,
+    "3 Point usage": 0.0,
+    "FGA": 87.8
+  },
+  {
+    "3P%": 0.235,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 2.4,
+    "3 Point usage": 0.0,
+    "FGA": 86.6
+  },
+  {
+    "3P%": 0.29,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 4.9,
+    "3 Point usage": 0.0,
+    "FGA": 90.9
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 5.0,
+    "3 Point usage": 0.0,
+    "FGA": 92.2
+  },
+  {
+    "3P%": 0.215,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 3.6,
+    "3 Point usage": 0.0,
+    "FGA": 90.4
+  },
+  {
+    "3P%": 0.239,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 2.8,
+    "3 Point usage": 0.0,
+    "FGA": 85.3
+  },
+  {
+    "3P%": 0.273,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 3.6,
+    "3 Point usage": 0.0,
+    "FGA": 85.2
+  },
+  {
+    "3P%": 0.292,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 4.9,
+    "3 Point usage": 0.0,
+    "FGA": 86.5
+  },
+  {
+    "3P%": 0.341,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 8.4,
+    "3 Point usage": 0.0,
+    "FGA": 82.5
+  },
+  {
+    "3P%": 0.349,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 8.7,
+    "3 Point usage": 0.0,
+    "FGA": 81.6
+  },
+  {
+    "3P%": 0.375,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 14.1,
+    "3 Point usage": 0.0,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.392,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "SAS",
+    "3PA": 16.1,
+    "3 Point usage": 0.0,
+    "FGA": 80.5
+  },
+  {
+    "3P%": 0.32,
+    "Season": "1996-97",
+    "distance": 9.5,
+    "Team": "SAS",
+    "3PA": 14.4,
+    "3 Point usage": 8.62,
+    "FGA": 77.9
+  },
+  {
+    "3P%": 0.35,
+    "Season": "1997-98",
+    "distance": 9.74,
+    "Team": "SAS",
+    "3PA": 10.5,
+    "3 Point usage": 13.58,
+    "FGA": 75.5
+  },
+  {
+    "3P%": 0.33,
+    "Season": "1998-99",
+    "distance": 10.38,
+    "Team": "SAS",
+    "3PA": 10.4,
+    "3 Point usage": 13.55,
+    "FGA": 76.2
+  },
+  {
+    "3P%": 0.374,
+    "Season": "1999-00",
+    "distance": 10.64,
+    "Team": "SAS",
+    "3PA": 10.8,
+    "3 Point usage": 13.59,
+    "FGA": 78.0
+  },
+  {
+    "3P%": 0.407,
+    "Season": "2000-01",
+    "distance": 11.46,
+    "Team": "SAS",
+    "3PA": 13.3,
+    "3 Point usage": 17.21,
+    "FGA": 76.4
+  },
+  {
+    "3P%": 0.362,
+    "Season": "2001-02",
+    "distance": 10.8,
+    "Team": "SAS",
+    "3PA": 14.8,
+    "3 Point usage": 18.88,
+    "FGA": 77.6
+  },
+  {
+    "3P%": 0.354,
+    "Season": "2002-03",
+    "distance": 10.83,
+    "Team": "SAS",
+    "3PA": 15.5,
+    "3 Point usage": 19.99,
+    "FGA": 76.8
+  },
+  {
+    "3P%": 0.358,
+    "Season": "2003-04",
+    "distance": 11.17,
+    "Team": "SAS",
+    "3PA": 13.9,
+    "3 Point usage": 17.57,
+    "FGA": 78.5
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2004-05",
+    "distance": 11.19,
+    "Team": "SAS",
+    "3PA": 17.0,
+    "3 Point usage": 21.29,
+    "FGA": 78.7
+  },
+  {
+    "3P%": 0.385,
+    "Season": "2005-06",
+    "distance": 11.42,
+    "Team": "SAS",
+    "3PA": 16.6,
+    "3 Point usage": 21.22,
+    "FGA": 77.3
+  },
+  {
+    "3P%": 0.381,
+    "Season": "2006-07",
+    "distance": 12.19,
+    "Team": "SAS",
+    "3PA": 19.0,
+    "3 Point usage": 24.22,
+    "FGA": 77.2
+  },
+  {
+    "3P%": 0.369,
+    "Season": "2007-08",
+    "distance": 12.82,
+    "Team": "SAS",
+    "3PA": 19.6,
+    "3 Point usage": 24.62,
+    "FGA": 78.3
+  },
+  {
+    "3P%": 0.386,
+    "Season": "2008-09",
+    "distance": 12.97,
+    "Team": "SAS",
+    "3PA": 19.8,
+    "3 Point usage": 24.01,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.358,
+    "Season": "2009-10",
+    "distance": 11.76,
+    "Team": "SAS",
+    "3PA": 18.9,
+    "3 Point usage": 23.01,
+    "FGA": 81.2
+  },
+  {
+    "3P%": 0.397,
+    "Season": "2010-11",
+    "distance": 12.17,
+    "Team": "SAS",
+    "3PA": 21.1,
+    "3 Point usage": 25.9,
+    "FGA": 80.8
+  },
+  {
+    "3P%": 0.393,
+    "Season": "2011-12",
+    "distance": 11.96,
+    "Team": "SAS",
+    "3PA": 21.3,
+    "3 Point usage": 25.65,
+    "FGA": 82.8
+  },
+  {
+    "3P%": 0.376,
+    "Season": "2012-13",
+    "distance": 11.98,
+    "Team": "SAS",
+    "3PA": 21.5,
+    "3 Point usage": 26.19,
+    "FGA": 81.4
+  },
+  {
+    "3P%": 0.397,
+    "Season": "2013-14",
+    "distance": 12.08,
+    "Team": "SAS",
+    "3PA": 21.4,
+    "3 Point usage": 25.46,
+    "FGA": 83.5
+  },
+  {
+    "3P%": 0.367,
+    "Season": "2014-15",
+    "distance": 12.05,
+    "Team": "SAS",
+    "3PA": 22.5,
+    "3 Point usage": 26.78,
+    "FGA": 83.6
+  },
+  {
+    "3P%": 0.375,
+    "Season": "2015-16",
+    "distance": 12.19,
+    "Team": "SAS",
+    "3PA": 18.5,
+    "3 Point usage": 22.06,
+    "FGA": 82.9
+  },
+  {
+    "3P%": 0.4,
+    "Season": "2016-17",
+    "distance": 13.29,
+    "Team": "SAS",
+    "3PA": 21.9,
+    "3 Point usage": 26.98,
+    "FGA": 80.4
+  },
+  {
+    "3P%": 0.326,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "SDC",
+    "3PA": 6.6,
+    "3 Point usage": 0.0,
+    "FGA": 91.4
+  },
+  {
+    "3P%": 0.324,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "SDC",
+    "3PA": 5.0,
+    "3 Point usage": 0.0,
+    "FGA": 88.8
+  },
+  {
+    "3P%": 0.293,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "SDC",
+    "3PA": 4.1,
+    "3 Point usage": 0.0,
+    "FGA": 86.6
+  },
+  {
+    "3P%": 0.244,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "SDC",
+    "3PA": 3.2,
+    "3 Point usage": 0.0,
+    "FGA": 93.1
+  },
+  {
+    "3P%": 0.188,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "SDC",
+    "3PA": 1.6,
+    "3 Point usage": 0.0,
+    "FGA": 89.3
+  },
+  {
+    "3P%": 0.312,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 92.3
+  },
+  {
+    "3P%": 0.274,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 1.4,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.248,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 1.9,
+    "3 Point usage": 0.0,
+    "FGA": 87.5
+  },
+  {
+    "3P%": 0.21,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 1.7,
+    "3 Point usage": 0.0,
+    "FGA": 88.7
+  },
+  {
+    "3P%": 0.193,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 1.7,
+    "3 Point usage": 0.0,
+    "FGA": 86.4
+  },
+  {
+    "3P%": 0.243,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 84.3
+  },
+  {
+    "3P%": 0.263,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 3.7,
+    "3 Point usage": 0.0,
+    "FGA": 86.1
+  },
+  {
+    "3P%": 0.335,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 7.0,
+    "3 Point usage": 0.0,
+    "FGA": 90.9
+  },
+  {
+    "3P%": 0.346,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 7.8,
+    "3 Point usage": 0.0,
+    "FGA": 90.8
+  },
+  {
+    "3P%": 0.379,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 9.4,
+    "3 Point usage": 0.0,
+    "FGA": 91.2
+  },
+  {
+    "3P%": 0.355,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 7.9,
+    "3 Point usage": 0.0,
+    "FGA": 88.3
+  },
+  {
+    "3P%": 0.319,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 5.2,
+    "3 Point usage": 0.0,
+    "FGA": 86.8
+  },
+  {
+    "3P%": 0.317,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 7.9,
+    "3 Point usage": 0.0,
+    "FGA": 86.9
+  },
+  {
+    "3P%": 0.357,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 7.4,
+    "3 Point usage": 0.0,
+    "FGA": 87.1
+  },
+  {
+    "3P%": 0.335,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 8.8,
+    "3 Point usage": 0.0,
+    "FGA": 84.2
+  },
+  {
+    "3P%": 0.376,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 15.9,
+    "3 Point usage": 0.0,
+    "FGA": 82.2
+  },
+  {
+    "3P%": 0.364,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "SEA",
+    "3PA": 19.5,
+    "3 Point usage": 0.0,
+    "FGA": 78.1
+  },
+  {
+    "3P%": 0.353,
+    "Season": "1996-97",
+    "distance": 9.83,
+    "Team": "SEA",
+    "3PA": 19.3,
+    "3 Point usage": 11.02,
+    "FGA": 78.2
+  },
+  {
+    "3P%": 0.396,
+    "Season": "1997-98",
+    "distance": 11.55,
+    "Team": "SEA",
+    "3PA": 19.1,
+    "3 Point usage": 24.19,
+    "FGA": 78.8
+  },
+  {
+    "3P%": 0.344,
+    "Season": "1998-99",
+    "distance": 11.39,
+    "Team": "SEA",
+    "3PA": 18.0,
+    "3 Point usage": 22.43,
+    "FGA": 79.5
+  },
+  {
+    "3P%": 0.339,
+    "Season": "1999-00",
+    "distance": 12.16,
+    "Team": "SEA",
+    "3PA": 19.6,
+    "3 Point usage": 22.99,
+    "FGA": 84.7
+  },
+  {
+    "3P%": 0.399,
+    "Season": "2000-01",
+    "distance": 10.28,
+    "Team": "SEA",
+    "3PA": 14.3,
+    "3 Point usage": 17.4,
+    "FGA": 81.1
+  },
+  {
+    "3P%": 0.378,
+    "Season": "2001-02",
+    "distance": 11.43,
+    "Team": "SEA",
+    "3PA": 15.8,
+    "3 Point usage": 19.2,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2002-03",
+    "distance": 12.2,
+    "Team": "SEA",
+    "3PA": 15.7,
+    "3 Point usage": 19.48,
+    "FGA": 80.5
+  },
+  {
+    "3P%": 0.373,
+    "Season": "2003-04",
+    "distance": 13.12,
+    "Team": "SEA",
+    "3PA": 23.6,
+    "3 Point usage": 28.98,
+    "FGA": 80.4
+  },
+  {
+    "3P%": 0.365,
+    "Season": "2004-05",
+    "distance": 12.49,
+    "Team": "SEA",
+    "3PA": 22.2,
+    "3 Point usage": 27.73,
+    "FGA": 79.2
+  },
+  {
+    "3P%": 0.371,
+    "Season": "2005-06",
+    "distance": 12.15,
+    "Team": "SEA",
+    "3PA": 19.9,
+    "3 Point usage": 23.92,
+    "FGA": 81.8
+  },
+  {
+    "3P%": 0.362,
+    "Season": "2006-07",
+    "distance": 11.47,
+    "Team": "SEA",
+    "3PA": 17.7,
+    "3 Point usage": 21.66,
+    "FGA": 80.8
+  },
+  {
+    "3P%": 0.333,
+    "Season": "2007-08",
+    "distance": 11.28,
+    "Team": "SEA",
+    "3PA": 11.5,
+    "3 Point usage": 13.25,
+    "FGA": 85.8
+  },
+  {
+    "3P%": 0.311,
+    "Season": "1970-71",
+    "distance": 0.0,
+    "Team": "TEX",
+    "3PA": 9.2,
+    "3 Point usage": 0.0,
+    "FGA": 106.4
+  },
+  {
+    "3P%": 0.354,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "TOR",
+    "3PA": 14.2,
+    "3 Point usage": 0.0,
+    "FGA": 80.5
+  },
+  {
+    "3P%": 0.363,
+    "Season": "1996-97",
+    "distance": 10.36,
+    "Team": "TOR",
+    "3PA": 19.8,
+    "3 Point usage": 10.22,
+    "FGA": 80.9
+  },
+  {
+    "3P%": 0.343,
+    "Season": "1997-98",
+    "distance": 10.19,
+    "Team": "TOR",
+    "3PA": 13.2,
+    "3 Point usage": 15.79,
+    "FGA": 83.1
+  },
+  {
+    "3P%": 0.341,
+    "Season": "1998-99",
+    "distance": 11.24,
+    "Team": "TOR",
+    "3PA": 13.2,
+    "3 Point usage": 16.44,
+    "FGA": 78.8
+  },
+  {
+    "3P%": 0.363,
+    "Season": "1999-00",
+    "distance": 12.48,
+    "Team": "TOR",
+    "3PA": 14.3,
+    "3 Point usage": 16.78,
+    "FGA": 83.9
+  },
+  {
+    "3P%": 0.369,
+    "Season": "2000-01",
+    "distance": 12.44,
+    "Team": "TOR",
+    "3PA": 14.2,
+    "3 Point usage": 16.42,
+    "FGA": 85.0
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2001-02",
+    "distance": 11.82,
+    "Team": "TOR",
+    "3PA": 13.5,
+    "3 Point usage": 16.11,
+    "FGA": 82.0
+  },
+  {
+    "3P%": 0.343,
+    "Season": "2002-03",
+    "distance": 12.06,
+    "Team": "TOR",
+    "3PA": 14.5,
+    "3 Point usage": 17.66,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2003-04",
+    "distance": 12.67,
+    "Team": "TOR",
+    "3PA": 15.8,
+    "3 Point usage": 20.17,
+    "FGA": 77.4
+  },
+  {
+    "3P%": 0.385,
+    "Season": "2004-05",
+    "distance": 12.51,
+    "Team": "TOR",
+    "3PA": 20.5,
+    "3 Point usage": 24.86,
+    "FGA": 81.2
+  },
+  {
+    "3P%": 0.375,
+    "Season": "2005-06",
+    "distance": 12.49,
+    "Team": "TOR",
+    "3PA": 19.8,
+    "3 Point usage": 24.08,
+    "FGA": 81.0
+  },
+  {
+    "3P%": 0.363,
+    "Season": "2006-07",
+    "distance": 12.78,
+    "Team": "TOR",
+    "3PA": 17.9,
+    "3 Point usage": 22.1,
+    "FGA": 79.8
+  },
+  {
+    "3P%": 0.392,
+    "Season": "2007-08",
+    "distance": 13.19,
+    "Team": "TOR",
+    "3PA": 17.8,
+    "3 Point usage": 21.38,
+    "FGA": 82.0
+  },
+  {
+    "3P%": 0.372,
+    "Season": "2008-09",
+    "distance": 12.72,
+    "Team": "TOR",
+    "3PA": 15.7,
+    "3 Point usage": 19.0,
+    "FGA": 81.4
+  },
+  {
+    "3P%": 0.371,
+    "Season": "2009-10",
+    "distance": 12.22,
+    "Team": "TOR",
+    "3PA": 17.0,
+    "3 Point usage": 20.45,
+    "FGA": 80.9
+  },
+  {
+    "3P%": 0.316,
+    "Season": "2010-11",
+    "distance": 11.3,
+    "Team": "TOR",
+    "3PA": 13.3,
+    "3 Point usage": 15.88,
+    "FGA": 82.4
+  },
+  {
+    "3P%": 0.34,
+    "Season": "2011-12",
+    "distance": 12.62,
+    "Team": "TOR",
+    "3PA": 16.3,
+    "3 Point usage": 20.61,
+    "FGA": 78.1
+  },
+  {
+    "3P%": 0.343,
+    "Season": "2012-13",
+    "distance": 13.03,
+    "Team": "TOR",
+    "3PA": 20.3,
+    "3 Point usage": 24.74,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.372,
+    "Season": "2013-14",
+    "distance": 13.07,
+    "Team": "TOR",
+    "3PA": 23.4,
+    "3 Point usage": 28.31,
+    "FGA": 81.9
+  },
+  {
+    "3P%": 0.352,
+    "Season": "2014-15",
+    "distance": 12.77,
+    "Team": "TOR",
+    "3PA": 25.1,
+    "3 Point usage": 30.05,
+    "FGA": 83.3
+  },
+  {
+    "3P%": 0.37,
+    "Season": "2015-16",
+    "distance": 12.38,
+    "Team": "TOR",
+    "3PA": 23.4,
+    "3 Point usage": 28.37,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.379,
+    "Season": "2016-17",
+    "distance": 12.82,
+    "Team": "TOR",
+    "3PA": 23.6,
+    "3 Point usage": 27.84,
+    "FGA": 84.2
+  },
+  {
+    "3P%": 0.319,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 2.3,
+    "3 Point usage": 0.0,
+    "FGA": 83.1
+  },
+  {
+    "3P%": 0.258,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 2.0,
+    "3 Point usage": 0.0,
+    "FGA": 83.2
+  },
+  {
+    "3P%": 0.227,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 1.2,
+    "3 Point usage": 0.0,
+    "FGA": 90.8
+  },
+  {
+    "3P%": 0.24,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 2.2,
+    "3 Point usage": 0.0,
+    "FGA": 89.5
+  },
+  {
+    "3P%": 0.319,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 3.9,
+    "3 Point usage": 0.0,
+    "FGA": 88.3
+  },
+  {
+    "3P%": 0.336,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 3.7,
+    "3 Point usage": 0.0,
+    "FGA": 89.0
+  },
+  {
+    "3P%": 0.207,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 2.1,
+    "3 Point usage": 0.0,
+    "FGA": 86.4
+  },
+  {
+    "3P%": 0.31,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 5.5,
+    "3 Point usage": 0.0,
+    "FGA": 91.6
+  },
+  {
+    "3P%": 0.319,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 4.9,
+    "3 Point usage": 0.0,
+    "FGA": 86.5
+  },
+  {
+    "3P%": 0.3,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 4.6,
+    "3 Point usage": 0.0,
+    "FGA": 80.4
+  },
+  {
+    "3P%": 0.359,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 7.7,
+    "3 Point usage": 0.0,
+    "FGA": 80.4
+  },
+  {
+    "3P%": 0.323,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 5.6,
+    "3 Point usage": 0.0,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.345,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 5.6,
+    "3 Point usage": 0.0,
+    "FGA": 83.7
+  },
+  {
+    "3P%": 0.314,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 5.0,
+    "3 Point usage": 0.0,
+    "FGA": 83.3
+  },
+  {
+    "3P%": 0.32,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 6.8,
+    "3 Point usage": 0.0,
+    "FGA": 82.1
+  },
+  {
+    "3P%": 0.376,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 9.8,
+    "3 Point usage": 0.0,
+    "FGA": 77.3
+  },
+  {
+    "3P%": 0.372,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "UTA",
+    "3PA": 12.4,
+    "3 Point usage": 0.0,
+    "FGA": 78.3
+  },
+  {
+    "3P%": 0.37,
+    "Season": "1996-97",
+    "distance": 9.64,
+    "Team": "UTA",
+    "3PA": 11.0,
+    "3 Point usage": 6.64,
+    "FGA": 75.8
+  },
+  {
+    "3P%": 0.372,
+    "Season": "1997-98",
+    "distance": 9.98,
+    "Team": "UTA",
+    "3PA": 8.2,
+    "3 Point usage": 10.65,
+    "FGA": 74.5
+  },
+  {
+    "3P%": 0.361,
+    "Season": "1998-99",
+    "distance": 10.23,
+    "Team": "UTA",
+    "3PA": 7.8,
+    "3 Point usage": 10.69,
+    "FGA": 72.4
+  },
+  {
+    "3P%": 0.385,
+    "Season": "1999-00",
+    "distance": 11.33,
+    "Team": "UTA",
+    "3PA": 10.4,
+    "3 Point usage": 13.06,
+    "FGA": 77.8
+  },
+  {
+    "3P%": 0.381,
+    "Season": "2000-01",
+    "distance": 10.56,
+    "Team": "UTA",
+    "3PA": 10.4,
+    "3 Point usage": 13.24,
+    "FGA": 76.7
+  },
+  {
+    "3P%": 0.333,
+    "Season": "2001-02",
+    "distance": 10.39,
+    "Team": "UTA",
+    "3PA": 10.3,
+    "3 Point usage": 12.99,
+    "FGA": 77.7
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2002-03",
+    "distance": 10.81,
+    "Team": "UTA",
+    "3PA": 7.8,
+    "3 Point usage": 10.08,
+    "FGA": 75.5
+  },
+  {
+    "3P%": 0.321,
+    "Season": "2003-04",
+    "distance": 11.21,
+    "Team": "UTA",
+    "3PA": 9.6,
+    "3 Point usage": 12.43,
+    "FGA": 75.3
+  },
+  {
+    "3P%": 0.328,
+    "Season": "2004-05",
+    "distance": 11.29,
+    "Team": "UTA",
+    "3PA": 9.3,
+    "3 Point usage": 11.54,
+    "FGA": 76.8
+  },
+  {
+    "3P%": 0.336,
+    "Season": "2005-06",
+    "distance": 11.34,
+    "Team": "UTA",
+    "3PA": 11.3,
+    "3 Point usage": 14.61,
+    "FGA": 75.7
+  },
+  {
+    "3P%": 0.335,
+    "Season": "2006-07",
+    "distance": 11.03,
+    "Team": "UTA",
+    "3PA": 12.9,
+    "3 Point usage": 16.06,
+    "FGA": 78.9
+  },
+  {
+    "3P%": 0.372,
+    "Season": "2007-08",
+    "distance": 10.89,
+    "Team": "UTA",
+    "3PA": 13.4,
+    "3 Point usage": 16.12,
+    "FGA": 80.4
+  },
+  {
+    "3P%": 0.349,
+    "Season": "2008-09",
+    "distance": 10.87,
+    "Team": "UTA",
+    "3PA": 13.7,
+    "3 Point usage": 16.63,
+    "FGA": 80.8
+  },
+  {
+    "3P%": 0.364,
+    "Season": "2009-10",
+    "distance": 10.57,
+    "Team": "UTA",
+    "3PA": 14.7,
+    "3 Point usage": 18.14,
+    "FGA": 80.2
+  },
+  {
+    "3P%": 0.346,
+    "Season": "2010-11",
+    "distance": 11.59,
+    "Team": "UTA",
+    "3PA": 15.3,
+    "3 Point usage": 18.8,
+    "FGA": 80.4
+  },
+  {
+    "3P%": 0.323,
+    "Season": "2011-12",
+    "distance": 10.71,
+    "Team": "UTA",
+    "3PA": 12.8,
+    "3 Point usage": 15.01,
+    "FGA": 83.8
+  },
+  {
+    "3P%": 0.366,
+    "Season": "2012-13",
+    "distance": 11.98,
+    "Team": "UTA",
+    "3PA": 16.9,
+    "3 Point usage": 20.37,
+    "FGA": 81.8
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2013-14",
+    "distance": 12.24,
+    "Team": "UTA",
+    "3PA": 19.2,
+    "3 Point usage": 23.31,
+    "FGA": 81.1
+  },
+  {
+    "3P%": 0.343,
+    "Season": "2014-15",
+    "distance": 12.19,
+    "Team": "UTA",
+    "3PA": 21.7,
+    "3 Point usage": 27.17,
+    "FGA": 79.2
+  },
+  {
+    "3P%": 0.355,
+    "Season": "2015-16",
+    "distance": 12.32,
+    "Team": "UTA",
+    "3PA": 23.9,
+    "3 Point usage": 29.27,
+    "FGA": 80.4
+  },
+  {
+    "3P%": 0.344,
+    "Season": "2016-17",
+    "distance": 12.86,
+    "Team": "UTA",
+    "3PA": 25.7,
+    "3 Point usage": 32.55,
+    "FGA": 78.5
+  },
+  {
+    "3P%": 0.329,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "VAN",
+    "3PA": 13.8,
+    "3 Point usage": 0.0,
+    "FGA": 79.1
+  },
+  {
+    "3P%": 0.349,
+    "Season": "1996-97",
+    "distance": 10.43,
+    "Team": "VAN",
+    "3PA": 15.5,
+    "3 Point usage": 10.66,
+    "FGA": 78.7
+  },
+  {
+    "3P%": 0.362,
+    "Season": "1997-98",
+    "distance": 10.14,
+    "Team": "VAN",
+    "3PA": 11.0,
+    "3 Point usage": 13.47,
+    "FGA": 80.1
+  },
+  {
+    "3P%": 0.327,
+    "Season": "1998-99",
+    "distance": 10.3,
+    "Team": "VAN",
+    "3PA": 9.1,
+    "3 Point usage": 11.63,
+    "FGA": 76.8
+  },
+  {
+    "3P%": 0.361,
+    "Season": "1999-00",
+    "distance": 10.78,
+    "Team": "VAN",
+    "3PA": 11.0,
+    "3 Point usage": 13.79,
+    "FGA": 78.5
+  },
+  {
+    "3P%": 0.343,
+    "Season": "2000-01",
+    "distance": 12.43,
+    "Team": "VAN",
+    "3PA": 11.5,
+    "3 Point usage": 14.42,
+    "FGA": 79.7
+  },
+  {
+    "3P%": 0.339,
+    "Season": "1997-98",
+    "distance": 10.61,
+    "Team": "WAS",
+    "3PA": 11.5,
+    "3 Point usage": 13.71,
+    "FGA": 83.1
+  },
+  {
+    "3P%": 0.309,
+    "Season": "1998-99",
+    "distance": 11.26,
+    "Team": "WAS",
+    "3PA": 11.6,
+    "3 Point usage": 14.36,
+    "FGA": 79.4
+  },
+  {
+    "3P%": 0.376,
+    "Season": "1999-00",
+    "distance": 10.79,
+    "Team": "WAS",
+    "3PA": 10.9,
+    "3 Point usage": 13.26,
+    "FGA": 81.5
+  },
+  {
+    "3P%": 0.324,
+    "Season": "2000-01",
+    "distance": 10.86,
+    "Team": "WAS",
+    "3PA": 10.3,
+    "3 Point usage": 13.05,
+    "FGA": 78.7
+  },
+  {
+    "3P%": 0.388,
+    "Season": "2001-02",
+    "distance": 12.06,
+    "Team": "WAS",
+    "3PA": 9.6,
+    "3 Point usage": 11.68,
+    "FGA": 81.3
+  },
+  {
+    "3P%": 0.312,
+    "Season": "2002-03",
+    "distance": 12.29,
+    "Team": "WAS",
+    "3PA": 9.9,
+    "3 Point usage": 12.64,
+    "FGA": 78.0
+  },
+  {
+    "3P%": 0.341,
+    "Season": "2003-04",
+    "distance": 11.5,
+    "Team": "WAS",
+    "3PA": 15.5,
+    "3 Point usage": 19.14,
+    "FGA": 80.0
+  },
+  {
+    "3P%": 0.343,
+    "Season": "2004-05",
+    "distance": 12.07,
+    "Team": "WAS",
+    "3PA": 18.3,
+    "3 Point usage": 21.77,
+    "FGA": 82.9
+  },
+  {
+    "3P%": 0.357,
+    "Season": "2005-06",
+    "distance": 12.15,
+    "Team": "WAS",
+    "3PA": 17.0,
+    "3 Point usage": 20.73,
+    "FGA": 81.2
+  },
+  {
+    "3P%": 0.348,
+    "Season": "2006-07",
+    "distance": 12.76,
+    "Team": "WAS",
+    "3PA": 19.7,
+    "3 Point usage": 23.48,
+    "FGA": 83.2
+  },
+  {
+    "3P%": 0.356,
+    "Season": "2007-08",
+    "distance": 12.59,
+    "Team": "WAS",
+    "3PA": 19.7,
+    "3 Point usage": 23.91,
+    "FGA": 81.6
+  },
+  {
+    "3P%": 0.33,
+    "Season": "2008-09",
+    "distance": 11.45,
+    "Team": "WAS",
+    "3PA": 14.6,
+    "3 Point usage": 17.82,
+    "FGA": 81.2
+  },
+  {
+    "3P%": 0.353,
+    "Season": "2009-10",
+    "distance": 12.15,
+    "Team": "WAS",
+    "3PA": 14.9,
+    "3 Point usage": 18.03,
+    "FGA": 81.7
+  },
+  {
+    "3P%": 0.332,
+    "Season": "2010-11",
+    "distance": 11.7,
+    "Team": "WAS",
+    "3PA": 14.4,
+    "3 Point usage": 16.97,
+    "FGA": 84.0
+  },
+  {
+    "3P%": 0.32,
+    "Season": "2011-12",
+    "distance": 11.68,
+    "Team": "WAS",
+    "3PA": 16.3,
+    "3 Point usage": 19.41,
+    "FGA": 83.0
+  },
+  {
+    "3P%": 0.365,
+    "Season": "2012-13",
+    "distance": 12.6,
+    "Team": "WAS",
+    "3PA": 18.2,
+    "3 Point usage": 22.12,
+    "FGA": 81.6
+  },
+  {
+    "3P%": 0.38,
+    "Season": "2013-14",
+    "distance": 12.73,
+    "Team": "WAS",
+    "3PA": 20.8,
+    "3 Point usage": 24.41,
+    "FGA": 84.4
+  },
+  {
+    "3P%": 0.36,
+    "Season": "2014-15",
+    "distance": 12.11,
+    "Team": "WAS",
+    "3PA": 16.8,
+    "3 Point usage": 20.16,
+    "FGA": 82.8
+  },
+  {
+    "3P%": 0.358,
+    "Season": "2015-16",
+    "distance": 12.97,
+    "Team": "WAS",
+    "3PA": 24.2,
+    "3 Point usage": 27.91,
+    "FGA": 85.8
+  },
+  {
+    "3P%": 0.341,
+    "Season": "2016-17",
+    "distance": 12.46,
+    "Team": "WAS",
+    "3PA": 22.1,
+    "3 Point usage": 24.9,
+    "FGA": 87.7
+  },
+  {
+    "3P%": 0.307,
+    "Season": "1979-80",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 95.1
+  },
+  {
+    "3P%": 0.27,
+    "Season": "1980-81",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 91.7
+  },
+  {
+    "3P%": 0.25,
+    "Season": "1981-82",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 87.4
+  },
+  {
+    "3P%": 0.295,
+    "Season": "1982-83",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 2.9,
+    "3 Point usage": 0.0,
+    "FGA": 86.1
+  },
+  {
+    "3P%": 0.252,
+    "Season": "1983-84",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 3.4,
+    "3 Point usage": 0.0,
+    "FGA": 84.2
+  },
+  {
+    "3P%": 0.274,
+    "Season": "1984-85",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 4.9,
+    "3 Point usage": 0.0,
+    "FGA": 90.0
+  },
+  {
+    "3P%": 0.284,
+    "Season": "1985-86",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 5.0,
+    "3 Point usage": 0.0,
+    "FGA": 87.2
+  },
+  {
+    "3P%": 0.197,
+    "Season": "1986-87",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 2.7,
+    "3 Point usage": 0.0,
+    "FGA": 90.2
+  },
+  {
+    "3P%": 0.21,
+    "Season": "1987-88",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 1.7,
+    "3 Point usage": 0.0,
+    "FGA": 87.4
+  },
+  {
+    "3P%": 0.214,
+    "Season": "1988-89",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 3.0,
+    "3 Point usage": 0.0,
+    "FGA": 92.6
+  },
+  {
+    "3P%": 0.188,
+    "Season": "1989-90",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 2.4,
+    "3 Point usage": 0.0,
+    "FGA": 92.5
+  },
+  {
+    "3P%": 0.194,
+    "Season": "1990-91",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 3.5,
+    "3 Point usage": 0.0,
+    "FGA": 88.6
+  },
+  {
+    "3P%": 0.272,
+    "Season": "1991-92",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 6.5,
+    "3 Point usage": 0.0,
+    "FGA": 89.0
+  },
+  {
+    "3P%": 0.301,
+    "Season": "1992-93",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 7.0,
+    "3 Point usage": 0.0,
+    "FGA": 86.2
+  },
+  {
+    "3P%": 0.297,
+    "Season": "1993-94",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 9.1,
+    "3 Point usage": 0.0,
+    "FGA": 83.2
+  },
+  {
+    "3P%": 0.343,
+    "Season": "1994-95",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 15.4,
+    "3 Point usage": 0.0,
+    "FGA": 84.1
+  },
+  {
+    "3P%": 0.407,
+    "Season": "1995-96",
+    "distance": 0.0,
+    "Team": "WSB",
+    "3PA": 14.8,
+    "3 Point usage": 0.0,
+    "FGA": 80.7
+  },
+  {
+    "3P%": 0.331,
+    "Season": "1996-97",
+    "distance": 9.15,
+    "Team": "WSB",
+    "3PA": 12.2,
+    "3 Point usage": 10.13,
+    "FGA": 81.4
+  }
+]

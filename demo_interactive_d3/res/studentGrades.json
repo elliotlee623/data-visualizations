@@ -1,42 +1,42 @@
 [
   {
-    "student": "1",
-    "grade": 87
+    "grade": 87,
+    "student": "1"
   },
   {
-    "student": "2",
-    "grade": 91
+    "grade": 91,
+    "student": "2"
   },
   {
-    "student": "3",
-    "grade": 64
+    "grade": 64,
+    "student": "3"
   },
   {
-    "student": "4",
-    "grade": 97
+    "grade": 97,
+    "student": "4"
   },
   {
-    "student": "5",
-    "grade": 93
+    "grade": 93,
+    "student": "5"
   },
   {
-    "student": "6",
-    "grade": 71
+    "grade": 71,
+    "student": "6"
   },
   {
-    "student": "7",
-    "grade": 94
+    "grade": 94,
+    "student": "7"
   },
   {
-    "student": "8",
-    "grade": 63
+    "grade": 63,
+    "student": "8"
   },
   {
-    "student": "9",
-    "grade": 99
+    "grade": 99,
+    "student": "9"
   },
   {
-    "student": "10",
-    "grade": 84
+    "grade": 84,
+    "student": "10"
   }
 ]

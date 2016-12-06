@@ -1,30 +1,74 @@
 [
   {
-    "route": "2C Red",
+    "route": "120W Teal",
+    "expected": 0
+  },
+  {
+    "route": "130S Silver",
+    "expected": 1
+  },
+  {
+    "route": "220N Illini",
+    "expected": 1
+  },
+  {
+    "route": "130N Silver",
+    "expected": 2
+  },
+  {
+    "route": "50W Green",
+    "expected": 6
+  },
+  {
+    "route": "50E Green",
+    "expected": 7
+  },
+  {
+    "route": "220N Illini",
+    "expected": 10
+  },
+  {
+    "route": "220S Illini",
+    "expected": 10
+  },
+  {
+    "route": "120E Teal Orchard Downs",
+    "expected": 14
+  },
+  {
+    "route": "120W Teal",
+    "expected": 16
+  },
+  {
+    "route": "220S Illini",
+    "expected": 17
+  },
+  {
+    "route": "220N Illini",
+    "expected": 20
+  },
+  {
+    "route": "130N Silver",
+    "expected": 21
+  },
+  {
+    "route": "130S Silver",
+    "expected": 21
+  },
+  {
+    "route": "50W GREENhopper Cf/PARkland",
     "expected": 22
   },
   {
-    "route": "2U Red",
-    "expected": 23
+    "route": "50E GREENhopper",
+    "expected": 22
   },
   {
-    "route": "12W Teal",
-    "expected": 23
+    "route": "220S Illini",
+    "expected": 27
   },
   {
-    "route": "5W Green",
-    "expected": 23
-  },
-  {
-    "route": "5E Green",
-    "expected": 23
-  },
-  {
-    "route": "22N Illini",
-    "expected": 23
-  },
-  {
-    "route": "10W Gold",
-    "expected": 24
+    "route": "220N Illini",
+    "expected": 28
   }
 ]
