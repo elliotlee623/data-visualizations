@@ -70,6 +70,7 @@ for row in data:
     nba[team][season]["3P%"] = float(row["3P%"])
     nba[team][season]["distance"] = float(row["Avg. Shot Dis.(ft.)"])
     nba[team][season]["3usage"] = float(row["24+ feet usage %"])
+    nba[team][season]["3P"] = float(row["3P"])
 
 teamsList = []
 
@@ -80,7 +81,10 @@ for team in nba:
         threePercentage = nba[team][season]["3P%"]
         distance = nba[team][season]["distance"]
         threeUsage = nba[team][season]["3usage"]
-        teamsList.append({"Team": team + "-" + season, "Name": team, "Season": season, "FGA": FGA, "3PA": threeAttempts, "3P%": threePercentage, "distance": distance, "3 Point usage": threeUsage})
+        threeMade = nba[team][season]["3P"]
+        labels = ["3PM", "3PA", "3P%", "% of FGs as 3s", "Avg. Shot Distance"]
+
+        teamsList.append({"Team": team + "-" + season, "Name": team, "Season": season, "FGA": FGA,"3PM": threeMade,  "3PA": threeAttempts, "3P%": threePercentage, "distance": distance, "% of FGs as 3s": threeUsage, "Labels": labels})
 
 teamsList = sorted(teamsList, key=lambda k: (k["Team"], k["Season"]))
 

@@ -1,5 +1,6 @@
 [
   {
+    "country": "Afghanistan",
     "value": [
       -3627627,
       -3840553,
@@ -14,10 +15,10 @@
       -3085365,
       -2635164,
       -2615557
-    ],
-    "country": "Afghanistan"
+    ]
   },
   {
+    "country": "Albania",
     "value": [
       -9092,
       -11241,
@@ -32,10 +33,10 @@
       -16031,
       -15890,
       -19710
-    ],
-    "country": "Albania"
+    ]
   },
   {
+    "country": "Algeria",
     "value": [
       159602,
       158334,
@@ -50,10 +51,10 @@
       86046,
       86858,
       88020
-    ],
-    "country": "Algeria"
+    ]
   },
   {
+    "country": "Angola",
     "value": [
       -426284,
       -467326,
@@ -68,10 +69,10 @@
       -116194,
       -1032,
       32074
-    ],
-    "country": "Angola"
+    ]
   },
   {
+    "country": "Antigua and Barbuda",
     "value": [
       -9,
       -13,
@@ -86,10 +87,10 @@
       -61,
       -79,
       -73
-    ],
-    "country": "Antigua and Barbuda"
+    ]
   },
   {
+    "country": "Argentina",
     "value": [
       1499,
       1827,
@@ -104,10 +105,10 @@
       3576,
       4083,
       4962
-    ],
-    "country": "Argentina"
+    ]
   },
   {
+    "country": "Armenia",
     "value": [
       269577,
       251054,
@@ -122,10 +123,10 @@
       -17185,
       -15811,
       -14109
-    ],
-    "country": "Armenia"
+    ]
   },
   {
+    "country": "Aruba",
     "value": [
       0,
       0,
@@ -140,10 +141,10 @@
       0,
       4,
       6
-    ],
-    "country": "Aruba"
+    ]
   },
   {
+    "country": "Australia",
     "value": [
       71133,
       69465,
@@ -158,10 +159,10 @@
       25518,
       28619,
       41112
-    ],
-    "country": "Australia"
+    ]
   },
   {
+    "country": "Austria",
     "value": [
       25398,
       29544,
@@ -176,10 +177,10 @@
       68242,
       71535,
       74149
-    ],
-    "country": "Austria"
+    ]
   },
   {
+    "country": "Azerbaijan",
     "value": [
       -285899,
       -267587,
@@ -194,10 +195,10 @@
       -16917,
       -15883,
       -12806
-    ],
-    "country": "Azerbaijan"
+    ]
   },
   {
+    "country": "Bahamas",
     "value": [
       92,
       -24,
@@ -212,10 +213,10 @@
       -10,
       -192,
       -182
-    ],
-    "country": "Bahamas"
+    ]
   },
   {
+    "country": "Bahrain",
     "value": [
       -147,
       -54,
@@ -230,10 +231,10 @@
       121,
       -16,
       -12
-    ],
-    "country": "Bahrain"
+    ]
   },
   {
+    "country": "Bangladesh",
     "value": [
       12906,
       13197,
@@ -248,10 +249,10 @@
       212694,
       211326,
       198787
-    ],
-    "country": "Bangladesh"
+    ]
   },
   {
+    "country": "Barbados",
     "value": [
       -18,
       -31,
@@ -266,10 +267,10 @@
       -95,
       -114,
       -104
-    ],
-    "country": "Barbados"
+    ]
   },
   {
+    "country": "Belarus",
     "value": [
       -2421,
       -3892,
@@ -284,10 +285,10 @@
       -5827,
       -6502,
       -4653
-    ],
-    "country": "Belarus"
+    ]
   },
   {
+    "country": "Belgium",
     "value": [
       65032,
       12894,
@@ -302,10 +303,10 @@
       36088,
       41299,
       36965
-    ],
-    "country": "Belgium"
+    ]
   },
   {
+    "country": "Belize",
     "value": [
       1258,
       1123,
@@ -320,10 +321,10 @@
       131,
       86,
       19
-    ],
-    "country": "Belize"
+    ]
   },
   {
+    "country": "Benin",
     "value": [
       4164,
       4787,
@@ -338,10 +339,10 @@
       6563,
       6677,
       4309
-    ],
-    "country": "Benin"
+    ]
   },
   {
+    "country": "Bolivarian Republic of Venezuela",
     "value": [
       -436,
       -431,
@@ -356,8 +357,7 @@
       210077,
       210684,
       195054
-    ],
-    "country": "Bolivarian Republic of Venezuela"
+    ]
   },
   [
     0,
@@ -376,6 +376,7 @@
     0
   ],
   {
+    "country": "Bosnia and Herzegovina",
     "value": [
       -471056,
       -418379,
@@ -390,10 +391,10 @@
       -57182,
       -47511,
       -23987
-    ],
-    "country": "Bosnia and Herzegovina"
+    ]
   },
   {
+    "country": "Botswana",
     "value": [
       3613,
       4294,
@@ -408,10 +409,10 @@
       2994,
       3303,
       2731
-    ],
-    "country": "Botswana"
+    ]
   },
   {
+    "country": "Brazil",
     "value": [
       2391,
       2479,
@@ -426,8 +427,7 @@
       3985,
       7820,
       4612
-    ],
-    "country": "Brazil"
+    ]
   },
   [
     0,
@@ -446,6 +446,7 @@
     0
   ],
   {
+    "country": "Bulgaria",
     "value": [
       -920,
       878,
@@ -460,10 +461,10 @@
       4255,
       4781,
       1528
-    ],
-    "country": "Bulgaria"
+    ]
   },
   {
+    "country": "Burkina Faso",
     "value": [
       633,
       366,
@@ -478,10 +479,10 @@
       -585,
       -765,
       37425
-    ],
-    "country": "Burkina Faso"
+    ]
   },
   {
+    "country": "Burundi",
     "value": [
       -538565,
       -522036,
@@ -496,10 +497,10 @@
       -50148,
       -40610,
       -38925
-    ],
-    "country": "Burundi"
+    ]
   },
   {
+    "country": "Cambodia",
     "value": [
       -36957,
       -33965,
@@ -514,10 +515,10 @@
       -16271,
       -14124,
       -13857
-    ],
-    "country": "Cambodia"
+    ]
   },
   {
+    "country": "Cameroon",
     "value": [
       41756,
       38876,
@@ -532,10 +533,10 @@
       89593,
       86891,
       86556
-    ],
-    "country": "Cameroon"
+    ]
   },
   {
+    "country": "Canada",
     "value": [
       157134,
       175011,
@@ -550,10 +551,10 @@
       216479,
       206602,
       196291
-    ],
-    "country": "Canada"
+    ]
   },
   {
+    "country": "Cayman Islands",
     "value": [
       0,
       0,
@@ -568,10 +569,10 @@
       4,
       3,
       -3
-    ],
-    "country": "Cayman Islands"
+    ]
   },
   {
+    "country": "Central African Republic",
     "value": [
       57204,
       23852,
@@ -586,10 +587,10 @@
       -143628,
       -147297,
       -243653
-    ],
-    "country": "Central African Republic"
+    ]
   },
   {
+    "country": "Chad",
     "value": [
       -39157,
       -35690,
@@ -604,10 +605,10 @@
       291625,
       323186,
       321458
-    ],
-    "country": "Chad"
+    ]
   },
   {
+    "country": "Chile",
     "value": [
       -590,
       -583,
@@ -622,10 +623,10 @@
       551,
       820,
       1406
-    ],
-    "country": "Chile"
+    ]
   },
   {
+    "country": "China",
     "value": [
       165962,
       158122,
@@ -640,10 +641,10 @@
       108760,
       92237,
       81438
-    ],
-    "country": "China"
+    ]
   },
   {
+    "country": "Colombia",
     "value": [
       -14041,
       -33181,
@@ -658,10 +659,10 @@
       -455553,
       -412418,
       -413029
-    ],
-    "country": "Colombia"
+    ]
   },
   {
+    "country": "Comoros",
     "value": [
       -111,
       -93,
@@ -676,10 +677,10 @@
       -381,
       -503,
       -808
-    ],
-    "country": "Comoros"
+    ]
   },
   {
+    "country": "Congo",
     "value": [
       92342,
       93093,
@@ -694,10 +695,10 @@
       114944,
       129612,
       86827
-    ],
-    "country": "Congo"
+    ]
   },
   {
+    "country": "Costa Rica",
     "value": [
       6325,
       9934,
@@ -712,10 +713,10 @@
       19452,
       20160,
       20180
-    ],
-    "country": "Costa Rica"
+    ]
   },
   {
+    "country": "C_te d'Ivoire",
     "value": [
       121473,
       126908,
@@ -730,10 +731,10 @@
       -21319,
       -87030,
       -92829
-    ],
-    "country": "C_te d'Ivoire"
+    ]
   },
   {
+    "country": "Croatia",
     "value": [
       -313111,
       -268676,
@@ -748,10 +749,10 @@
       -65199,
       -62840,
       -49645
-    ],
-    "country": "Croatia"
+    ]
   },
   {
+    "country": "Cuba",
     "value": [
       -22586,
       -21441,
@@ -766,10 +767,10 @@
       -11459,
       -8170,
       -8109
-    ],
-    "country": "Cuba"
+    ]
   },
   {
+    "country": "Cura_ao",
     "value": [
       0,
       0,
@@ -784,10 +785,10 @@
       9,
       12,
       -54
-    ],
-    "country": "Cura_ao"
+    ]
   },
   {
+    "country": "Cyprus",
     "value": [
       557,
       1925,
@@ -802,10 +803,10 @@
       8774,
       6548,
       6267
-    ],
-    "country": "Cyprus"
+    ]
   },
   {
+    "country": "Czech Republic",
     "value": [
       5228,
       11415,
@@ -820,10 +821,10 @@
       1537,
       2529,
       2290
-    ],
-    "country": "Czech Republic"
+    ]
   },
   {
+    "country": "Democratic Republic of the Congo",
     "value": [
       -58908,
       -58091,
@@ -838,10 +839,10 @@
       -352515,
       -414071,
       -496573
-    ],
-    "country": "Democratic Republic of the Congo"
+    ]
   },
   {
+    "country": "Denmark",
     "value": [
       77161,
       78859,
@@ -856,10 +857,10 @@
       21272,
       14816,
       13365
-    ],
-    "country": "Denmark"
+    ]
   },
   {
+    "country": "Djibouti",
     "value": [
       21598,
       23011,
@@ -874,10 +875,10 @@
       15038,
       21293,
       21106
-    ],
-    "country": "Djibouti"
+    ]
   },
   {
+    "country": "Dominican Republic",
     "value": [
       438,
       -172,
@@ -892,10 +893,10 @@
       1716,
       1733,
       407
-    ],
-    "country": "Dominican Republic"
+    ]
   },
   {
+    "country": "Ecuador",
     "value": [
       811,
       3120,
@@ -910,10 +911,10 @@
       170075,
       143642,
       135380
-    ],
-    "country": "Ecuador"
+    ]
   },
   {
+    "country": "Egypt",
     "value": [
       12912,
       16762,
@@ -928,10 +929,10 @@
       100858,
       99907,
       104701
-    ],
-    "country": "Egypt"
+    ]
   },
   {
+    "country": "El Salvador",
     "value": [
       -184173,
       -172065,
@@ -946,10 +947,10 @@
       -6473,
       -9759,
       -20839
-    ],
-    "country": "El Salvador"
+    ]
   },
   {
+    "country": "Eritrea",
     "value": [
       -377440,
       -333809,
@@ -964,10 +965,10 @@
       -231111,
       -301161,
       -334354
-    ],
-    "country": "Eritrea"
+    ]
   },
   {
+    "country": "Estonia",
     "value": [
       -511,
       -547,
@@ -982,10 +983,10 @@
       -209,
       -425,
       -295
-    ],
-    "country": "Estonia"
+    ]
   },
   {
+    "country": "Ethiopia",
     "value": [
       117032,
       81234,
@@ -1000,10 +1001,10 @@
       37600,
       173358,
       251592
-    ],
-    "country": "Ethiopia"
+    ]
   },
   {
+    "country": "Federal Republic of Yugoslavia",
     "value": [
       288653,
       205301,
@@ -1018,10 +1019,10 @@
       0,
       0,
       0
-    ],
-    "country": "Federal Republic of Yugoslavia"
+    ]
   },
   {
+    "country": "Federated States of Micronesia",
     "value": [
       0,
       0,
@@ -1036,10 +1037,10 @@
       0,
       0,
       0
-    ],
-    "country": "Federated States of Micronesia"
+    ]
   },
   {
+    "country": "Fiji",
     "value": [
       -2062,
       -2649,
@@ -1054,10 +1055,10 @@
       -2144,
       -1577,
       -1544
-    ],
-    "country": "Fiji"
+    ]
   },
   {
+    "country": "Finland",
     "value": [
       14566,
       12718,
@@ -1072,10 +1073,10 @@
       10813,
       11445,
       11795
-    ],
-    "country": "Finland"
+    ]
   },
   {
+    "country": "France",
     "value": [
       132382,
       166047,
@@ -1090,10 +1091,10 @@
       249127,
       259298,
       267621
-    ],
-    "country": "France"
+    ]
   },
   {
+    "country": "Gabon",
     "value": [
       20975,
       19139,
@@ -1108,10 +1109,10 @@
       12941,
       3892,
       3791
-    ],
-    "country": "Gabon"
+    ]
   },
   {
+    "country": "Gambia",
     "value": [
       11205,
       7315,
@@ -1126,10 +1127,10 @@
       5153,
       4725,
       2689
-    ],
-    "country": "Gambia"
+    ]
   },
   {
+    "country": "Georgia",
     "value": [
       -15674,
       -12124,
@@ -1144,10 +1145,10 @@
       -17155,
       -13281,
       -17364
-    ],
-    "country": "Georgia"
+    ]
   },
   {
+    "country": "Germany",
     "value": [
       975028,
       987446,
@@ -1162,10 +1163,10 @@
       646060,
       634157,
       675070
-    ],
-    "country": "Germany"
+    ]
   },
   {
+    "country": "Ghana",
     "value": [
       -2597,
       -1471,
@@ -1180,10 +1181,10 @@
       -7649,
       -1560,
       -8265
-    ],
-    "country": "Ghana"
+    ]
   },
   {
+    "country": "Greece",
     "value": [
       8879,
       13024,
@@ -1198,10 +1199,10 @@
       57080,
       45339,
       38097
-    ],
-    "country": "Greece"
+    ]
   },
   {
+    "country": "Grenada",
     "value": [
       -115,
       -230,
@@ -1216,10 +1217,10 @@
       -406,
       -361,
       -368
-    ],
-    "country": "Grenada"
+    ]
   },
   {
+    "country": "Guatemala",
     "value": [
       -121786,
       -115670,
@@ -1234,10 +1235,10 @@
       -6568,
       -7563,
       -14862
-    ],
-    "country": "Guatemala"
+    ]
   },
   {
+    "country": "Guinea",
     "value": [
       423183,
       173441,
@@ -1252,10 +1253,10 @@
       110,
       -6370,
       -15228
-    ],
-    "country": "Guinea"
+    ]
   },
   {
+    "country": "Guinea-Bissau",
     "value": [
       6060,
       6049,
@@ -1270,10 +1271,10 @@
       6531,
       5801,
       5495
-    ],
-    "country": "Guinea-Bissau"
+    ]
   },
   {
+    "country": "Guyana",
     "value": [
       -239,
       -417,
@@ -1288,10 +1289,10 @@
       -913,
       -871,
       -929
-    ],
-    "country": "Guyana"
+    ]
   },
   {
+    "country": "Haiti",
     "value": [
       -27300,
       -29211,
@@ -1306,10 +1307,10 @@
       -33092,
       -41190,
       -43781
-    ],
-    "country": "Haiti"
+    ]
   },
   {
+    "country": "Honduras",
     "value": [
       -2072,
       -1915,
@@ -1324,10 +1325,10 @@
       -2103,
       -3406,
       -8553
-    ],
-    "country": "Honduras"
+    ]
   },
   {
+    "country": "Hong Kong SAR, China",
     "value": [
       1011,
       1829,
@@ -1342,10 +1343,10 @@
       540,
       663,
       876
-    ],
-    "country": "Hong Kong SAR, China"
+    ]
   },
   {
+    "country": "Hungary",
     "value": [
       4218,
       2005,
@@ -1360,10 +1361,10 @@
       785,
       645,
       1276
-    ],
-    "country": "Hungary"
+    ]
   },
   {
+    "country": "Iceland",
     "value": [
       246,
       230,
@@ -1378,10 +1379,10 @@
       116,
       134,
       178
-    ],
-    "country": "Iceland"
+    ]
   },
   {
+    "country": "India",
     "value": [
       149808,
       148433,
@@ -1396,10 +1397,10 @@
       166935,
       167726,
       166376
-    ],
-    "country": "India"
+    ]
   },
   {
+    "country": "Indonesia",
     "value": [
       110218,
       60785,
@@ -1414,10 +1415,10 @@
       -14466,
       -11787,
       -7947
-    ],
-    "country": "Indonesia"
+    ]
   },
   {
+    "country": "Iraq",
     "value": [
       -438098,
       -436822,
@@ -1432,10 +1433,10 @@
       -1675803,
       -730787,
       -340735
-    ],
-    "country": "Iraq"
+    ]
   },
   {
+    "country": "Ireland",
     "value": [
       14603,
       14429,
@@ -1450,10 +1451,10 @@
       14221,
       13662,
       11758
-    ],
-    "country": "Ireland"
+    ]
   },
   {
+    "country": "Islamic Republic of Iran",
     "value": [
       1771315,
       1761370,
@@ -1468,10 +1469,10 @@
       990280,
       787150,
       764485
-    ],
-    "country": "Islamic Republic of Iran"
+    ]
   },
   {
+    "country": "Israel",
     "value": [
       3633,
       3756,
@@ -1486,10 +1487,10 @@
       28946,
       45940,
       52895
-    ],
-    "country": "Israel"
+    ]
   },
   {
+    "country": "Italy",
     "value": [
       6878,
       8506,
@@ -1504,10 +1505,10 @@
       60369,
       71455,
       78980
-    ],
-    "country": "Italy"
+    ]
   },
   {
+    "country": "Jamaica",
     "value": [
       -173,
       -322,
@@ -1522,10 +1523,10 @@
       -1598,
       -1892,
       -2102
-    ],
-    "country": "Jamaica"
+    ]
   },
   {
+    "country": "Japan",
     "value": [
       4011,
       3498,
@@ -1540,10 +1541,10 @@
       5473,
       6134,
       7090
-    ],
-    "country": "Japan"
+    ]
   },
   {
+    "country": "Jordan",
     "value": [
       7467,
       5023,
@@ -1558,10 +1559,10 @@
       450198,
       453016,
       303128
-    ],
-    "country": "Jordan"
+    ]
   },
   {
+    "country": "Kazakhstan",
     "value": [
       17295,
       15867,
@@ -1576,10 +1577,10 @@
       334,
       -3712,
       -2582
-    ],
-    "country": "Kazakhstan"
+    ]
   },
   {
+    "country": "Kenya",
     "value": [
       211582,
       248535,
@@ -1594,10 +1595,10 @@
       420601,
       591285,
       596192
-    ],
-    "country": "Kenya"
+    ]
   },
   {
+    "country": "Kuwait",
     "value": [
       2039,
       490,
@@ -1612,10 +1613,10 @@
       2374,
       120,
       372
-    ],
-    "country": "Kuwait"
+    ]
   },
   {
+    "country": "Kyrgyzstan",
     "value": [
       9926,
       8693,
@@ -1630,10 +1631,10 @@
       -1307,
       1926,
       1722
-    ],
-    "country": "Kyrgyzstan"
+    ]
   },
   {
+    "country": "Latvia",
     "value": [
       -598,
       -792,
@@ -1648,10 +1649,10 @@
       -775,
       -439,
       7
-    ],
-    "country": "Latvia"
+    ]
   },
   {
+    "country": "Lebanon",
     "value": [
       -3061,
       -4159,
@@ -1666,10 +1667,10 @@
       -7910,
       -6270,
       129333
-    ],
-    "country": "Lebanon"
+    ]
   },
   {
+    "country": "Lesotho",
     "value": [
       -5,
       30,
@@ -1684,10 +1685,10 @@
       -16,
       -261,
       -649
-    ],
-    "country": "Lesotho"
+    ]
   },
   {
+    "country": "Liberia",
     "value": [
       -201823,
       -196198,
@@ -1702,10 +1703,10 @@
       -47263,
       103429,
       46506
-    ],
-    "country": "Liberia"
+    ]
   },
   {
+    "country": "Libya",
     "value": [
       0,
       0,
@@ -1720,10 +1721,10 @@
       0,
       5907,
       8292
-    ],
-    "country": "Libya"
+    ]
   },
   {
+    "country": "Libyan Arab Jamahiriya",
     "value": [
       10590,
       10317,
@@ -1738,10 +1739,10 @@
       8242,
       0,
       0
-    ],
-    "country": "Libyan Arab Jamahiriya"
+    ]
   },
   {
+    "country": "Liechtenstein",
     "value": [
       70,
       328,
@@ -1756,10 +1757,10 @@
       135,
       151,
       119
-    ],
-    "country": "Liechtenstein"
+    ]
   },
   {
+    "country": "Lithuania",
     "value": [
       -179,
       -103,
@@ -1774,10 +1775,10 @@
       235,
       320,
       667
-    ],
-    "country": "Lithuania"
+    ]
   },
   {
+    "country": "Luxembourg",
     "value": [
       759,
       1201,
@@ -1792,10 +1793,10 @@
       3950,
       4548,
       4149
-    ],
-    "country": "Luxembourg"
+    ]
   },
   {
+    "country": "Macao SAR, China",
     "value": [
       -7,
       -12,
@@ -1810,10 +1811,10 @@
       -1,
       9,
       6
-    ],
-    "country": "Macao SAR, China"
+    ]
   },
   {
+    "country": "Madagascar",
     "value": [
       -19,
       -17,
@@ -1828,10 +1829,10 @@
       -292,
       -324,
       -426
-    ],
-    "country": "Madagascar"
+    ]
   },
   {
+    "country": "Malawi",
     "value": [
       3860,
       6158,
@@ -1846,10 +1847,10 @@
       14862,
       12028,
       12111
-    ],
-    "country": "Malawi"
+    ]
   },
   {
+    "country": "Malaysia",
     "value": [
       50187,
       50324,
@@ -1864,10 +1865,10 @@
       92175,
       96912,
       101091
-    ],
-    "country": "Malaysia"
+    ]
   },
   {
+    "country": "Mali",
     "value": [
       8568,
       8564,
@@ -1882,10 +1883,10 @@
       11195,
       -133682,
       -145154
-    ],
-    "country": "Mali"
+    ]
   },
   {
+    "country": "Malta",
     "value": [
       183,
       201,
@@ -1900,10 +1901,10 @@
       7424,
       8403,
       9015
-    ],
-    "country": "Malta"
+    ]
   },
   {
+    "country": "Mauritania",
     "value": [
       -31146,
       -32039,
@@ -1918,10 +1919,10 @@
       -11539,
       -9990,
       43247
-    ],
-    "country": "Mauritania"
+    ]
   },
   {
+    "country": "Mauritius",
     "value": [
       -46,
       -42,
@@ -1936,10 +1937,10 @@
       -71,
       -180,
       -192
-    ],
-    "country": "Mauritius"
+    ]
   },
   {
+    "country": "Mexico",
     "value": [
       4112,
       -8600,
@@ -1954,10 +1955,10 @@
       -15219,
       -9730,
       -19745
-    ],
-    "country": "Mexico"
+    ]
   },
   {
+    "country": "Monaco",
     "value": [
       -1,
       0,
@@ -1972,10 +1973,10 @@
       -1,
       33,
       37
-    ],
-    "country": "Monaco"
+    ]
   },
   {
+    "country": "Mongolia",
     "value": [
       -625,
       -911,
@@ -1990,10 +1991,10 @@
       -3513,
       -2940,
       -3297
-    ],
-    "country": "Mongolia"
+    ]
   },
   {
+    "country": "Montenegro",
     "value": [
       0,
       0,
@@ -2008,8 +2009,7 @@
       12938,
       8498,
       10144
-    ],
-    "country": "Montenegro"
+    ]
   },
   [
     0,
@@ -2028,6 +2028,7 @@
     0
   ],
   {
+    "country": "Morocco",
     "value": [
       1531,
       1904,
@@ -2042,10 +2043,10 @@
       -2058,
       -2804,
       -1212
-    ],
-    "country": "Morocco"
+    ]
   },
   {
+    "country": "Mozambique",
     "value": [
       2449,
       5455,
@@ -2060,10 +2061,10 @@
       9841,
       12651,
       11133
-    ],
-    "country": "Mozambique"
+    ]
   },
   {
+    "country": "Namibia",
     "value": [
       26091,
       30253,
@@ -2078,10 +2079,10 @@
       7311,
       5296,
       1486
-    ],
-    "country": "Namibia"
+    ]
   },
   {
+    "country": "Nauru",
     "value": [
       -3,
       -1,
@@ -2096,10 +2097,10 @@
       0,
       0,
       379
-    ],
-    "country": "Nauru"
+    ]
   },
   {
+    "country": "Nepal",
     "value": [
       128568,
       130100,
@@ -2114,10 +2115,10 @@
       83680,
       63452,
       44443
-    ],
-    "country": "Nepal"
+    ]
   },
   {
+    "country": "Netherlands",
     "value": [
       230498,
       230387,
@@ -2132,10 +2133,10 @@
       87937,
       84913,
       82245
-    ],
-    "country": "Netherlands"
+    ]
   },
   {
+    "country": "New Zealand",
     "value": [
       7258,
       7175,
@@ -2150,10 +2151,10 @@
       2504,
       2145,
       1776
-    ],
-    "country": "New Zealand"
+    ]
   },
   {
+    "country": "Nicaragua",
     "value": [
       -17867,
       -17231,
@@ -2168,10 +2169,10 @@
       -1514,
       -1552,
       -1889
-    ],
-    "country": "Nicaragua"
+    ]
   },
   {
+    "country": "Niger",
     "value": [
       -242,
       -372,
@@ -2186,10 +2187,10 @@
       -796,
       -770,
       49507
-    ],
-    "country": "Niger"
+    ]
   },
   {
+    "country": "Nigeria",
     "value": [
       -1937,
       -2899,
@@ -2204,10 +2205,10 @@
       -17004,
       -21764,
       -49711
-    ],
-    "country": "Nigeria"
+    ]
   },
   {
+    "country": "Norway",
     "value": [
       47688,
       50125,
@@ -2222,10 +2223,10 @@
       52726,
       51829,
       52171
-    ],
-    "country": "Norway"
+    ]
   },
   {
+    "country": "Oman",
     "value": [
       -12,
       13,
@@ -2240,10 +2241,10 @@
       20,
       56,
       138
-    ],
-    "country": "Oman"
+    ]
   },
   {
+    "country": "Pakistan",
     "value": [
       1984755,
       2179045,
@@ -2258,10 +2259,10 @@
       1842717,
       1630898,
       1546443
-    ],
-    "country": "Pakistan"
+    ]
   },
   {
+    "country": "Palau",
     "value": [
       -1,
       0,
@@ -2276,10 +2277,10 @@
       0,
       1,
       3
-    ],
-    "country": "Palau"
+    ]
   },
   {
+    "country": "Panama",
     "value": [
       1289,
       1426,
@@ -2294,10 +2295,10 @@
       17399,
       17918,
       17668
-    ],
-    "country": "Panama"
+    ]
   },
   {
+    "country": "Papua New Guinea",
     "value": [
       5852,
       4930,
@@ -2312,10 +2313,10 @@
       9568,
       9118,
       9175
-    ],
-    "country": "Papua New Guinea"
+    ]
   },
   {
+    "country": "Paraguay",
     "value": [
       -10,
       5,
@@ -2330,10 +2331,10 @@
       5,
       8,
       29
-    ],
-    "country": "Paraguay"
+    ]
   },
   {
+    "country": "Peru",
     "value": [
       -8695,
       -8505,
@@ -2348,10 +2349,10 @@
       -9200,
       -3914,
       -3830
-    ],
-    "country": "Peru"
+    ]
   },
   {
+    "country": "Philippines",
     "value": [
       -47140,
       -47134,
@@ -2366,10 +2367,10 @@
       -1329,
       -1183,
       -1406
-    ],
-    "country": "Philippines"
+    ]
   },
   {
+    "country": "Plurinational State of Bolivia",
     "value": [
       54,
       39,
@@ -2384,10 +2385,10 @@
       9,
       -37,
       -46
-    ],
-    "country": "Plurinational State of Bolivia"
+    ]
   },
   {
+    "country": "Poland",
     "value": [
       -396,
       -2760,
@@ -2402,10 +2403,10 @@
       15761,
       16770,
       16617
-    ],
-    "country": "Poland"
+    ]
   },
   {
+    "country": "Portugal",
     "value": [
       334,
       287,
@@ -2420,10 +2421,10 @@
       362,
       540,
       615
-    ],
-    "country": "Portugal"
+    ]
   },
   {
+    "country": "Qatar",
     "value": [
       4,
       48,
@@ -2438,10 +2439,10 @@
       -52,
       -1,
       122
-    ],
-    "country": "Qatar"
+    ]
   },
   {
+    "country": "Republic of Korea",
     "value": [
       -380,
       -484,
@@ -2456,10 +2457,10 @@
       245,
       826,
       1343
-    ],
-    "country": "Republic of Korea"
+    ]
   },
   {
+    "country": "Republic of Moldova",
     "value": [
       -3262,
       -5615,
@@ -2474,10 +2475,10 @@
       -6604,
       -6394,
       -2773
-    ],
-    "country": "Republic of Moldova"
+    ]
   },
   {
+    "country": "Romania",
     "value": [
       -8129,
       -7056,
@@ -2492,10 +2493,10 @@
       -2851,
       -1666,
       -2151
-    ],
-    "country": "Romania"
+    ]
   },
   {
+    "country": "Russian Federation",
     "value": [
       -23956,
       -41126,
@@ -2510,10 +2511,10 @@
       -116044,
       -120812,
       -96217
-    ],
-    "country": "Russian Federation"
+    ]
   },
   {
+    "country": "Rwanda",
     "value": [
       -113749,
       -73926,
@@ -2528,10 +2529,10 @@
       -69467,
       -52055,
       -32653
-    ],
-    "country": "Rwanda"
+    ]
   },
   {
+    "country": "Saint Kitts and Nevis",
     "value": [
       -4,
       -2,
@@ -2546,10 +2547,10 @@
       -20,
       -36,
       -32
-    ],
-    "country": "Saint Kitts and Nevis"
+    ]
   },
   {
+    "country": "Saint Lucia",
     "value": [
       -39,
       -78,
@@ -2564,10 +2565,10 @@
       -1012,
       -1077,
       -960
-    ],
-    "country": "Saint Lucia"
+    ]
   },
   {
+    "country": "Saint Vincent and the Grenadines",
     "value": [
       -126,
       -241,
@@ -2582,10 +2583,10 @@
       -1993,
       -1804,
       -1758
-    ],
-    "country": "Saint Vincent and the Grenadines"
+    ]
   },
   {
+    "country": "Saudi Arabia",
     "value": [
       5351,
       245314,
@@ -2600,10 +2601,10 @@
       -78,
       -288,
       -67
-    ],
-    "country": "Saudi Arabia"
+    ]
   },
   {
+    "country": "Senegal",
     "value": [
       10717,
       13545,
@@ -2618,10 +2619,10 @@
       5047,
       1527,
       -7896
-    ],
-    "country": "Senegal"
+    ]
   },
   {
+    "country": "Serbia (and Kosovo: S/RES/1244 (1999))",
     "value": [
       0,
       0,
@@ -2636,10 +2637,10 @@
       -125753,
       -103956,
       -4571
-    ],
-    "country": "Serbia (and Kosovo: S/RES/1244 (1999))"
+    ]
   },
   {
+    "country": "Serbia and Montenegro",
     "value": [
       0,
       0,
@@ -2654,10 +2655,10 @@
       0,
       0,
       0
-    ],
-    "country": "Serbia and Montenegro"
+    ]
   },
   {
+    "country": "Sierra Leone",
     "value": [
       -402678,
       -177412,
@@ -2672,10 +2673,10 @@
       -4122,
       -364,
       -3362
-    ],
-    "country": "Sierra Leone"
+    ]
   },
   {
+    "country": "Singapore",
     "value": [
       -40,
       -31,
@@ -2690,8 +2691,7 @@
       -82,
       -95,
       -87
-    ],
-    "country": "Singapore"
+    ]
   },
   [
     0,
@@ -2710,6 +2710,7 @@
     0
   ],
   {
+    "country": "Slovakia",
     "value": [
       -172,
       2760,
@@ -2724,10 +2725,10 @@
       143,
       -139,
       145
-    ],
-    "country": "Slovakia"
+    ]
   },
   {
+    "country": "Slovenia",
     "value": [
       8337,
       1928,
@@ -2742,10 +2743,10 @@
       379,
       199,
       238
-    ],
-    "country": "Slovenia"
+    ]
   },
   {
+    "country": "Solomon Islands",
     "value": [
       -57,
       -55,
@@ -2760,10 +2761,10 @@
       -75,
       -68,
       -64
-    ],
-    "country": "Solomon Islands"
+    ]
   },
   {
+    "country": "Somalia",
     "value": [
       -487066,
       -455674,
@@ -2778,10 +2779,10 @@
       -766941,
       -1162165,
       -1146363
-    ],
-    "country": "Somalia"
+    ]
   },
   {
+    "country": "South Africa",
     "value": [
       29921,
       29712,
@@ -2796,10 +2797,10 @@
       229007,
       276611,
       294953
-    ],
-    "country": "South Africa"
+    ]
   },
   {
+    "country": "South Sudan",
     "value": [
       0,
       0,
@@ -2814,10 +2815,10 @@
       0,
       -579,
       57477
-    ],
-    "country": "South Sudan"
+    ]
   },
   {
+    "country": "Spain",
     "value": [
       6884,
       6741,
@@ -2832,10 +2833,10 @@
       6420,
       6757,
       7187
-    ],
-    "country": "Spain"
+    ]
   },
   {
+    "country": "Sri Lanka",
     "value": [
       -130630,
       -128967,
@@ -2850,10 +2851,10 @@
       -149317,
       -146368,
       -138801
-    ],
-    "country": "Sri Lanka"
+    ]
   },
   {
+    "country": "Sudan",
     "value": [
       -95344,
       -160559,
@@ -2868,10 +2869,10 @@
       -226563,
       -444150,
       -518066
-    ],
-    "country": "Sudan"
+    ]
   },
   {
+    "country": "Suriname",
     "value": [
       -386,
       -291,
@@ -2886,10 +2887,10 @@
       -24,
       -31,
       -31
-    ],
-    "country": "Suriname"
+    ]
   },
   {
+    "country": "Swaziland",
     "value": [
       670,
       1032,
@@ -2904,10 +2905,10 @@
       671,
       529,
       696
-    ],
-    "country": "Swaziland"
+    ]
   },
   {
+    "country": "Sweden",
     "value": [
       167997,
       164077,
@@ -2922,10 +2923,10 @@
       101211,
       104714,
       110873
-    ],
-    "country": "Sweden"
+    ]
   },
   {
+    "country": "Switzerland",
     "value": [
       85051,
       84086,
@@ -2940,10 +2941,10 @@
       61709,
       67310,
       72445
-    ],
-    "country": "Switzerland"
+    ]
   },
   {
+    "country": "Syrian Arab Republic",
     "value": [
       -3497,
       -4765,
@@ -2958,10 +2959,10 @@
       979702,
       2518,
       -2030606
-    ],
-    "country": "Syrian Arab Republic"
+    ]
   },
   {
+    "country": "Tajikistan",
     "value": [
       -44990,
       -40786,
@@ -2976,10 +2977,10 @@
       3879,
       4236,
       3162
-    ],
-    "country": "Tajikistan"
+    ]
   },
   {
+    "country": "Thailand",
     "value": [
       104968,
       110802,
@@ -2994,10 +2995,10 @@
       106341,
       102052,
       98689
-    ],
-    "country": "Thailand"
+    ]
   },
   {
+    "country": "The former Yugoslav Republic of Macedonia",
     "value": [
       6371,
       -10006,
@@ -3012,10 +3013,10 @@
       -9182,
       -10589,
       -6691
-    ],
-    "country": "The former Yugoslav Republic of Macedonia"
+    ]
   },
   {
+    "country": "Timor-Leste",
     "value": [
       -122221,
       -73055,
@@ -3030,10 +3031,10 @@
       -4,
       -14,
       -7
-    ],
-    "country": "Timor-Leste"
+    ]
   },
   {
+    "country": "Togo",
     "value": [
       7005,
       6009,
@@ -3048,10 +3049,10 @@
       -5160,
       922,
       12155
-    ],
-    "country": "Togo"
+    ]
   },
   {
+    "country": "Tonga",
     "value": [
       -23,
       -49,
@@ -3066,10 +3067,10 @@
       -13,
       -49,
       -74
-    ],
-    "country": "Tonga"
+    ]
   },
   {
+    "country": "Trinidad and Tobago",
     "value": [
       -141,
       -195,
@@ -3084,10 +3085,10 @@
       -270,
       -383,
       -438
-    ],
-    "country": "Trinidad and Tobago"
+    ]
   },
   {
+    "country": "Tunisia",
     "value": [
       -1121,
       -1647,
@@ -3102,10 +3103,10 @@
       -2620,
       442,
       -1323
-    ],
-    "country": "Tunisia"
+    ]
   },
   {
+    "country": "Turkey",
     "value": [
       -49080,
       -52770,
@@ -3120,10 +3121,10 @@
       -137561,
       -118762,
       204018
-    ],
-    "country": "Turkey"
+    ]
   },
   {
+    "country": "Turkmenistan",
     "value": [
       14434,
       14142,
@@ -3138,10 +3139,10 @@
       -742,
       -793,
       -740
-    ],
-    "country": "Turkmenistan"
+    ]
   },
   {
+    "country": "Turks and Caicos Islands",
     "value": [
       0,
       0,
@@ -3156,10 +3157,10 @@
       -3,
       -23,
       2
-    ],
-    "country": "Turks and Caicos Islands"
+    ]
   },
   {
+    "country": "Uganda",
     "value": [
       205617,
       159274,
@@ -3174,10 +3175,10 @@
       149213,
       154224,
       214284
-    ],
-    "country": "Uganda"
+    ]
   },
   {
+    "country": "Ukraine",
     "value": [
       -19324,
       -29448,
@@ -3192,10 +3193,10 @@
       -20368,
       -19638,
       1128
-    ],
-    "country": "Ukraine"
+    ]
   },
   {
+    "country": "United Arab Emirates",
     "value": [
       872,
       868,
@@ -3210,10 +3211,10 @@
       171,
       114,
       611
-    ],
-    "country": "United Arab Emirates"
+    ]
   },
   {
+    "country": "United Kingdom",
     "value": [
       274664,
       271999,
@@ -3228,10 +3229,10 @@
       252831,
       208479,
       168514
-    ],
-    "country": "United Kingdom"
+    ]
   },
   {
+    "country": "United Republic of Tanzania",
     "value": [
       701161,
       667032,
@@ -3246,10 +3247,10 @@
       109177,
       130018,
       99553
-    ],
-    "country": "United Republic of Tanzania"
+    ]
   },
   {
+    "country": "United States",
     "value": [
       894284,
       911400,
@@ -3264,10 +3265,10 @@
       266947,
       271596,
       275979
-    ],
-    "country": "United States"
+    ]
   },
   {
+    "country": "Uruguay",
     "value": [
       -128,
       -264,
@@ -3282,10 +3283,10 @@
       -8,
       18,
       59
-    ],
-    "country": "Uruguay"
+    ]
   },
   {
+    "country": "Uzbekistan",
     "value": [
       35594,
       36806,
@@ -3300,10 +3301,10 @@
       -10142,
       -12724,
       -6523
-    ],
-    "country": "Uzbekistan"
+    ]
   },
   {
+    "country": "Vanuatu",
     "value": [
       -2,
       -1,
@@ -3318,10 +3319,10 @@
       1,
       1,
       2
-    ],
-    "country": "Vanuatu"
+    ]
   },
   {
+    "country": "Viet Nam",
     "value": [
       -356342,
       -340756,
@@ -3336,10 +3337,10 @@
       -337899,
       -337344,
       -316044
-    ],
-    "country": "Viet Nam"
+    ]
   },
   {
+    "country": "Yemen",
     "value": [
       58987,
       69101,
@@ -3354,10 +3355,10 @@
       189946,
       216467,
       239437
-    ],
-    "country": "Yemen"
+    ]
   },
   {
+    "country": "Zambia",
     "value": [
       250978,
       284502,
@@ -3372,10 +3373,10 @@
       47896,
       46150,
       26355
-    ],
-    "country": "Zambia"
+    ]
   },
   {
+    "country": "Zimbabwe",
     "value": [
       3877,
       6516,
@@ -3390,8 +3391,7 @@
       -20254,
       -58491,
       -58251
-    ],
-    "country": "Zimbabwe"
+    ]
   },
   {
     "China": [

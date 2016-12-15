@@ -22,8 +22,8 @@ var visualize2 = function(data) {
   /*
    * # Boilerplate Code for d3.js
    */
-  var margin = { top: 40, right: 120, bottom: 50, left: 40 },
-      width = 2500 - margin.left - margin.right,
+  var margin = { top: 40, right: 120, bottom: 50, left: 120 },
+      width = 1500 - margin.left - margin.right,
       height = 1000 - margin.top - margin.bottom;
 
   var svg = d3.select("#chart")
@@ -40,78 +40,281 @@ var visualize2 = function(data) {
 
   var teamScale = d3.scalePoint()
                        .domain(team)
-                       .range([0,width-1000]);
+                       .range([(width)/2+1,width]);
 
   var teamAxis = d3.axisTop()
                       .scale(teamScale);
   svg.append("g")
      .call(teamAxis);
 
-  var statsScale = d3.scaleBand()
-                .domain(["3PA", "3P%", "% of FGs as 3s", "Avg. Shot Distance"])
+  var teamScale2 = d3.scalePoint()
+                       .domain(team)
+                       .range([0,(width)/2]);
+
+  var teamAxis2 = d3.axisTop()
+                      .scale(teamScale2);
+  svg.append("g")
+     .call(teamAxis2);
+
+  var statsScale = d3.scalePoint()
+                .padding(0.3)
+                .domain(["3PM", "3PA", "3P%", "% of FGs as 3s", "Avg. Shot Distance"])
                 .range([0,height]);
 
   var statsAxis = d3.axisLeft()
                     .scale(statsScale);
   svg.append("g")
-     .attr("transform", "translate(" + 670 +",0)")
+     .attr("transform", "translate(" + -20 +",0)")
      .call(statsAxis);
+
+  var centerScale = d3.scalePoint()
+                  .range([0,height]);
+
+  var centerAxis = d3.axisLeft()
+                     .scale(centerScale)
+                     .ticks(0);
+
+  svg.append("g")
+     .attr("transform", "translate(" + (width/2)+", 0)")
+     .call(centerAxis);
 
   var dataScale = d3.scaleLinear()
               .domain([0,100])
-              .range([0,width-1000]);
+              .range([0, (width)/2 -1]);
 
   var dataAxis = d3.axisBottom()
                    .scale(dataScale);
   svg.append("g")
+     .attr("transform", "translate(" + ((width)/2 + 1) +",0)")
      .call(dataAxis);
 
+  var dataScale2 = d3.scaleLinear()
+              .domain([100,0])
+              .range([0,(width)/2]);
 
-  var threeAttemptsBars = svg.selectAll("ThreePAs")
+  var dataAxis2 = d3.axisBottom()
+                   .scale(dataScale2);
+  svg.append("g")
+     .call(dataAxis2);
+
+  var tip = d3.tip()
+            .attr('class', 'd3-tip')
+            .html(function(d) {
+              return d["3PM"] + " three point shots made";
+            });
+  var tip2 = d3.tip()
+            .attr('class', 'd3-tip')
+            .html(function(d) {
+              return d["3PA"] + " three point shots attempted";
+            });
+  var tip3 = d3.tip()
+            .attr('class', 'd3-tip')
+            .html(function(d) {
+              return d["3P%"]*100 + " %";
+            });
+
+  var tip4 = d3.tip()
+            .attr('class', 'd3-tip')
+            .html(function(d) {
+              return d["% of FGs as 3s"] + " %";
+            });
+
+  var tip5 = d3.tip()
+            .attr('class', 'd3-tip')
+            .html(function(d) {
+              return d["distance"] + " feet";
+            });
+
+  //v2
+  var barChartGroup = svg.selectAll("threesMade")
       .data(data)
       .enter()
       .append("g")
-      .attr("transform", function (d) {
-        return "translate(" + ",0)";
-      })
-      ;
-  //Draw Bars
-  threeAttemptsBars.append("rect")
-     .attr("x",670)
-     .attr("y",function(d,i) {
-       return 106;
-     })
-     .attr("width",function(d,i) {
-       return dataScale(d["3PA"]);
-     })
-     .attr("height",18)
-     .attr("rx",2)
-     .attr("ry",2)
-     .attr("fill","hsla(127, 100%, 24%, 0.35)")
-     .attr("stroke","hsla(127, 100%, 24%, 0.70)")
+      .call(tip);
 
-     var threePercent = svg.selectAll("threePercent")
-         .data(data)
-         .enter()
-         .append("g")
-         .attr("transform", function (d) {
-           return "translate(" + ",0)";
-         })
-         ;
-     //Draw Bars
-     threePercent.append("rect")
-        .attr("x",670)
-        .attr("y",function(d,i) {
-          return 332;
+  barChartGroup.append("rect")
+    .attr("x",(width)/2 + 1)
+    .attr("y", statsScale("3PM") - 7)
+    .attr("height", 20)
+    .attr("width", function (d) {
+  //    return dataScale(50);
+      return dataScale(d["3PM"]);
+    })
+    .attr("fill", "hsla(197, 100%, 47%, 1)")
+    .on("mouseover", tip.show)
+    .on('mouseout', tip.hide);
+
+  var barChartGroup2 = svg.selectAll("threesAttempted")
+      .data(data)
+      .enter()
+      .append("g")
+      .call(tip2);
+
+  barChartGroup2.append("rect")
+    .attr("x",(width)/2 + 1)
+    .attr("y", statsScale("3PA") - 7)
+    .attr("height", 20)
+    .attr("width", function (d) {
+    //    return dataScale(50);
+      return dataScale(d["3PA"]);
+    })
+    .attr("fill", "hsla(197, 100%, 47%, 1)")
+    .on("mouseover", tip2.show)
+    .on('mouseout', tip2.hide);
+
+    var barChartGroup3 = svg.selectAll("threesPercent")
+        .data(data)
+        .enter()
+        .append("g")
+        .call(tip3);
+
+    barChartGroup3.append("rect")
+      .attr("x",(width)/2 + 1)
+      .attr("y", statsScale("3P%") -7)
+      .attr("height", 20)
+      .attr("width", function (d) {
+      //    return dataScale(50);
+        return dataScale(d["3P%"]*100);
+      })
+      .attr("fill", "hsla(197, 100%, 47%, 1)")
+      .on("mouseover", tip3.show)
+      .on('mouseout', tip3.hide);
+
+  var barChartGroup4 = svg.selectAll("threesUsage")
+      .data(data)
+      .enter()
+      .append("g")
+      .call(tip4);
+
+  barChartGroup4.append("rect")
+    .attr("x",(width)/2 + 1)
+    .attr("y", statsScale("% of FGs as 3s") - 7)
+    .attr("height", 20)
+    .attr("width", function (d) {
+      //    return dataScale(50);
+      return dataScale(d["% of FGs as 3s"]);
+    })
+    .attr("fill", "hsla(197, 100%, 47%, 1)")
+    .on("mouseover", tip4.show)
+    .on('mouseout', tip4.hide);
+
+  var barChartGroup5 = svg.selectAll("shotDistance")
+      .data(data)
+      .enter()
+      .append("g")
+      .call(tip5);
+
+  barChartGroup5.append("rect")
+    .attr("x",(width)/2 + 1)
+    .attr("y", statsScale("Avg. Shot Distance") - 7)
+    .attr("height", 20)
+    .attr("width", function (d) {
+        //    return dataScale(50);
+      return dataScale(d["distance"]);
+    })
+    .attr("fill", "hsla(197, 100%, 47%, 1)")
+    .on("mouseover", tip5.show)
+    .on('mouseout', tip5.hide);
+
+    var leftbarChartGroup = svg.selectAll("leftthreesMade")
+        .data(data)
+        .enter()
+        .append("g")
+        .call(tip);
+
+    leftbarChartGroup.append("rect")
+      .attr("x",function(d){
+        return (width)/2 - dataScale(d["3PM"]);
+      })
+      .attr("y", statsScale("3PM") - 7)
+      .attr("height", 20)
+      .attr("width", function (d) {
+    //    return dataScale(50);
+        return dataScale(d["3PM"]);
+      })
+      .attr("fill", "hsla(197, 100%, 47%, 1)")
+      .on("mouseover", tip.show)
+      .on('mouseout', tip.hide);
+
+    var leftbarChartGroup2 = svg.selectAll("leftthreesAttempted")
+        .data(data)
+        .enter()
+        .append("g")
+        .call(tip2);
+
+    leftbarChartGroup2.append("rect")
+      .attr("x",function(d){
+        return (width)/2 - dataScale(d["3PA"]);
+      })
+      .attr("y", statsScale("3PA") - 7)
+      .attr("height", 20)
+      .attr("width", function (d) {
+      //    return dataScale(50);
+        return dataScale(d["3PA"]);
+      })
+      .attr("fill", "hsla(197, 100%, 47%, 1)")
+      .on("mouseover", tip2.show)
+      .on('mouseout', tip2.hide);
+
+      var leftbarChartGroup3 = svg.selectAll("leftthreesPercent")
+          .data(data)
+          .enter()
+          .append("g")
+          .call(tip3);
+
+      leftbarChartGroup3.append("rect")
+        .attr("x",function(d){
+          return (width)/2 - dataScale(d["3P%"]*100);
         })
-        .attr("width",function(d,i) {
-          return dataScale(d["3P%"])*100;
+        .attr("y", statsScale("3P%") -7)
+        .attr("height", 20)
+        .attr("width", function (d) {
+        //    return dataScale(50);
+          return dataScale(d["3P%"]*100);
         })
-        .attr("height",18)
-        .attr("rx",2)
-        .attr("ry",2)
-        .attr("fill","hsla(127, 100%, 24%, 0.35)")
-        .attr("stroke","hsla(127, 100%, 24%, 0.70)")
+        .attr("fill", "hsla(197, 100%, 47%, 1)")
+        .on("mouseover", tip3.show)
+        .on('mouseout', tip3.hide);
+
+    var leftbarChartGroup4 = svg.selectAll("leftthreesUsage")
+        .data(data)
+        .enter()
+        .append("g")
+        .call(tip4);
+
+    leftbarChartGroup4.append("rect")
+      .attr("x",function(d){
+        return (width)/2 - dataScale(d["% of FGs as 3s"]);
+      })
+      .attr("y", statsScale("% of FGs as 3s") - 7)
+      .attr("height", 20)
+      .attr("width", function (d) {
+        //    return dataScale(50);
+        return dataScale(d["% of FGs as 3s"]);
+      })
+      .attr("fill", "hsla(197, 100%, 47%, 1)")
+      .on("mouseover", tip4.show)
+      .on('mouseout', tip4.hide);
+
+    var leftbarChartGroup5 = svg.selectAll("leftshotDistance")
+        .data(data)
+        .enter()
+        .append("g")
+        .call(tip5);
+
+    leftbarChartGroup5.append("rect")
+      .attr("x",function(d){
+        return (width)/2 - dataScale(d["distance"]);
+      })
+      .attr("y", statsScale("Avg. Shot Distance") - 7)
+      .attr("height", 20)
+      .attr("width", function (d) {
+          //    return dataScale(50);
+        return dataScale(d["distance"]);
+      })
+      .attr("fill", "hsla(197, 100%, 47%, 1)")
+      .on("mouseover", tip5.show)
+      .on('mouseout', tip5.hide);
 
 
 };
