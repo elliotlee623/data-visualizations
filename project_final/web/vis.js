@@ -22,7 +22,7 @@ var visualize2 = function(data) {
   /*
    * # Boilerplate Code for d3.js
    */
-  var margin = { top: 40, right: 120, bottom: 50, left: 120 },
+  var margin = { top: 150, right: 120, bottom: 50, left: 120 },
       width = 1500 - margin.left - margin.right,
       height = 1000 - margin.top - margin.bottom;
 
@@ -64,7 +64,6 @@ var visualize2 = function(data) {
   var statsAxis = d3.axisLeft()
                     .scale(statsScale);
   svg.append("g")
-     .attr("transform", "translate(" + -20 +",0)")
      .call(statsAxis);
 
   var centerScale = d3.scalePoint()
@@ -140,7 +139,7 @@ var visualize2 = function(data) {
   //    return dataScale(50);
       return dataScale(d["3PM"]);
     })
-    .attr("fill", "hsla(197, 100%, 47%, 1)")
+    .attr("fill", "hsla(352, 80%, 50%, 1)")
     .on("mouseover", tip.show)
     .on('mouseout', tip.hide);
 
@@ -158,7 +157,7 @@ var visualize2 = function(data) {
     //    return dataScale(50);
       return dataScale(d["3PA"]);
     })
-    .attr("fill", "hsla(197, 100%, 47%, 1)")
+    .attr("fill", "hsla(352, 80%, 50%, 1)")
     .on("mouseover", tip2.show)
     .on('mouseout', tip2.hide);
 
@@ -176,7 +175,7 @@ var visualize2 = function(data) {
       //    return dataScale(50);
         return dataScale(d["3P%"]*100);
       })
-      .attr("fill", "hsla(197, 100%, 47%, 1)")
+      .attr("fill", "hsla(352, 80%, 50%, 1)")
       .on("mouseover", tip3.show)
       .on('mouseout', tip3.hide);
 
@@ -194,7 +193,7 @@ var visualize2 = function(data) {
       //    return dataScale(50);
       return dataScale(d["% of FGs as 3s"]);
     })
-    .attr("fill", "hsla(197, 100%, 47%, 1)")
+    .attr("fill", "hsla(352, 80%, 50%, 1)")
     .on("mouseover", tip4.show)
     .on('mouseout', tip4.hide);
 
@@ -212,7 +211,7 @@ var visualize2 = function(data) {
         //    return dataScale(50);
       return dataScale(d["distance"]);
     })
-    .attr("fill", "hsla(197, 100%, 47%, 1)")
+    .attr("fill", "hsla(352, 80%, 50%, 1)")
     .on("mouseover", tip5.show)
     .on('mouseout', tip5.hide);
 
@@ -232,7 +231,7 @@ var visualize2 = function(data) {
     //    return dataScale(50);
         return dataScale(d["3PM"]);
       })
-      .attr("fill", "hsla(197, 100%, 47%, 1)")
+      .attr("fill", "hsla(352, 80%, 50%, 1)")
       .on("mouseover", tip.show)
       .on('mouseout', tip.hide);
 
@@ -252,7 +251,7 @@ var visualize2 = function(data) {
       //    return dataScale(50);
         return dataScale(d["3PA"]);
       })
-      .attr("fill", "hsla(197, 100%, 47%, 1)")
+      .attr("fill", "hsla(352, 80%, 50%, 1)")
       .on("mouseover", tip2.show)
       .on('mouseout', tip2.hide);
 
@@ -272,7 +271,7 @@ var visualize2 = function(data) {
         //    return dataScale(50);
           return dataScale(d["3P%"]*100);
         })
-        .attr("fill", "hsla(197, 100%, 47%, 1)")
+        .attr("fill", "hsla(352, 80%, 50%, 1)")
         .on("mouseover", tip3.show)
         .on('mouseout', tip3.hide);
 
@@ -292,7 +291,7 @@ var visualize2 = function(data) {
         //    return dataScale(50);
         return dataScale(d["% of FGs as 3s"]);
       })
-      .attr("fill", "hsla(197, 100%, 47%, 1)")
+      .attr("fill", "hsla(352, 80%, 50%, 1)")
       .on("mouseover", tip4.show)
       .on('mouseout', tip4.hide);
 
@@ -312,10 +311,59 @@ var visualize2 = function(data) {
           //    return dataScale(50);
         return dataScale(d["distance"]);
       })
-      .attr("fill", "hsla(197, 100%, 47%, 1)")
+      .attr("fill", "hsla(352, 80%, 50%, 1)")
       .on("mouseover", tip5.show)
       .on('mouseout', tip5.hide);
 
+
+      var teamImage = svg.selectAll("image")
+          .data(data)
+          .enter()
+          .append("g")
+
+      teamImage.append("svg:image")
+          .attr("xlink:href", "http://content.sportslogos.net/logos/6/220/full/au67znem99jyg6d7esach62e4.png")
+          .attr("width", 100)
+          .attr("height", 100)
+          .attr("x", function(d){
+            return width*(3/4) - 50;
+          })
+          .attr("y", function(d){
+            return dataScale(d["3PM"]) - 135;
+          });
+
+      var leftTeamImage = svg.selectAll("leftImage")
+          .data(data)
+          .enter()
+          .append("g")
+
+      teamImage.append("svg:image")
+          .attr("xlink:href", "http://content.sportslogos.net/logos/6/220/full/au67znem99jyg6d7esach62e4.png")
+          .attr("width", 100)
+          .attr("height", 100)
+          .attr("x", function(d){
+            return width*(1/4) - 50;
+          })
+          .attr("y", function(d){
+            return dataScale(d["3PM"]) - 135;
+          });
+/*
+      var teamImage = svg.selectAll("image")
+          .data(data)
+          .enter()
+          .append("g")
+
+      teamImage.append("img")
+        .attr("xlink:href", "http://content.sportslogos.net/logos/6/220/full/au67znem99jyg6d7esach62e4.png")
+        .attr("width", 50)
+        .attr("height", 50)
+        .attr("x", function(d){
+          return width*(3/4);
+        })
+        .attr("y", function(d){
+          return teamScale(d["Team"]);
+        })
+*/
 
 };
 
